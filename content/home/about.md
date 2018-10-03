@@ -10,26 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+  "Knowledge base and knowledge graph",
+  "Network embeddings",
+  "Graph mining",
+  "Natural language processing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD Student in Computer Science"
-  institution = "Massachusetts Institute of Technology"
-  year = 2018
+  institution = "University of California, Los Angeles"
+  year = 2017-Now
 
 [[education.courses]]
   course = "BSc in Automation"
   institution = "Tsinghua University"
-  year = 2017
+  year = 2013-2017
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a first-year Ph.D student of Computer Science Department at University of California, Los Angeles. My advisors are [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
