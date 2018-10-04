@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Knowledge base and knowledge graph",
-    "Network embeddings",
-    "Graph mining",
-    "Natural language processing"
+    "Knowledge Graph",
+    "Network Embeddings",
+    "Graph Mining",
+    "Natural Language Processing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,6 +31,6 @@ weight = 5
 
 # Biography
 
-I am currently a first-year Ph.D student of Computer Science Department at University of California, Los Angeles. My advisors are [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+I am currently a second-year Ph.D student of Computer Science Department at University of California, Los Angeles. My advisors are [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).

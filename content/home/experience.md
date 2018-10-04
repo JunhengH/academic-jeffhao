@@ -20,17 +20,14 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "NEC Lab America"
-  company_url = ""
+  company = "NEC Labs America, Inc"
+  company_url = "http://www.nec-labs.com/"
   location = "Princeton, NJ"
   date_start = "2018-06-25"
   date_end = "2018-09-21"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 +++
