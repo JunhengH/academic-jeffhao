@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Intern"
   company = "NEC Lab America"
-  company_url = "http://www.nec-labs.com"
+  company_url = ""
   location = "Princeton, NJ"
   date_start = "2018-06-25"
   date_end = "2018-09-21"

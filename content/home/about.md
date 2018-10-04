@@ -18,14 +18,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Student in Computer Science"
+  course = "Ph.D. Student in Computer Science"
   institution = "University of California, Los Angeles"
-  year = 2017-Now
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Automation"
+  course = "B.Eng. in Automation"
   institution = "Tsinghua University"
-  year = 2013-2017
+  year = 2017
  
 +++
 
