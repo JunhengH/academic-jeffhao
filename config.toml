@@ -92,8 +92,8 @@ enableGitInfo = false
   map = 2
   map_api_key = ""
   latitude = "34.069189"
-  longitude = "-118.443183"
-  zoom = 18
+  longitude = "-118.443283"
+  zoom = 16
 
   # SITE SETUP
 
