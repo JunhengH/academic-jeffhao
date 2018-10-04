@@ -92,8 +92,8 @@ enableGitInfo = false
   map = 2
   map_api_key = ""
   latitude = "34.069189"
-  longitude = "-118.443079"
-  zoom = 15
+  longitude = "-118.443083"
+  zoom = 20
 
   # SITE SETUP
 
@@ -103,7 +103,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
