@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-  "Knowledge base and knowledge graph",
-  "Network embeddings",
-  "Graph mining",
-  "Natural language processing"
+    "Knowledge base and knowledge graph",
+    "Network embeddings",
+    "Graph mining",
+    "Natural language processing"
   ]
 
 # List your qualifications (such as academic degrees).
