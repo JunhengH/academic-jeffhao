@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Junheng Hao"
-  role = "Computer Science PhD Student"
+  role = "CS PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "jhao@cs.ucla.edu"
   address = "Room 3551A, Boelter Hall, 580 Portola Plaza, Los Angeles, CA 90095"
-  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = "Tuesday 13:00-15:00 at 3256S Boelter Hall (CS145 Office Hours)"
   #phone = "888 888 88 88"
   #skype = "echo123"
   telegram = ""
@@ -89,17 +89,17 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "34.069189"
+  longitude = "-118.443079"
   zoom = 15
 
   # SITE SETUP
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
