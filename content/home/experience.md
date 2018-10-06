@@ -26,8 +26,26 @@ date_format = "January 2006"
   date_start = "2018-06-25"
   date_end = "2018-09-21"
   description = """
-  Responsibilities include:
-  
-  """
+  Project: Multi-source graph knowledge transfer in enterprise security system
 
+[[experience]]
+  title = "Visiting Student"
+  company = "Viterbi School of Engineering, University of Southern California"
+  company_url = "http://www-bcf.usc.edu/~liu32/melady.html"
+  location = "Los Angeles, CA"
+  date_start = "2016-06-27"
+  date_end = "2016-08-05"
+  description = """
+  Project: PhysioNet challenge 2016 - Heart sound recordings classification 
+
+[[experience]]
+  title = "Research Assistant"
+  company = " Department of Automation, Tsinghua University"
+  company_url = "https://www.tsinghua.edu.cn/publish/auen/1713/2014/20140306092552604179400/20140306092552604179400_.html"
+  location = "Beijing, China"
+  date_start = "2015-07-01"
+  date_end = "2016-06-30"
+  description = "Intelligent Transporation Lab"
+  Project: Road network analysis and incident impacts on urban traffic mobility
+  -  
 +++
