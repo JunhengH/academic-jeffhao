@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "http://www.nec-labs.com/"
   location = "Princeton, NJ"
   date_start = "2018-06-25"
-  date_end = 
+  date_end =
   description = """
   Project: Multi-source graph knowledge transfer in enterprise security system
 
