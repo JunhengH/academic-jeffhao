@@ -49,7 +49,7 @@ date_format = "January 2006"
   location = "Beijing, China"
   date_start = "2015-07-01"
   date_end = "2016-06-30"
-  description = "Intelligent Transporation Lab"
-  Project: Road network analysis and incident impacts on urban traffic mobility
-  -  
+  description = """
+  Project: Road network analysis and incident impacts on urban traffic mobility (Intelligent Transporation Lab)
+
 +++
