@@ -36,6 +36,7 @@ I am currently a second-year Ph.D student of Computer Science Department at Univ
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
+- [2018.9] 
 - [2018.7] PC member of [IEEE CDEC 2018](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2018/)
-- [2018.6] I start my summer research internship at NEC Labs America (Princeton) with mentor [Lu-An Tang](http://www.nec-labs.com/lu-an-tang). 
-- [2017.9] PhD student at UCLA
+- [2018.6] Start my summer research internship at [NEC Labs America](http://www.nec-labs.com/research-departments/computer-security/computer-security-home) (Princeton) with mentor [Lu-An Tang](http://www.nec-labs.com/lu-an-tang). 
+- [2017.9] PhD student at UCLA. Go Bruins!
