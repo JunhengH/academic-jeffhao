@@ -29,8 +29,6 @@ date_format = "January 2006"
   Project: Multi-source graph knowledge transfer in enterprise security system
   """
 
-+++
-
 [[experience]]
   title = "Visiting Student"
   company = "Viterbi School of Engineering, University of Southern California"
@@ -42,8 +40,6 @@ date_format = "January 2006"
   Project: PhysioNet challenge 2016 - Heart sound recordings classification
   """
 
-+++
-
 [[experience]]
   title = "Research Assistant"
   company = " Department of Automation, Tsinghua University"
@@ -54,6 +50,4 @@ date_format = "January 2006"
   description = """
   Project: Road network analysis and incident impacts on urban traffic mobility (Intelligent Transporation Lab)
   """
-
-+++
 
