@@ -18,18 +18,23 @@ caption = ""
 Welcome to our seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides and videos.
 
 [\[Fall 2018\]](https://scai.cs.ucla.edu/?page_id=373)
+
 Location: 289 Engeering VI
+
 Schedule:
 
+|:-----:|:---------------------------------------------------:|:----------------------------------:|:------:|:-----:|:----------:|
 |  Date |                        Title                        |               Speaker              | Slides | Video | References |
 |:-----:|:---------------------------------------------------:|:----------------------------------:|:------:|:-----:|:----------:|
 | 10/05 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |   N/A  | N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
 | 10/12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A    |    N/A   |    N/A        |
-|       |                                                     |                                    |        |       |            |
+| 10/19  |                   TBA                   |              TBA            |   TBA      |   TBA     |     TBA       |
 
 [\[Spring 2018\]](http://yunshengb.com/spring-2018-machine-learning-seminar/)
 
 - Topics: Autoencoders, Advanced Graph Convolutional Networks, GAN for Natural Language Processing, Unsupervised Rare Pattern Mining, Influence Maximization on Social Graphs
+- Schedule
+
 
 [\[Winter 2018\]](http://yunshengb.com/winter-2018-machine-learning-seminar/) 
 
