@@ -28,6 +28,8 @@ date_format = "January 2006"
   description = """
   Project: Multi-source graph knowledge transfer in enterprise security system
 
++++
+
 [[experience]]
   title = "Visiting Student"
   company = "Viterbi School of Engineering, University of Southern California"
@@ -37,6 +39,8 @@ date_format = "January 2006"
   date_end = "2016-08-05"
   description = """
   Project: PhysioNet challenge 2016 - Heart sound recordings classification 
+
++++
 
 [[experience]]
   title = "Research Assistant"
