@@ -18,6 +18,7 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Research Intern"
   company = "NEC Labs America, Inc"
@@ -51,3 +52,4 @@ date_format = "January 2006"
   Project: Road network analysis and incident impacts on urban traffic mobility (Intelligent Transporation Lab)
   """
 
++++

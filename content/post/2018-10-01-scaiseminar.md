@@ -13,6 +13,7 @@ list_format = 1
 [header]
 image = ""
 caption = ""
++++
 
 Welcome to our seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides and videos.
 
@@ -21,6 +22,4 @@ Welcome to our seminar on machine learning! Each week, we invite a current resea
 - [\[Winter 2018\]](http://yunshengb.com/winter-2018-machine-learning-seminar/) Topics: Fairness in Machine Learning, Matrix Completion with Graph Neural Networks, Theory and Applications of Wasserstein Distance, Deep Reinforcement Learning, Capsule Networks.
 
 - [\[Fall 2017\]](http://yunshengb.com/fall-2017-machine-learning-seminar/) Topics: Network Embedding, Graph Convolutional Networks (GCN), Multi-task Machine Learning, Generative Adversarial Networks (GAN), etc.
-
-+++
 
