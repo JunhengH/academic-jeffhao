@@ -22,9 +22,9 @@ Location: 289 Engeering VI
 Schedule:
 
 |  Date |                        Title                        |               Speaker              | Slides | Video | References |
-|:-----:|:---------------------------------------------------:|:----------------------------------:|:------:|-------|------------|
+|:-----:|:---------------------------------------------------:|:----------------------------------:|:------:|:-----:|:----------:|
 | 10/05 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |   N/A  | N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
-| 10/12 |               Efficient Deep Learning               |                                    |        |       |            |
+| 10/12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A    |    N/A   |    N/A        |
 |       |                                                     |                                    |        |       |            |
 
 [\[Spring 2018\]](http://yunshengb.com/spring-2018-machine-learning-seminar/)
