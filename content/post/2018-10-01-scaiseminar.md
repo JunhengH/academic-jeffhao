@@ -63,4 +63,4 @@ Schedule:
 | 11/3 | Multimodel: Multi-task Machine Learning Across Domains | [Wasi Ahmad](http://wasiahmad.me/) | [Multi-task](http://yunshengb.com/wp-content/uploads/2017/11/Multi-Task-Machine-Learning.pdf) | [PDF](https://arxiv.org/abs/1706.05137) |
 | 11/17 | Generative Adversarial Networks (GAN) | [Junheng Hao](https://jeffhao.netlify.com/) | [Seminar_GAN](http://yunshengb.com/wp-content/uploads/2017/11/Seminar_GAN-2.pdf) | See Slides|
 | 12/1 | Cross-Domain Data Fusion | [Guangyu Zhou](https://www.linkedin.com/in/guangyuzhou/) | [Data_Fusion](http://yunshengb.com/wp-content/uploads/2017/12/presentation-guangyu.pdf) | [PDF(IEEE'15)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7230259)|
-| 12/8 | Empirical Study and Evaluation Measures of GAN | Yichao(Joey) Zhou | [Gan_Equal](http://yunshengb.com/wp-content/uploads/2017/12/are-gans-created-equal.pdf)| [PDF](https://arxiv.org/pdf/1711.10337.pdf)|
+| 12/8 | Empirical Study and Evaluation Measures of GAN | [Yichao(Joey) Zhou](https://www.linkedin.com/in/zhouyichao/) | [Gan_Equal](http://yunshengb.com/wp-content/uploads/2017/12/are-gans-created-equal.pdf)| [PDF](https://arxiv.org/pdf/1711.10337.pdf)|
