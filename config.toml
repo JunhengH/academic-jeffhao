@@ -51,7 +51,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Junheng Hao"
+  name = "Junheng Hao（郝浚珩）"
   role = "CS PhD Student"
 
   # Organizations/Affiliations.
@@ -340,13 +340,13 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-[languages.zh]
-  languageCode = "zh-Hans"
-  title = "郝浚珩"
-  [languages.zh.params]
-    name = "郝浚珩"
-    role = "加州大学洛杉矶分校计算机系博士生"
-  [[languages.zh.menu.main]]
-    name = "个人简历"
-    url = "#about"
-    weight = 1
+#[languages.zh]
+#  languageCode = "zh-Hans"
+#  title = "郝浚珩"
+#  [languages.zh.params]
+#    name = "郝浚珩"
+#    role = "加州大学洛杉矶分校计算机系博士生"
+#  [[languages.zh.menu.main]]
+#    name = "个人简历"
+#    url = "#about"
+#    weight = 1
