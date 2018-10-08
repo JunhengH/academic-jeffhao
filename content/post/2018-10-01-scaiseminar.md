@@ -23,7 +23,7 @@ Location: Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
 
 Schedule:
 
-|  Date |                        Title                        |               Speaker              | Slides | Video | Refs. |
-|:-----:|:---------------------------------------------------:|:----------------------------------:|:------:|:-----:|:----------:|
-| 10.5 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |   N/A  | N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
-| 10.12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A    |    N/A   |    N/A        |
+|  Date |                        Title                        |               Speaker              |  Video | Refs. |
+|:-----:|:---------------------------------------------------:|:----------------------------------:|:-----:|:----------:|
+| 10.5 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |  N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
+| 10.12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A   |    N/A  |

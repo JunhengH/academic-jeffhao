@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Jeff's Home"
+title = "Jeff's Home（郝浚珩）"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "<br/>Junheng Hao</br>郝浚珩"
+  name = "Junheng Hao郝浚珩"
   role = "CS PhD Student"
 
   # Organizations/Affiliations.
