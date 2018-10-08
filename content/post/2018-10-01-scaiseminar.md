@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-Welcome to our seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides and videos.
+Welcome to ScAI seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides and videos.
 
 [\[Fall 2018\]](https://scai.cs.ucla.edu/?page_id=373)
 

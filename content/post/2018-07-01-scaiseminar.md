@@ -25,10 +25,10 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 | Date | Title | Speaker |  Video | Paper |
 |:----:|:-----:|:-------:|:-----:|:----:|
 | 4.13 | [Unsupervised Learning: Autoencoders](http://yunshengb.com/wp-content/uploads/2018/04/0412018_unsupervised_learning_autoencoders.pdf) | [Yunsheng Bai](http://yunshengb.com/) | [Video 1](https://youtu.be/FAQrMfENLzY) [Video 2](https://youtu.be/2DGAyX9bthc) | N/A |
-| 4.27 | [Progress of Graph Convolutional Networks](http://yunshengb.com/wp-content/uploads/2018/04/GCN-Progress.pdf) |  [Cheng Zheng](https://cheng-cz.github.io/) | N/A | [ICLR'18](https://arxiv.org/abs/1801.10247), [AAAI'18](https://arxiv.org/abs/1801.07455) |
+| 4.27 | [Progress of Graph Convolutional Networks](http://yunshengb.com/wp-content/uploads/2018/04/GCN-Progress.pdf) |  [Cheng Zheng](https://cheng-cz.github.io/) | N/A | [ICLR'18](https://arxiv.org/abs/1801.10247) [AAAI'18](https://arxiv.org/abs/1801.07455) |
 | 5.4 | [GAN for Natural Language Processing](http://yunshengb.com/wp-content/uploads/2018/04/seqgan.pdf) | Ruirui Li | [Video](https://youtu.be/XF0NDdRDTpE) | [AAAI'17](https://arxiv.org/abs/1609.05473) |
-| 5.11 | [Unsupervised Rare Pattern Mining](http://yunshengb.com/wp-content/uploads/2018/04/Unsupervised-Rare-Pattern-Mining.pdf) | Jiaqi Zhu | [Video](https://youtu.be/Bt4rYRJJxzU) | [TKDE'16](https://ieeexplore.ieee.org/document/7431989), [TKDD'16](https://dl.acm.org/citation.cfm?id=2898359), [SIGKDD'17](https://arxiv.org/abs/1708.01967) |
-| 5.25 | [Influence Maximization on Social Graphs](http://yunshengb.com/wp-content/uploads/2018/05/im_ucla_ml_ytwen0525.pdf) | Yuting Wen | [Video](https://youtu.be/XiELAbdqF9g) | [WSDM'17](https://dl.acm.org/citation.cfm?id=3018705), [CIKM'16](https://dl.acm.org/citation.cfm?id=2983724) |
+| 5.11 | [Unsupervised Rare Pattern Mining](http://yunshengb.com/wp-content/uploads/2018/04/Unsupervised-Rare-Pattern-Mining.pdf) | Jiaqi Zhu | [Video](https://youtu.be/Bt4rYRJJxzU) | [TKDE'16](https://ieeexplore.ieee.org/document/7431989) [TKDD'16](https://dl.acm.org/citation.cfm?id=2898359) [SIGKDD'17](https://arxiv.org/abs/1708.01967) |
+| 5.25 | [Influence Maximization on Social Graphs](http://yunshengb.com/wp-content/uploads/2018/05/im_ucla_ml_ytwen0525.pdf) | Yuting Wen | [Video](https://youtu.be/XiELAbdqF9g) | [WSDM'17](https://dl.acm.org/citation.cfm?id=3018705) [CIKM'16](https://dl.acm.org/citation.cfm?id=2983724) |
 
 [\[Winter 2018\]](http://yunshengb.com/winter-2018-machine-learning-seminar/) 
 
@@ -37,7 +37,7 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 
 | Date | Title | Speaker |  Paper |
 |:----:|:-----:|:-------:|:----:|
-| 2.2 | [Fairness in Machine Learning](http://yunshengb.com/wp-content/uploads/2018/02/Fairness-presentation.pdf) | [Jieyu Zhao](http://jyzhao.net/)  | NIPS'16/17 [PDF1](https://arxiv.org/abs/1709.02012) [PDF2](http://people.cs.vt.edu/~bhuang/papers/yao-nips17.pdf) [PDF3](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)    | 
+| 2.2 | [Fairness in Machine Learning](http://yunshengb.com/wp-content/uploads/2018/02/Fairness-presentation.pdf) | [Jieyu Zhao](http://jyzhao.net/)  | NIPS'16/NIPS'17 [PDF1](https://arxiv.org/abs/1709.02012) [PDF2](http://people.cs.vt.edu/~bhuang/papers/yao-nips17.pdf) [PDF3](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)    | 
 | 2.23 | [Matrix Completion with Graph Neural Networks](http://yunshengb.com/wp-content/uploads/2018/02/Geometric-matrix-completion.pdf) | Qin Zhang | NIPS'16/STAT'17 [PDF1](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf) [PDF2](https://arxiv.org/abs/1706.02263) | 
 | 3.2 | [Theory and Applications of Wasserstein Distance](http://yunshengb.com/wp-content/uploads/2018/03/03022018_Wasserstein_presentation.pdf) | [Yunsheng Bai](http://yunshengb.com/) | CVPR'04/ICML'15 [PDF1](https://arxiv.org/abs/1701.07875) [PDF2](http://www.cs.utexas.edu/~grauman/papers/grauman_darrell_cvpr2004.pdf) [PDF3](http://proceedings.mlr.press/v37/kusnerb15.pdf) |
 | 3.9 | [Deep Reinforcement Learning](http://yunshengb.com/wp-content/uploads/2018/03/Seminar_Changjun_Fan.pdf) | Changjun Fan  | Nature'16/NIPS'17 [PDF1](https://www.nature.com/articles/nature14236) [PDF2](https://arxiv.org/abs/1704.01665) |
