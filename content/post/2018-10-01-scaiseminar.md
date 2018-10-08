@@ -1,6 +1,6 @@
 +++
 title = "ScAI Machine Learning Seminar, Fall 2018 (Updating)"
-date = 2017-01-01T00:00:00
+date = 2018-10-07T00:00:00
 math = false
 highlight = true
 
@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-Welcome to ScAI seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides and videos.
+Welcome to our ScAI seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides and videos.
 
 [\[Fall 2018\]](https://scai.cs.ucla.edu/?page_id=373)
 
