@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-- [CS145](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html): Introduction to Data Mining (Instructor: [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/index.html)) 
+- \[Fall 2018\] [CS145](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html): Introduction to Data Mining (Instructor: [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/index.html))
