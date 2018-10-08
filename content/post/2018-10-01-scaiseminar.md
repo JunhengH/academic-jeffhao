@@ -27,4 +27,3 @@ Schedule:
 |:-----:|:---------------------------------------------------:|:----------------------------------:|:------:|:-----:|:----------:|
 | 10.5 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |   N/A  | N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
 | 10.12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A    |    N/A   |    N/A        |
-| 10.19  |                   TBA                   |              TBA            |   TBA      |   TBA     |     TBA       |
