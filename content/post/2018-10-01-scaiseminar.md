@@ -4,7 +4,7 @@ date = 2018-10-07T00:00:00
 math = false
 highlight = true
 
-# List format.
+# List fomat.
 #   0 = Simple
 #   1 = Detailed
 list_format = 1
@@ -27,3 +27,4 @@ Schedule:
 |:-----:|:---------------------------------------------------:|:----------------------------------:|:-----:|:----------:|
 | 10.5 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |  N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
 | 10.12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A   |    N/A  |
+| 10.19 |       Optimization from A Continuous-time View               |[Pan Xu](http://web.cs.ucla.edu/~panxu/)|    N/A   |    N/A  |
