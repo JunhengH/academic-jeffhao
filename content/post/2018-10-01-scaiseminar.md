@@ -27,4 +27,5 @@ Schedule:
 |:-----:|:---------------------------------------------------:|:----------------------------------:|:-----:|:----------:|
 | 10.5 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |  N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
 | 10.12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A   |    N/A  |
-| 10.19 |       Optimization from A Continuous-time View               |[Pan Xu](http://web.cs.ucla.edu/~panxu/)|    N/A   |    N/A  |
+| 10.19 |       Optimization from A Continuous-time View               |[Pan Xu](http://web.cs.ucla.edu/~panxu/)|   [PDF](http://proceedings.mlr.press/v80/xu18g/xu18g.pdf)   |   [Slides](https://drive.google.com/file/d/1Rkpt9OXhCjmd8y2oZWnaVRiJl0mN7L2y/view)] |
+| 10.26 |       Conversational Question Answering               |[Scott Wen-tau Yih](http://scottyih.org/)|   N/A  |  N/A |
