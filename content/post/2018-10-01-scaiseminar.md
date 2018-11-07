@@ -25,7 +25,8 @@ Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Video | Refs. |
 |:-----:|:---------------------------------------------------:|:----------------------------------:|:-----:|:----------:|
-| 10.5 | CoQA: A Conversational Question Answering Challenge | [Siva Reddy](http://sivareddy.in/) |  N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
+| 10.5 | [CoQA: A Conversational Question Answering Challenge](https://drive.google.com/file/d/1UJj8L2WMNIRMXiTwcy4YH-Q9IihQTxVP/view) | [Siva Reddy](http://sivareddy.in/) |  N/A   | [PDF](https://arxiv.org/abs/1808.07042)        |
 | 10.12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    N/A   |    N/A  |
 | 10.19 |       [Optimization from A Continuous-time View](https://drive.google.com/file/d/1Rkpt9OXhCjmd8y2oZWnaVRiJl0mN7L2y/view)               |[Pan Xu](http://web.cs.ucla.edu/~panxu/)|   N/A  |  [PDF](http://proceedings.mlr.press/v80/xu18g/xu18g.pdf)  |
-| 10.26 |       Conversational Question Answering               |[Scott Wen-tau Yih](http://scottyih.org/)|   N/A  |  N/A |
+| 10.26 |      [Conversational Question Answering](https://drive.google.com/file/d/1C6O7Ic2lXqLVT2hARlqkBbASmTqwGiaR/view)               |[Scott Wen-tau Yih](http://scottyih.org/)|   N/A  |  N/A |
+| 11.2 |       [Modeling and Distinguishing User Behaviors on the Web](https://drive.google.com/file/d/1mFS4aEMcjgKvT8mPIC5wyRQZYvZYmIiv/view)              ||   [Jyun-yu Jiang](https://jyunyu.csie.org/)  |  N/A |
