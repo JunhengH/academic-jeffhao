@@ -31,3 +31,5 @@ Schedule:
 | 10.26 |      [Conversational Question Answering](https://drive.google.com/file/d/1C6O7Ic2lXqLVT2hARlqkBbASmTqwGiaR/view)               |[Scott Wen-tau Yih](http://scottyih.org/)|   N/A |
 | 11.2 |       [Modeling and Distinguishing User Behaviors on the Web](https://drive.google.com/file/d/1mFS4aEMcjgKvT8mPIC5wyRQZYvZYmIiv/view)              |[Jyun-yu Jiang](https://jyunyu.csie.org/)  | N/A |
 | 11.9 | Diversity-promoting and Large-scale ML for Healthcare | [Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/) | N/A|
+| 11.16 | [Adopting Machine Learning techniques in Database System](https://drive.google.com/file/d/1ACaMp_Mg0U3TdaDDEQUIDJFm1o2MqdkM/view) | [Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/) | [PDF](https://dl.acm.org/citation.cfm?id=3196909) |
+| 11.30 | Learning to Generate Language and Actions with Structured Agents | [William Wang](https://www.cs.ucsb.edu/~william/) | N/A |
