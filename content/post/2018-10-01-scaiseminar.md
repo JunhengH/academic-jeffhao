@@ -32,4 +32,6 @@ Schedule:
 | 11.2 |       [Modeling and Distinguishing User Behaviors on the Web](https://drive.google.com/file/d/1mFS4aEMcjgKvT8mPIC5wyRQZYvZYmIiv/view)              |[Jyun-yu Jiang](https://jyunyu.csie.org/)  | N/A |
 | 11.9 | Diversity-promoting and Large-scale ML for Healthcare | [Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/) | N/A|
 | 11.16 | [Adopting Machine Learning techniques in Database System](https://drive.google.com/file/d/1ACaMp_Mg0U3TdaDDEQUIDJFm1o2MqdkM/view) | [Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/) | [PDF](https://dl.acm.org/citation.cfm?id=3196909) |
-| 11.30 | Learning to Generate Language and Actions with Structured Agents | [William Wang](https://www.cs.ucsb.edu/~william/) | N/A |
+| 11.30 | [Learning to Generate Language and Actions with Structured Agents](https://drive.google.com/file/d/1i83zz6GiQYpqeVp-Kdto5LPzu2gBEz_u/view) | [William Wang](https://www.cs.ucsb.edu/~william/) | [PDF](https://arxiv.org/abs/1711.11135) |
+| 12.7  | Democratize Data Science: NLI to Data | [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/) | N/A|
+| 12.14 | TBA | [Heng Ji](http://nlp.cs.rpi.edu/hengji.html) | N/A |
