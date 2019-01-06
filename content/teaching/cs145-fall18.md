@@ -15,8 +15,7 @@ image = ""
 caption = ""
 +++
 
-Discussion Materials for CS145, instructed by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/).
-More details on [course website](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html). 
+Discussion Materials for CS145, instructed by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/). More details on [course website](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html). 
 
 |  Date |                        Content                      |          Slides & Links            |
 |:-----:|:---------------------------------------------------:|:----------------------------------:|
