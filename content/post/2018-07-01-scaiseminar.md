@@ -38,7 +38,7 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 - Schedule
 
 | Date | Title | Speaker |  Paper |
-|:----:|:-----:|:-------:|:----:|
+|:-----|:------|:--------|:------ |
 | 2.2 | [Fairness in Machine Learning](http://yunshengb.com/wp-content/uploads/2018/02/Fairness-presentation.pdf) | [Jieyu Zhao](http://jyzhao.net/) | NIPS'16/NIPS'17<br>  [PDF1](https://arxiv.org/abs/1709.02012) [PDF2](http://people.cs.vt.edu/~bhuang/papers/yao-nips17.pdf) [PDF3](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)    | 
 | 2.23 | [Matrix Completion with Graph Neural Networks](http://yunshengb.com/wp-content/uploads/2018/02/Geometric-matrix-completion.pdf) | Qin Zhang | NIPS'16/STAT'17<br> [PDF1](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf) [PDF2](https://arxiv.org/abs/1706.02263) | 
 | 3.2 | [Theory and Applications of Wasserstein Distance](http://yunshengb.com/wp-content/uploads/2018/03/03022018_Wasserstein_presentation.pdf) | [Yunsheng Bai](http://yunshengb.com/) | CVPR'04 ICML'15<br> [PDF1](https://arxiv.org/abs/1701.07875) [PDF2](http://www.cs.utexas.edu/~grauman/papers/grauman_darrell_cvpr2004.pdf) [PDF3](http://proceedings.mlr.press/v37/kusnerb15.pdf) |
@@ -51,7 +51,7 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 - Schedule
 
 | Date | Title | Speaker | Paper |
-|:----:|:-----:|:-------:|:----:|
+|:-----|:------|:--------|:------|
 | 10.13 | [Network Embedding: Overview of Popular Methods](http://yunshengb.com/wp-content/uploads/2017/10/network_embedding_review.pdf) | [Cheng Zheng](https://cheng-cz.github.io/) | See Slides |
 | 10.20 | [Graph Convolutional Networks (GCN)](http://yunshengb.com/wp-content/uploads/2017/10/10202017_GCN_Presentation-1.pdf) | [Yunsheng Bai](http://yunshengb.com/) | ICLR'17 [PDF](https://arxiv.org/abs/1609.02907)  |
 | 11.3 | [Multimodel: Multi-task Machine Learning Across Domains](http://yunshengb.com/wp-content/uploads/2017/11/Multi-Task-Machine-Learning.pdf) | [Wasi Ahmad](http://wasiahmad.me/) | [PDF](https://arxiv.org/abs/1706.05137) |

@@ -22,7 +22,7 @@ Archive of ScAI machine learning seminar in Fall quarter, 2018.
 Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
-|:-----:|:---------------------------------------------------:|:----------------------------------:|:----------:|
+|:------|:----------------------------------------------------|:-----------------------------------|:-----------|
 | 10.5 | [CoQA: A Conversational Question Answering Challenge](https://drive.google.com/file/d/1UJj8L2WMNIRMXiTwcy4YH-Q9IihQTxVP/view) | [Siva Reddy](http://sivareddy.in/) |  [PDF](https://arxiv.org/abs/1808.07042)        |
 | 10.12 |               Efficient Deep Learning               |[Ting Chen](http://web.cs.ucla.edu/~tingchen/)|    [PDF](https://arxiv.org/pdf/1806.09464.pdf)  |
 | 10.19 |       [Optimization from A Continuous-time View](https://drive.google.com/file/d/1Rkpt9OXhCjmd8y2oZWnaVRiJl0mN7L2y/view)               |[Pan Xu](http://web.cs.ucla.edu/~panxu/)|   [PDF](http://proceedings.mlr.press/v80/xu18g/xu18g.pdf)  |

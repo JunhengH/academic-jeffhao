@@ -24,6 +24,6 @@ Location: Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
 Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
-|:-----:|:---------------------------------------------------:|:----------------------------------:|:----------:|
+|:------|:----------------------------------------------------|:-----------------------------------|:-----------|
 | 1.11 | Multi-relational Knowledge Representation and Acquisition | [Muhao Chen](http://yellowstone.cs.ucla.edu/~muhao/) |  N/A |
 | 1.18 | Grounding Reinforcement Learning with Real-world Dialog Applications | [Zhou Yu](http://zhouyu.cs.ucdavis.edu/) |  N/A |
