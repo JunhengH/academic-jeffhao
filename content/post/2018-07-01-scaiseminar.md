@@ -25,7 +25,7 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 - Schdule
 
 | Date | Title | Speaker |  Video | Paper |
-|:----:|:-----:|:-------:|:-----:|:----:|
+|:-----|:------|:--------|:------ |:----- |
 | 4.13 | [Unsupervised Learning: Autoencoders](http://yunshengb.com/wp-content/uploads/2018/04/0412018_unsupervised_learning_autoencoders.pdf) | [Yunsheng Bai](http://yunshengb.com/) | [Video 1](https://youtu.be/FAQrMfENLzY) [Video 2](https://youtu.be/2DGAyX9bthc) | N/A |
 | 4.27 | [Progress of Graph Convolutional Networks](http://yunshengb.com/wp-content/uploads/2018/04/GCN-Progress.pdf) |  [Cheng Zheng](https://cheng-cz.github.io/) | N/A | [ICLR'18](https://arxiv.org/abs/1801.10247) [AAAI'18](https://arxiv.org/abs/1801.07455) |
 | 5.4 | [GAN for Natural Language Processing](http://yunshengb.com/wp-content/uploads/2018/04/seqgan.pdf) | Ruirui Li | [Video](https://youtu.be/XF0NDdRDTpE) | [AAAI'17](https://arxiv.org/abs/1609.05473) |
