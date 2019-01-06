@@ -17,6 +17,8 @@ caption = ""
 
 Archive of ScAI machine learning seminar in 2017-18 academic year.
 
+[\[Current Seminar\]](https://www.haojunheng.com/post/2019-01-01-scaiseminar/)
+
 [\[Spring 2018\]](http://yunshengb.com/spring-2018-machine-learning-seminar/)
 
 - Topics: Autoencoders, Advanced Graph Convolutional Networks, GAN for Natural Language Processing, Unsupervised Rare Pattern Mining, Influence Maximization on Social Graphs

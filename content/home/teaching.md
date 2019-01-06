@@ -14,5 +14,5 @@ subtitle = "@UCLA"
 weight = 60
 
 +++
-- \[Winter 2018\] [CS32](http://web.cs.ucla.edu/classes/winter19/cs32/): Introduction to Computer Science II (Instructor: David Smallberg & Carey Nachenberg) &rightarrow [Discussion Page](https://www.haojunheng.com/teaching/cs32-winter19/)
-- \[Fall 2018\] [CS145](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html): Introduction to Data Mining (Instructor: [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/index.html)) &rightarrow [Discussion Page](https://www.haojunheng.com/teaching/cs145-fall18/)
+- \[Winter 2018\] [CS32](http://web.cs.ucla.edu/classes/winter19/cs32/): Introduction to Computer Science II (Instructor: David Smallberg & Carey Nachenberg) <span>&#10230;</span> [Discussion Page](https://www.haojunheng.com/teaching/cs32-winter19/)
+- \[Fall 2018\] [CS145](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html): Introduction to Data Mining (Instructor: [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/index.html)) <span>&#10230;</span> [Discussion Page](https://www.haojunheng.com/teaching/cs145-fall18/)

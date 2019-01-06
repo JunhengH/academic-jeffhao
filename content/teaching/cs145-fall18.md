@@ -19,4 +19,4 @@ Discussion Materials for CS145, instructed by [Yizhou Sun](http://web.cs.ucla.ed
 
 |  Date |                        Content                      |          Slides & Links            |
 |:-----:|:---------------------------------------------------:|:----------------------------------:|
-| Week 1(Oct. 5) | Math review (Basic linear algebra, probabilities, optimization) | [Slides](https://www.haojunheng.com/files/cs145-f18/Discussion_Week1.pptx), [Math essentials (UW)](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)|
+| Oct. 5 | Math review (Basic linear algebra, probabilities, optimization) | [Slides Week1](https://www.haojunheng.com/files/cs145-f18/Discussion_Week1.pptx), [Math essentials (UW)](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)|
