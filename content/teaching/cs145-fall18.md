@@ -2,7 +2,7 @@ Discussion Materials for CS+++
 title = "CS145(Winter 2018) Discussion Materials"
 date = 2018-10-07T00:00:00
 math = false
-highlight = true
+highlight = false
 
 # List fomat.
 #   0 = Simple

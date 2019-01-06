@@ -2,7 +2,7 @@
 title = "ScAI Machine Learning Seminar (2017-18 Archive)"
 date = 2018-09-01T00:00:00
 math = false
-highlight = false
+highlight = true
 
 # List format.
 #   0 = Simple
