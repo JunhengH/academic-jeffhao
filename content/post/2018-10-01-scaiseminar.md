@@ -2,7 +2,7 @@
 title = "ScAI Machine Learning Seminar, Fall 2018 (Updating)"
 date = 2018-10-07T00:00:00
 math = false
-highlight = true
+highlight = false
 
 # List fomat.
 #   0 = Simple
@@ -15,11 +15,7 @@ image = ""
 caption = ""
 +++
 
-Welcome to our ScAI seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides and videos.
-
-[\[Fall 2018\]](https://scai.cs.ucla.edu/?page_id=373)
-
-Location: Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
+Archive of ScAI machine learning seminar in Fall quarter, 2018.
 
 Schedule:
 
