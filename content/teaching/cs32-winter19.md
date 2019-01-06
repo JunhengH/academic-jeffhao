@@ -15,4 +15,16 @@ image = ""
 caption = ""
 +++
 
+Course Info:
+* Instructor: David Smallberg/Carey Nachenberg
+* Lecture time: TBD
+* Course website: TBD
 
+Discussion Info: 
+* Time: TBD
+* Place: TBD
+
+Discussion Materials:
+|  Date |                        Content                      |          Slides & Links            |
+|:-----:|:---------------------------------------------------:|:----------------------------------:|
+| Week 2(Jan. 19) | TBD | TBD |
