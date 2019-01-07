@@ -62,9 +62,9 @@ enableGitInfo = false
   avatar = "self.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jhao@cs.ucla.edu"
+  email = "jhao [AT] cs.ucla.edu"
   address = "Room 3551A, Boelter Hall, 580 Portola Plaza, Los Angeles, CA 90095"
-  office_hours = "Tuesday 9:30-11:30am at 3256S Boelter Hall (CS145 Office Hours)"
+  office_hours = "Thursday 8:30-11:30am at 3256S Boelter Hall (CS32 Office Hours)"
   #phone = "888 888 88 88"
   #skype = "echo123"
   telegram = ""
@@ -89,7 +89,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 3
+  map = 0
   map_api_key = ""
   latitude = "34.069189"
   longitude = "-118.443203"
@@ -112,7 +112,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "Jeff_Haojh"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
