@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-Course Info:
+**Course Info:**
 
 * Instructor: David Smallberg/Carey Nachenberg
 
@@ -23,19 +23,19 @@ Course Info:
 
 * Course website: [http://web.cs.ucla.edu/classes/winter19/cs32/](http://web.cs.ucla.edu/classes/winter19/cs32/)
 
-Office Hours (hosted by Junheng):
+**Office Hours (hosted by Junheng):**
 
 * Time: Thursday 8:30am-9:30am & 11:30am-1:30pm (starts from Jan. 17)
 
 * Location: Boelter Hall 3256S
 
-Discussion Info (Dis 2B, instructed by Junheng): 
+**Discussion Info (Dis 2B, instructed by Junheng):**
 
 * Time: Friday 12pm-1:50pm (starts from Jan. 19)
 
 * Location: Rolfe Hall 3134
 
-Discussion Materials:
+**Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|

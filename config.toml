@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "jhao [AT] cs.ucla.edu"
   address = "Room 3551A, Boelter Hall, 580 Portola Plaza, Los Angeles, CA 90095"
-  office_hours = "Thursday 8:30-11:30am at 3256S Boelter Hall (CS32 Office Hours)"
+  office_hours = "Thursday 8:30am-9:30am & 11:30am-1:30pm at 3256S Boelter Hall (CS32 Office Hours)"
   #phone = "888 888 88 88"
   #skype = "echo123"
   telegram = ""
