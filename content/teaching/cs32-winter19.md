@@ -23,7 +23,7 @@ caption = ""
 
 * Course website: [http://web.cs.ucla.edu/classes/winter19/cs32/](http://web.cs.ucla.edu/classes/winter19/cs32/)
 
-** TA & LA Info (Dis 2B):**
+** TA & LA Info (Dis 2B): **
 
 * TA: Junheng Hao, Email: haojh.ucla@gmail.com (for CS32 only)
 
