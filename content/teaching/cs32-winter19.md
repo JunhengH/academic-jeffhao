@@ -25,11 +25,11 @@ caption = ""
 
 **TA & LA Info (Dis 2B):**
 
-* TA: Junheng Hao, Email: haojh.ucla@gmail.com (for CS32 only)
+* TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only)
 
 * TA office hours: Thursday 8:30am-9:30am & 11:30am-1:30pm @BH3256S
 
-* LA: Ramya Satish
+* LA: Ramya Satish, email: ramyasatish1997 [AT] ucla [DOT] edu
 
 * LA office hours: TBD
 
