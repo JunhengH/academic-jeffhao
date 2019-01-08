@@ -23,11 +23,15 @@ caption = ""
 
 * Course website: [http://web.cs.ucla.edu/classes/winter19/cs32/](http://web.cs.ucla.edu/classes/winter19/cs32/)
 
-**Office Hours (hosted by Junheng):**
+** TA & LA Info (Dis 2B):**
 
-* Time: Thursday 8:30am-9:30am & 11:30am-1:30pm (starts from Jan. 17)
+* TA: Junheng Hao, Email: haojh.ucla@gmail.com (for CS32 only)
 
-* Location: Boelter Hall 3256S
+* TA office hours: Thursday 8:30am-9:30am & 11:30am-1:30pm @BH3256S
+
+* LA: Ramya Satish
+
+* LA office hours: TBD
 
 **Discussion Info (Dis 2B, instructed by Junheng):**
 
