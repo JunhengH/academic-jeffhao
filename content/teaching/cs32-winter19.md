@@ -31,7 +31,7 @@ caption = ""
 
 * LA: Ramya Satish, email: ramyasatish1997 [AT] ucla [DOT] edu
 
-* LA office hours: TBD
+* LA office hours: Thursday 8:30am-9:30am & 4:30pm-5:30pm @BH3256S
 
 **Discussion Info (Dis 2B, instructed by Junheng):**
 
@@ -49,4 +49,4 @@ caption = ""
 
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 19 | TBD | TBD |
+| Jan. 18 | TBD | TBD |
