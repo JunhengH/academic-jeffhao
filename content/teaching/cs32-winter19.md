@@ -49,4 +49,4 @@ caption = ""
 
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 18 | TBD | TBD |
+| Jan. 18 | Class construction, destructor, copy constructor, assignment operator, arrays | \[Slides\]  \[Worksheet 1\]|
