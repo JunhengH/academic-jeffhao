@@ -49,5 +49,5 @@ caption = ""
 
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 18 | Class construction, destructor, copy constructor, assignment operator, arrays | \[Slides\]  [\[Worksheet 1\]]((https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf))| \[Worksheet 1 Solution\]|
-| Feb. 1  | | |
+| Jan. 18 | Class construction, destructor, copy constructor, assignment operator, arrays | \[Slides\]  [\[Worksheet 1\]]((https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf)) \[Worksheet 1 Solution\]|
+| Feb. 1  | *** | *** |
