@@ -45,6 +45,8 @@ caption = ""
 
 * *\[Updated Jan. 10\]* Project 1 is released and due on Jan. 15 (Tuesday).
 
+* *\[Updated Jan. 17\]* Homework is released and due on Jan. 22 (Tuesday).
+
 **Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
