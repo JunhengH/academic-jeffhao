@@ -41,13 +41,13 @@ caption = ""
 
 **Announcement:**
 
-* *\[Updated Jan. 9\]* There are no discussion sessions on the first and third week (Jan. 11 and Jan. 25). Prof. Smallberg will hold lectures instead. Check the [course syllabus](http://web.cs.ucla.edu/classes/winter19/cs32/).
+* *\[Jan. 9\]* There are no discussion sessions on the first and third week (Jan. 11 and Jan. 25). Prof. Smallberg will hold lectures instead. Check the [course syllabus](http://web.cs.ucla.edu/classes/winter19/cs32/).
 
-* *\[Updated Jan. 10\]* Project 1 is released and due on Jan. 15 (Tuesday).
+* *\[Jan. 10\]* Project 1 is released and due on Jan. 15 (Tuesday).
 
-* *\[Updated Jan. 17\]* Homework is released and due on Jan. 22 (Tuesday).
+* *\[Jan. 17\]* Homework is released and due on Jan. 22 (Tuesday).
 
-* *\[Updated Jan. 19\]* Slides Week 1 is updated about class composition example with sample code.
+* *\[Jan. 18\]* Slides Week 1 is updated about class composition examples with sample code.
 
 **Discussion Materials:**
 
