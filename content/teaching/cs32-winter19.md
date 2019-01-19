@@ -35,7 +35,7 @@ caption = ""
 
 **Discussion Info (Dis 2B, instructed by Junheng):**
 
-* Time: Friday 12pm-1:50pm (starts from Jan. 19)
+* Time: Friday 12pm-1:50pm (except week 1 & 3)
 
 * Location: Rolfe Hall 3134
 
@@ -47,9 +47,11 @@ caption = ""
 
 * *\[Updated Jan. 17\]* Homework is released and due on Jan. 22 (Tuesday).
 
+* *\[Updated Jan. 19\]* Slides Week 1 is updated about class composition example with sample code.
+
 **Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 18 | Class construction, destructor, copy constructor, assignment operator, arrays | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week2.pdf)  [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf) \[Worksheet 1 Solution\]|
+| Jan. 18 | Class construction, destructor, copy constructor, assignment operator, arrays | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week2.pdf)  [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf) \[Worksheet 1 Solution\] \[Code\](https://www.haojunheng.com/files/cs32-w19/sample_code_week2.zip) |
 | Feb. 1  | *** | *** |
