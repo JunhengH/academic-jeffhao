@@ -53,5 +53,5 @@ caption = ""
 
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 18 | Class construction, destructor, copy constructor, assignment operator, arrays | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week2.pdf)  [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf) \[Worksheet 1 Solution\] \[Code\](https://www.haojunheng.com/files/cs32-w19/sample_code_week2.zip) |
+| Jan. 18 | Class construction, destructor, copy constructor, assignment operator, arrays | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week2.pdf)  [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf) \[Worksheet 1 Solution\] [\[Code\]](https://www.haojunheng.com/files/cs32-w19/sample_code_week2.zip) |
 | Feb. 1  | *** | *** |
