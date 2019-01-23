@@ -45,7 +45,7 @@ caption = ""
 
 * *\[Jan. 10\]* Project 1 is released and due on Jan. 15 (Tuesday).
 
-* *\[Jan. 17\]* Homework is released and due on Jan. 22 (Tuesday).
+* *\[Jan. 17\]* Homework 1 is released and due on Jan. 22 (Tuesday).
 
 * *\[Jan. 18\]* Slides Week 1 is updated about class composition examples with sample code.
 
