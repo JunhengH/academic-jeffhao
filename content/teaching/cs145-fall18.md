@@ -1,5 +1,5 @@
 +++
-title = "CS145(Fall 2018) Discussion Materials"
+title = "CS145 (Fall 2018) Discussion Materials"
 date = 2018-10-07T00:00:00
 math = false
 highlight = false
