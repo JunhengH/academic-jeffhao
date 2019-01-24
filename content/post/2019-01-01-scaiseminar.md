@@ -25,6 +25,6 @@ Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-----------|
-| 1.11 | [Multi-relational Knowledge Representation and Acquisition](https://drive.google.com/file/d/1VysxrhUCKDdU8H3MojcpGr-oN0WvL2_b/view) | [Muhao Chen](http://yellowstone.cs.ucla.edu/~muhao/) |  N/A |
+| 1.11 | [Multi-relational Knowledge Representation and Acquisition](https://drive.google.com/file/d/1VysxrhUCKDdU8H3MojcpGr-oN0WvL2_b/view) | [Muhao Chen](http://yellowstone.cs.ucla.edu/~muhao/) | [PDF](https://www.ijcai.org/proceedings/2018/0556.pdf) |
 | 1.18 | [Grounding Reinforcement Learning with Real-world Dialog Applications](https://drive.google.com/open?id=1ijoSOOfJdtzHViZMCGTPNKAYxcXRKORX) | [Zhou Yu](http://zhouyu.cs.ucdavis.edu/) |  N/A |
 | 1.25 | Combining Behavioral and Generative Models for Product Recommendation and Design  | [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)| N/A|
