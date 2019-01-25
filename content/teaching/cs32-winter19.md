@@ -51,7 +51,7 @@ caption = ""
 
 * *\[Jan. 23\]* Project 2 is release and due on Jan. 29 (Tuesday). 
 
-* *\[Jan. 24\]* Please [sign up](http://web.cs.ucla.edu/classes/winter19/cs32/collectexam.cgi?exam=mt1) to a midterm time (either 5:15 to 6:20 in Moore 100, 5:30 to 6:35 in Franz 1178, 5:45 to 6:50 in WGYoung CS24, or 6:00 to 7:05 in WGYoung CS76, Wednesday, January 30). The open-book midterm covers topics up to up to and including linked lists (not stacks and queues, not inheritance).
+* *\[Jan. 24\]* Please [sign up](http://web.cs.ucla.edu/classes/winter19/cs32/collectexam.cgi?exam=mt1) to a midterm time (either 5:15 to 6:20 in Moore 100, 5:30 to 6:35 in Franz 1178, 5:45 to 6:50 in WGYoung CS24, or 6:00 to 7:05 in WGYoung CS76, Wednesday, **January 30**). The open-book midterm covers topics up to up to and including linked lists (not stacks and queues, not inheritance).
 
 **Discussion Materials:**
 
