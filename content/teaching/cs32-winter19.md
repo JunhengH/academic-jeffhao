@@ -62,7 +62,7 @@ caption = ""
 | Jan. 25 | No discussion today. Please attend lectures and check out midterm practice problems. | [\[Midterm Practice 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1PracticeSolution.pdf) [\[Midterm Practice 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1PracticeSolution.pdf) |
 | Feb. 1  | Linked list, stack, queue  | *** |
 
-** Supplemental material from other CS32 TAs **
+**Supplemental material from other CS32 TAs**
 
 [\[ Dis 1B: Jack Gong\]](https://drive.google.com/drive/folders/1DkTdV62hpS057MV2zKkehglvs9b0LuFT), 
 [\[ Dis 1C: Trevor Hackett\]](https://drive.google.com/drive/folders/1hYW5Jmkz5bjdr5YaKpoq8HTEQV8Upg4x), 
