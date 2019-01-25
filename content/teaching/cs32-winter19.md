@@ -64,12 +64,12 @@ caption = ""
 
 **Supplemental material from other CS32 TAs**
 
-[\[ Dis 1B: Jack Gong\]](https://drive.google.com/drive/folders/1DkTdV62hpS057MV2zKkehglvs9b0LuFT), 
-[\[ Dis 1C: Trevor Hackett\]](https://drive.google.com/drive/folders/1hYW5Jmkz5bjdr5YaKpoq8HTEQV8Upg4x), 
-[\[ Dis 1E: Qianru Li\]](https://drive.google.com/drive/folders/1CT-kBNJlQ9RwyTfuQRaiKNyMU53nGeXL),
-[\[ Dis 2A: Angelina Poole\]](https://sites.google.com/g.ucla.edu/angelinapoole),
-[\[ Dis 2C: Arghya Mukherjee\]](https://drive.google.com/drive/folders/1Am4bUoxWz5eJkPaUncYPnXzglCsCOATk),
-[\[ Dis 3C: Youfu Li\]](http://web.cs.ucla.edu/~youfuli/teaching/winter19/index.html).
+[\[Dis 1B: Jack Gong\]](https://drive.google.com/drive/folders/1DkTdV62hpS057MV2zKkehglvs9b0LuFT), 
+[\[Dis 1C: Trevor Hackett\]](https://drive.google.com/drive/folders/1hYW5Jmkz5bjdr5YaKpoq8HTEQV8Upg4x), 
+[\[Dis 1E: Qianru Li\]](https://drive.google.com/drive/folders/1CT-kBNJlQ9RwyTfuQRaiKNyMU53nGeXL),
+[\[Dis 2A: Angelina Poole\]](https://sites.google.com/g.ucla.edu/angelinapoole),
+[\[Dis 2C: Arghya Mukherjee\]](https://drive.google.com/drive/folders/1Am4bUoxWz5eJkPaUncYPnXzglCsCOATk),
+[\[Dis 3C: Youfu Li\]](http://web.cs.ucla.edu/~youfuli/teaching/winter19/index.html).
 
 
 
