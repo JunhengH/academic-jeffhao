@@ -41,17 +41,17 @@ caption = ""
 
 **Announcement:**
 
-* *\[Jan. 9\]* There are no discussion sessions on the first and third week (Jan. 11 and Jan. 25). Prof. Smallberg will hold lectures instead. Check the [course syllabus](http://web.cs.ucla.edu/classes/winter19/cs32/).
+* <span style="color:blue">\[Jan. 9\]</span> There are no discussion sessions on the first and third week (Jan. 11 and Jan. 25). Prof. Smallberg will hold lectures instead. Check the [course syllabus](http://web.cs.ucla.edu/classes/winter19/cs32/).
 
-* *\[Jan. 10\]* Project 1 is released and due on Jan. 15 (Tuesday).
+* <span style="color:blue">\[Jan. 10\]</span> Project 1 is released and due on Jan. 15 (Tuesday).
 
-* *\[Jan. 17\]* Homework 1 is released and due on Jan. 22 (Tuesday).
+* <span style="color:blue">\[Jan. 17\]</span> Homework 1 is released and due on Jan. 22 (Tuesday).
 
-* *\[Jan. 18\]* Slides Week 1 is updated about class composition examples with sample code.
+* <span style="color:blue">\[Jan. 18\]</span> Slides Week 1 is updated about class composition examples with sample code.
 
-* *\[Jan. 23\]* Project 2 is released and due on Jan. 29 (Tuesday). 
+* <span style="color:blue">\[Jan. 23\]</span> Project 2 is released and due on Jan. 29 (Tuesday). 
 
-* *\[Jan. 30\]* Homework 2 is released and due on Feb. 5 (Tuesday).
+* <span style="color:blue">\[Jan. 30\]</span> Homework 2 is released and due on Feb. 5 (Tuesday).
 
 **Discussion Materials:**
 
@@ -61,6 +61,7 @@ caption = ""
 | Jan. 18 | Class construction, destructor, copy constructor, assignment operator | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week2.pdf)  [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf) [\[Worksheet 1 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet1-solution-wolist.pdf) [\[Code\]](https://www.haojunheng.com/files/cs32-w19/sample_code_week2.zip) |
 | Jan. 25 | No discussion today. Please attend lectures and check out midterm practice problems. | [\[Midterm Practice 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1PracticeSolution.pdf) [\[Midterm Practice 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1PracticeSolution.pdf) |
 | Feb. 1  | Linked list, stack, queue  | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week4.pdf) |
+| Feb. 8  | Inheritance, Polymorphism  | *** |
 
 **Supplemental material from other CS32 TAs**
 
