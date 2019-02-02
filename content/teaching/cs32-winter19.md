@@ -60,7 +60,7 @@ caption = ""
 | Jan. 11 | No discussion today. Please attend lectures. | N/A |
 | Jan. 18 | Class construction, destructor, copy constructor, assignment operator | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week2.pdf)  [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-w19/worksheet1.pdf) [\[Worksheet 1 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet1-solution.pdf) [\[Code\]](https://www.haojunheng.com/files/cs32-w19/sample_code_week2.zip) |
 | Jan. 25 | No discussion today. Please attend lectures and check out midterm practice problems. | [\[Midterm Practice 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1PracticeSolution.pdf) [\[Midterm Practice 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1PracticeSolution.pdf) |
-| Feb. 1  | Linked list, stack, queue  | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week4.pdf) [\[Worksheet 2\]](https://www.haojunheng.com/files/cs32-w19/worksheet2.pdf) \[Worksheet 1 Solution\] |
+| Feb. 1  | Linked list, stack, queue  | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week4.pdf) [\[Worksheet 2\]](https://www.haojunheng.com/files/cs32-w19/worksheet2.pdf) \[Worksheet 2 Solution\] |
 | Feb. 8  | Inheritance, Polymorphism  | *** |
 
 **Supplemental material from other CS32 TAs**
