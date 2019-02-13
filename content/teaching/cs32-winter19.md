@@ -67,7 +67,9 @@ caption = ""
 | Feb. 15 | Template, Algorithm efficiency, Sorting(1) | \[Slides\] \[Worksheet 4\] \[Worksheet 4 Solution\] | 
 
 
-**Supplemental material from other CS32 TAs**
+**Additional Resources**
+
+* Supplemental material from other CS32 TAs
 
 [\[Dis 1B: Jack Gong\]](https://drive.google.com/drive/folders/1DkTdV62hpS057MV2zKkehglvs9b0LuFT), 
 [\[Dis 1C: Trevor Hackett\]](https://drive.google.com/drive/folders/1hYW5Jmkz5bjdr5YaKpoq8HTEQV8Upg4x), 
@@ -75,6 +77,10 @@ caption = ""
 [\[Dis 2A: Angelina Poole\]](https://sites.google.com/g.ucla.edu/angelinapoole),
 [\[Dis 2C: Arghya Mukherjee\]](https://drive.google.com/drive/folders/1Am4bUoxWz5eJkPaUncYPnXzglCsCOATk),
 [\[Dis 3C: Youfu Li\]](http://web.cs.ucla.edu/~youfuli/teaching/winter19/index.html).
+
+* LA Workshops
+
+[\[Debug\]](https://github.com/kristielim/debugging_workshop), [\[Technical Interview + Code Tracing\]](http://web.cs.ucla.edu/classes/winter19/cs32/Workshops/wk3interviewtracing.pdf)
 
 
 
