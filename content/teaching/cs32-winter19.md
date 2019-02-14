@@ -55,6 +55,10 @@ caption = ""
 
 * <span style="color:blue">\[Jan. 30\]</span> Homework 3 is released and due on Feb. 12 (Tuesday).
 
+* <span style="color:blue">\[Feb. 13\]</span> Project 3 (warmup) is released.
+
+* <span style="color:blue">\[Feb. 14\]</span> <span style="color:red">For all students in Lecture 2 and Lecture 3, Prof. Smallberg will have a make-up lecture in Moore 100 at 1:00-1:50pm, Feb. 15. Therefore, Week 6's discussion 2B will be still in Rolfe 3134 but time changes to 12:00-12:50pm. </span>
+
 **Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
@@ -64,7 +68,7 @@ caption = ""
 | Jan. 25 | No discussion today. Please attend lectures and check out midterm practice problems. | [\[Midterm Practice 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm1PracticeSolution.pdf) [\[Midterm Practice 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm1PracticeSolution.pdf) |
 | Feb. 1  | Linked list, stack, queue  | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week4.pdf) [\[Worksheet 2\]](https://www.haojunheng.com/files/cs32-w19/worksheet2.pdf) [\[Worksheet 2 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet2-solution.pdf) |
 | Feb. 8  | Inheritance, Polymorphism, Recursion  | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week5.pdf) [\[Worksheet 3\]](https://www.haojunheng.com/files/cs32-w19/worksheet3.pdf) [\[Worksheet 3 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet3-solution.pdf) |
-| Feb. 15 | Template, Algorithm efficiency, Sorting(1) | \[Slides\] \[Worksheet 4\] \[Worksheet 4 Solution\] | 
+| Feb. 15 | Template, STL (1 hour) | \[Slides\] \[Worksheet 4\] \[Worksheet 4 Solution\] | 
 
 
 **Additional Resources**
