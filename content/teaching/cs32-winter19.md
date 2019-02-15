@@ -55,9 +55,9 @@ caption = ""
 
 * <span style="color:blue">\[Jan. 30\]</span> Homework 3 is released and due on Feb. 12 (Tuesday).
 
-* <span style="color:blue">\[Feb. 13\]</span> Project 3 (warmup) is released.
+* <span style="color:blue">\[Feb. 13\]</span> Project 3 is released.
 
-* <span style="color:blue">\[Feb. 14\]</span> <span style="color:red">For all students in Lecture 2 and Lecture 3, Prof. Smallberg will have a make-up lecture in Moore 100 at 1:00-1:50pm, Feb. 15. Therefore, Week 6's discussion 2B will be still in Rolfe 3134 but time changes to 12:00-12:50pm. </span>
+* <span style="color:blue">\[Feb. 14\]</span> For all students in Lecture 2 and Lecture 3, Prof. Smallberg will have a make-up lecture in Moore 100 at 1:00-1:50pm, Feb. 15. Therefore, Week 6's discussion 2B will be still in Rolfe 3134 but time changes to 12:00-12:50pm.
 
 **Discussion Materials:**
 
