@@ -55,9 +55,9 @@ caption = ""
 
 * <span style="color:blue">\[Jan. 30\]</span> Homework 3 is released and due on Feb. 12 (Tuesday).
 
-* <span style="color:blue">\[Feb. 13\]</span> Project 3 is released.
-
 * <span style="color:blue">\[Feb. 14\]</span> For all students in Lecture 2 and Lecture 3, Prof. Smallberg will have a make-up lecture in Moore 100 at 1:00-1:50pm, Feb. 15. Therefore, Week 6's discussion 2B will be still in Rolfe 3134 but time changes to 12:00-12:50pm.
+
+* <span style="color:blue">\[Feb. 14\]</span> Project 3 is released. Part 1 is due on Thursday, February 21 and part 2 is due on Thursday, February 28. Check project FAQ [here](http://web.cs.ucla.edu/classes/winter19/cs32/Projects/3/faq.html).
 
 **Discussion Materials:**
 
