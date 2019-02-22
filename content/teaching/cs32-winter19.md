@@ -70,7 +70,7 @@ caption = ""
 | Feb. 8  | Inheritance, Polymorphism, Recursion  | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week5.pdf) [\[Worksheet 3\]](https://www.haojunheng.com/files/cs32-w19/worksheet3.pdf) [\[Worksheet 3 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet3-solution.pdf) |
 | Feb. 15 | Template, STL | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week6.pdf) [\[Worksheet 4\]](https://www.haojunheng.com/files/cs32-w19/worksheet4.pdf) \[Worksheet 4 Solution\] |
 | Feb. 21*| Midterm review, Project 3 FAQ (host by [UPE](https://upe.seas.ucla.edu/))| [\[Midterm-2 Practice 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm2Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm2PracticeSolution.pdf) [\[Midterm-2 Practice 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm2Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm2PracticeSolution.pdf)| 
-| Feb. 22 | STL(cont'd), Algorithm Efficiency, Sorting | \[Slides\] (Use worksheet 4)|
+| Feb. 22 | STL (cont'd), Algorithm Efficiency, Sorting | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week7.pdf) (Still use worksheet 4)|
 
 
 **Additional Resources**
@@ -86,7 +86,7 @@ caption = ""
 
 * LA Workshops
 
-[\[Debug\]](https://github.com/kristielim/debugging_workshop), [\[Technical Interview + Code Tracing\]](http://web.cs.ucla.edu/classes/winter19/cs32/Workshops/wk3interviewtracing.pdf), [\[ Inheritance, Recursion & Usable Code\]](http://web.cs.ucla.edu/classes/winter19/cs32/Workshops/wk6inherrecurusablecode.pdf)
+[\[Debug\]](https://github.com/kristielim/debugging_workshop), [\[Technical Interview + Code Tracing\]](http://web.cs.ucla.edu/classes/winter19/cs32/Workshops/wk3interviewtracing.pdf), [\[Inheritance, Recursion & Usable Code\]](http://web.cs.ucla.edu/classes/winter19/cs32/Workshops/wk6inherrecurusablecode.pdf)
 
 
 
