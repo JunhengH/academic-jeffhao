@@ -59,6 +59,8 @@ caption = ""
 
 * <span style="color:blue">\[Feb. 14\]</span> Project 3 is released. Part 1 is due on Thursday, February 21 and part 2 is due on Thursday, February 28. Check project FAQ [here](http://web.cs.ucla.edu/classes/winter19/cs32/Projects/3/faq.html).
 
+* <span style="color:blue">\[Feb. 28\]</span> Homework 4 is released and due on Mar. 5 (Tuesday).
+
 **Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
