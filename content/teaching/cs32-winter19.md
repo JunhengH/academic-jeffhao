@@ -71,7 +71,7 @@ caption = ""
 | Feb. 15 | Template, STL | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week6.pdf) [\[Worksheet 4\]](https://www.haojunheng.com/files/cs32-w19/worksheet4.pdf) [\[Worksheet 4 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet4-solution.pdf) |
 | Feb. 21*| Midterm review, Project 3 FAQ (host by [UPE](https://upe.seas.ucla.edu/))| [\[Midterm-2 Practice 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm2Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangMidterm2PracticeSolution.pdf) [\[Midterm-2 Practice 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm2Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiMidterm2PracticeSolution.pdf)| 
 | Feb. 22 | STL (cont'd), Algorithm Efficiency | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week7.pdf) (Still use worksheet 4)|
-| Mar. 1  | Sorting, Tree | \[Slides\] [\[Worksheet 5\]](https://www.haojunheng.com/files/cs32-w19/worksheet5.pdf) \[Worksheet 5 Solution\]|
+| Mar. 1  | Sorting, Tree | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week8.pdf) [\[Worksheet 5\]](https://www.haojunheng.com/files/cs32-w19/worksheet5.pdf) \[Worksheet 5 Solution\]|
 
 
 **Additional Resources**
