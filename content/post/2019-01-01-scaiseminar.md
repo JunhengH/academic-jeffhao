@@ -30,3 +30,4 @@ Schedule:
 | 1.25 | [Combining Behavioral and Generative Models for Product Recommendation and Design](https://drive.google.com/file/d/1fQ9aCJarvhF2BR2ge_cRaA9OcT0nz-bD/view)  | [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)| N/A|
 | 2.8  | [Recent advance on deep learning optimization theory](https://drive.google.com/file/d/1bPN-o3fqom1iUmrnQUbcBZcYIq4NUMfh/view) | [Difan Zou](https://sites.google.com/view/difan-zou)| [PDF](https://arxiv.org/pdf/1811.08888.pdf)|
 | 2.15 | [A New Synthesis of Knowledge Representation and Learning](https://drive.google.com/file/d/1_PPtc16BKofkPPRVLNJP4v4iFleodJlo/view) | [Yitao Liang](https://web.cs.ucla.edu/~yliang/) | [PDF](https://arxiv.org/pdf/1711.11157.pdf) |
+|  3.1 | Understanding the Bias and Data Efficiency of Uncertainty Sampling | [Steve Mussmann](http://web.stanford.edu/~mussmann/index.html) | N/A |
