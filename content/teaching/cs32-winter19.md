@@ -61,6 +61,8 @@ caption = ""
 
 * <span style="color:blue">\[Feb. 28\]</span> Homework 4 is released and due on Mar. 5 (Tuesday).
 
+* <span style="color:blue">\[Mar. 7\]</span> Homework 5 and Project 4 are released and due on Mar. 14 (Thursday).
+
 **Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
