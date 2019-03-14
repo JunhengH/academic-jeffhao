@@ -63,6 +63,8 @@ caption = ""
 
 * <span style="color:blue">\[Mar. 7\]</span> Homework 5 and Project 4 are released and due on Mar. 14 (Thursday).
 
+* <span style="color:blue">\[Mar. 13\]</span> This week's office hours change to 8:30-10:00am and 12:00-1:30pm.
+
 **Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
