@@ -1,5 +1,5 @@
 +++
-title = "CS32 (Winter 2019) Discussion"
+title = "CS32 (Spring) Discussion"
 date = 2018-10-07T00:00:00
 math = false
 highlight = false
@@ -29,10 +29,6 @@ caption = ""
 
 * TA office hours: TBA
 
-# * LA: Ramya Satish, email: ramyasatish1997 [AT] ucla [DOT] edu
-
-# * LA office hours: Thursday 8:30am-9:30am & 4:30pm-5:30pm @BH3256S
-
 **Discussion Info (Dis 2B, instructed by Junheng):**
 
 * Time: Friday 12pm-1:50pm
@@ -44,17 +40,16 @@ caption = ""
 * <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the [course syllabus](http://web.cs.ucla.edu/classes/winter19/cs32/).
 
 
-
 **Discussion Materials:**
 
-|  Date |                        Content                      |          Slides & Links            |
-|:------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 11 | TBA | TBA |
+|  Date  |                        Content                      |          Slides & Links            |
+|:-------|:----------------------------------------------------|:-----------------------------------|
+| Apr. 5 | TBA | TBA |
 
 
 **Additional Resources**
 
-* Supplemental material from other CS32 TAs
+* Supplemental material from other Spring19-CS32 TAs
 
 TBA
 

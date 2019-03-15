@@ -87,7 +87,7 @@ caption = ""
 
 **Additional Resources**
 
-* Supplemental material from other CS32 TAs
+* Supplemental material from other Winter19-CS32 TAs
 
 [\[Dis 1B: Jack Gong\]](https://drive.google.com/drive/folders/1DkTdV62hpS057MV2zKkehglvs9b0LuFT), 
 [\[Dis 1C: Trevor Hackett\]](https://drive.google.com/drive/folders/1hYW5Jmkz5bjdr5YaKpoq8HTEQV8Upg4x), 
