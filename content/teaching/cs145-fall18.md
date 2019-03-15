@@ -15,6 +15,8 @@ image = ""
 caption = ""
 +++
 
+<span style="color:red"> **This course is no longer active and this site will no longer updated since December 14, 2018.** </span>
+
 Discussion Materials for CS145, instructed by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/). More details on [course website](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html). 
 
 |  Date |                        Content                      |          Slides & Links            |
