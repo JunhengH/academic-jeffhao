@@ -80,7 +80,7 @@ caption = ""
 | Mar. 1  | Sorting, Tree | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week8.pdf) [\[Worksheet 5\]](https://www.haojunheng.com/files/cs32-w19/worksheet5.pdf) [\[Worksheet 5 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet5-solution.pdf)|
 | Mar. 8  | Binary search tree and others, Hash Tables, Heaps | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week9.pdf) [\[Worksheet 6\]](https://www.haojunheng.com/files/cs32-w19/worksheet6.pdf) [\[Worksheet 6 Solution\]](https://www.haojunheng.com/files/cs32-w19/worksheet6-solution.pdf)|
 | Mar. 10*| Final exam review, Final exam FAQ (host by [UPE](https://upe.seas.ucla.edu/))| [\[Final Practice 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangFinalPractice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChangFinalPracticeSolution.pdf) [\[Final Practice 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiFinalPractice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/winter19/cs32/Sampleproblems/ChoiFinalPracticeSolution.pdf)| 
-| Mar. 15 | Priority queue, Heap, Final exam review | \[Slides\] |
+| Mar. 15 | Priority queue, Heap, Final exam review | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week10.pdf) |
 
 
 **Additional Resources**
