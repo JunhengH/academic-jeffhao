@@ -15,9 +15,11 @@ image = ""
 caption = ""
 +++
 
+<span style="color:red"> **This site will no longer updated since March 16, 2019. Slides are availble upon request.** </span>
+
 **Course Info:**
 
-* Instructor: David Smallberg/Carey Nachenberg
+* Instructor: David Smallberg, Carey Nachenberg
 
 * Lecture time & location: Lec 2, Monday/Wednesday 12pm-1:50pm, Boelter Hall 3400
 

@@ -17,19 +17,19 @@ caption = ""
 
 **Course Info:**
 
-* Instructor: David Smallberg/Carey Nachenberg
+* Instructor: David Smallberg
 
 * Lecture time & location: Lec 1, Monday/Wednesday 12pm-1:50pm, Haines Hall 39
 
 * Course website: TBA
 
-**TA & LA Info (Dis 2B):**
+**TA & LA Info:**
 
 * TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only)
 
 * TA office hours: TBA
 
-**Discussion Info (Dis 2B, instructed by Junheng):**
+**Discussion Info (instructed by Junheng):**
 
 * Time: Friday 12pm-1:50pm
 
@@ -37,8 +37,7 @@ caption = ""
 
 **Announcement:**
 
-* <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the [course syllabus](http://web.cs.ucla.edu/classes/winter19/cs32/).
-
+* <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the course syllabus.
 
 **Discussion Materials:**
 
