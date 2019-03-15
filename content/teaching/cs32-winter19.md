@@ -65,6 +65,8 @@ caption = ""
 
 * <span style="color:blue">\[Mar. 13\]</span> This week's office hours change to 8:30-10:00am and 12:00-1:30pm.
 
+* <span style="color:blue">\[Mar. 15\]</span> Check final exam schedule and announcements at [here](http://web.cs.ucla.edu/classes/winter19/cs32/announcements.html)!
+
 **Discussion Materials:**
 
 |  Date |                        Content                      |          Slides & Links            |
