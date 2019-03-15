@@ -20,6 +20,7 @@ Archive of ScAI machine learning seminar in Fall quarter, 2018.
 [\[Current Seminar\]](https://www.haojunheng.com/post/2019-01-01-scaiseminar/)
 
 \[Winter 2019\]
+
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-----------|
 | 1.11 | [Multi-relational Knowledge Representation and Acquisition](https://drive.google.com/file/d/1VysxrhUCKDdU8H3MojcpGr-oN0WvL2_b/view) | [Muhao Chen](http://yellowstone.cs.ucla.edu/~muhao/) | [PDF](https://www.ijcai.org/proceedings/2018/0556.pdf) |
