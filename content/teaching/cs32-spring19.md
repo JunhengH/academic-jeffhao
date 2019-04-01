@@ -21,29 +21,36 @@ caption = ""
 
 * Lecture time & location: Lec 1, Monday/Wednesday 12pm-1:50pm, Haines Hall 39
 
-* Course website: TBA
+* Course website: [http://web.cs.ucla.edu/classes/spring19/cs32/](http://web.cs.ucla.edu/classes/spring19/cs32/)
 
 **TA & LA Info:**
 
 * TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only)
 
-* TA office hours: TBA
+* TA office hours: Wednesdays 8:30-9:30am & Thursdays 8:30-10:30am (Tentative)
 
-**Discussion Info (instructed by Junheng):**
+* LA: TBA
 
-* Time: Friday 12pm-1:50pm
+* LA office hours: TBA
 
-* Location: TBA
+**Discussion Info (Dis 1F, instructed by Junheng):**
+
+* Time: Fridays 12pm-1:50pm
+
+* Location: Boelter Hall 5264
 
 **Announcement:**
 
 * <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the course syllabus.
 
+* <span style="color:blue">\[Apr. 1\]</span> There are no discussion sessions on the first week (Apr. 5). Prof. Smallberg will hold lectures instead. Please check the course syllabus. 
+
 **Discussion Materials:**
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Apr. 5 | TBA | TBA |
+| Apr. 5 |   No discussion today. Please attend lectures.  |  N/A |
+| Apr. 11|   TBA  |  TBA  |
 
 
 **Additional Resources**

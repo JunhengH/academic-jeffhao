@@ -30,6 +30,7 @@ Archive of ScAI machine learning seminar in Fall quarter, 2018.
 | 2.15 | [A New Synthesis of Knowledge Representation and Learning](https://drive.google.com/file/d/1_PPtc16BKofkPPRVLNJP4v4iFleodJlo/view) | [Yitao Liang](https://web.cs.ucla.edu/~yliang/) | [PDF](https://arxiv.org/pdf/1711.11157.pdf) |
 |  3.1 | Understanding the Bias and Data Efficiency of Uncertainty Sampling | [Steve Mussmann](http://web.stanford.edu/~mussmann/index.html) | N/A |
 | 3.15 | [Southern California Machine Learning Symposium](https://sites.google.com/view/socalml2019) | [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra), [Pietro Perona](http://www.vision.caltech.edu/Perona.html), [Hongjing Lu](http://cvl.psych.ucla.edu/people.htm), [Alicia Solow-Niederman](https://law.ucla.edu/faculty/faculty-profiles/alicia-solow-niederman/)| N/A|
+| 3.22 |  [Embedding Uncertain Knowledge Graphs](https://drive.google.com/file/d/1XSEp3IUhhLZU1zD9AvFQzIUbNfT_23SZ/view) | [Xuelu Chen](http://yellowstone.cs.ucla.edu/~shirley/) | [PDF](https://arxiv.org/pdf/1811.10667.pdf) |
 
 \[Fall 2018\]
 
