@@ -1,5 +1,5 @@
 +++
-title = "CS32 (Spring) Discussion"
+title = "CS32 (Spring 2019) Discussion"
 date = 2018-10-07T00:00:00
 math = false
 highlight = false
