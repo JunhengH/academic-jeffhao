@@ -50,12 +50,12 @@ caption = ""
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Apr. 5 |   No discussion today. Please attend lectures.  |  N/A |
-| Apr. 11|   TBA  |  TBA  |
+| Apr. 12|   TBA  |  TBA  |
 
 
 **Additional Resources**
 
-* Supplemental material from other Spring19-CS32 TAs
+* Supplemental materials from other Spring19-CS32 TAs
 
 TBA
 
