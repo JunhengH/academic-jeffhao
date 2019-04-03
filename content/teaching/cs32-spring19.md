@@ -45,7 +45,7 @@ caption = ""
 
 * <span style="color:blue">\[Apr. 1\]</span> There are no discussion sessions on the first week (Apr. 5). Prof. Smallberg will hold lectures instead. Please check the course syllabus. 
 
-* <span style="color:blue">\[Apr. 3\]</span> [Project 1](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/1/spec.html) is released and due on 11pm on Tuesday, April 9.
+* <span style="color:blue">\[Apr. 3\]</span> [Project 1](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/1/spec.html) is released and due on 11pm on Tuesday, April 9. Please check [project requirements](http://web.cs.ucla.edu/classes/spring19/cs32/requirements.html) before you start!
 
 **Discussion Materials:**
 
