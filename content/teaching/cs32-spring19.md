@@ -15,6 +15,8 @@ image = ""
 caption = ""
 +++
 
+<span style="color:red"> **This site (with slides, etc) will be continuously updated.** </span>
+
 **Course Info:**
 
 * Instructor: David Smallberg
@@ -25,9 +27,9 @@ caption = ""
 
 **TA & LA Info:**
 
-* TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only)
+* TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only, and please put "CS32" in the subject of the email)
 
-* TA office hours: Wednesdays 8:30-10:30am & Thursdays 8:30-9:30am (Tentative)
+* TA office hours: Wednesdays 8:30-10:30am & Thursdays 8:30-9:30am (Tentative). Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
 
 * LA: TBA
 
@@ -39,7 +41,7 @@ caption = ""
 
 * Location: Boelter Hall 5264
 
-**Announcement:**
+**Announcements:**
 
 * <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the [course syllabus](http://web.cs.ucla.edu/classes/spring19/cs32/syllabus.html).
 
