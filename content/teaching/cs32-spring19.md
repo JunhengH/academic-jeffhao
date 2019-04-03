@@ -27,7 +27,7 @@ caption = ""
 
 * TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only)
 
-* TA office hours: Wednesdays 8:30-9:30am & Thursdays 8:30-10:30am (Tentative)
+* TA office hours: Wednesdays 8:30-10:30am & Thursdays 8:30-9:30am (Tentative)
 
 * LA: TBA
 
@@ -41,9 +41,11 @@ caption = ""
 
 **Announcement:**
 
-* <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the course syllabus.
+* <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the [course syllabus](http://web.cs.ucla.edu/classes/spring19/cs32/syllabus.html).
 
 * <span style="color:blue">\[Apr. 1\]</span> There are no discussion sessions on the first week (Apr. 5). Prof. Smallberg will hold lectures instead. Please check the course syllabus. 
+
+* <span style="color:blue">\[Apr. 3\]</span> [Project 1](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/1/spec.html) is released and due on 11pm on Tuesday, April 9.
 
 **Discussion Materials:**
 
