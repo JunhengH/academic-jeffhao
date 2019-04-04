@@ -31,10 +31,6 @@ caption = ""
 
 * TA office hours: Wednesdays 8:30-10:30am & Thursdays 8:30-9:30am (Tentative). Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
 
-* LA: TBA
-
-* LA office hours: TBA
-
 **Discussion Info (Dis 1F, instructed by Junheng):**
 
 * Time: Fridays 12pm-1:50pm
