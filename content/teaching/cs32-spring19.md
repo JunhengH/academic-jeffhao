@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:red"> **This site (with slides, etc) will be continuously updated.** </span>
+<span style="color:blue"> **This site (including slides, etc) will be continuously updated.** </span>
 
 **Course Info:**
 
