@@ -29,7 +29,7 @@ caption = ""
 
 * TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only, and please put "CS32" in the subject of the email)
 
-* TA office hours: Wednesdays 8:30-10:30am & Thursdays 8:30-9:30am (Tentative). Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
+* TA office hours: Wednesdays 8:30-10:30am & Fridays 9:00-10:00am (Tentative). Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
 
 **Discussion Info (Dis 1F, instructed by Junheng):**
 
