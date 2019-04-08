@@ -31,6 +31,10 @@ caption = ""
 
 * TA office hours: Wednesdays 8:30-10:30am & Fridays 9:00-10:00am (Tentative). Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
 
+* LA: Arabelle Siahaan, Email: TBA
+
+* LA office hours: TBA
+
 **Discussion Info (Dis 1F, instructed by Junheng):**
 
 * Time: Fridays 12pm-1:50pm
