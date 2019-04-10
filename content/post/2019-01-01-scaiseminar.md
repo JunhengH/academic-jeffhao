@@ -24,4 +24,5 @@ Location: Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
 Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
-|:------|:----------------------------------------------------|:-----------------------------------|:-----------|
+|:------|:----------------------------------------------------|:-----------------------------------|:-------|
+| 4.12  | Generalization Error Bounds of Gradient Descent for Learning Over-parameterized Deep ReLU Networks | Yuan Cao | N/A |
