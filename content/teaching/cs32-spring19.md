@@ -27,13 +27,13 @@ caption = ""
 
 **TA & LA Info:**
 
-* TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only, and please put "CS32" in the subject of the email)
+* TA: Junheng Hao, email: haojh[DOT]ucla[AT]gmail[DOT]com (for CS32 only, and please put "CS32" in the subject of the email)
 
 * TA office hours: Wednesdays 8:30-10:30am & Fridays 9:00-10:00am (Tentative). Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
 
-* LA: Arabelle Siahaan, Email: TBA
+* LA: Arabelle Siahaan, Email: arabellekezia[AT]ucla[DOT]edu
 
-* LA office hours: TBA
+* LA office hours: Tuesdays 1:00-2:00pm & 4:00-5:00pm
 
 **Discussion Info (Dis 1F, instructed by Junheng):**
 
@@ -48,6 +48,8 @@ caption = ""
 * <span style="color:blue">\[Apr. 1\]</span> There are no discussion sessions on the first week (Apr. 5). Prof. Smallberg will hold lectures instead. Please check the course syllabus. 
 
 * <span style="color:blue">\[Apr. 3\]</span> [Project 1](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/1/spec.html) is released and due on 11pm on Tuesday, April 9. Please check [project requirements](http://web.cs.ucla.edu/classes/spring19/cs32/requirements.html) before you start!
+
+* <span style="color:blue">\[Apr. 9\]</span> An LA-led workshop on Using the Debugger Effectively will be held on Thursday, April 11, from 5:00 to 6:00 in 289 Engr VI. Materials will be added in "LA Workshops"!
 
 **Discussion Materials:**
 
