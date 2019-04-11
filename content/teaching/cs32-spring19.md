@@ -56,14 +56,14 @@ caption = ""
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Apr. 5 |   No discussion today. Please attend lectures.  |  N/A |
-| Apr. 12|   TBA  |  TBA  |
+| Apr. 12|   Class construction, destructor, copy constructor, assignment operator  |  \[Slides\] \[Worksheet 1\] \[Worksheet 1 Solution\] |
 
 
 **Additional Resources**
 
 * Supplemental materials from other Spring19-CS32 TAs
 
-TBA
+[Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02)
 
 * LA Workshops
 
