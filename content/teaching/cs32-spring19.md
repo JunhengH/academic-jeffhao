@@ -51,6 +51,8 @@ caption = ""
 
 * <span style="color:blue">\[Apr. 9\]</span> An LA-led workshop on Using the Debugger Effectively will be held on Thursday, April 11, from 5:00 to 6:00 in 289 Engr VI. Materials will be added in "LA Workshops"!
 
+* <span style="color:blue">\[Apr. 10\]</span> [Homework 1](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/1/spec.html) is released and due on 11pm on Tuesday, April 16. 
+
 **Discussion Materials:**
 
 |  Date  |                        Content                      |          Slides & Links            |
