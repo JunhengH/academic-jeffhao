@@ -58,14 +58,14 @@ caption = ""
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Apr. 5 |   No discussion today. Please attend lectures.  |  N/A |
-| Apr. 12|   Class construction, destructor, copy constructor, assignment operator  |  \[Slides\] \[Worksheet 1\] \[Worksheet 1 Solution\] |
+| Apr. 12|   Class construction, destructor, copy constructor, assignment operator  |  [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32_dis_week2.pdf) [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-s19/WS1.pdf) \[Worksheet 1 Solution\] |
 
 
 **Additional Resources**
 
 * Supplemental materials from other Spring19-CS32 TAs
 
-[Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02)
+[Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02), [Qianru Li](https://drive.google.com/drive/folders/1x_u9cWO7vhzQXs4oLAzwMjocDXUC11LB), [Angelina Poole](https://sites.google.com/g.ucla.edu/angelinapoole/cs-32-discussion-1j-spring-2019)
 
 * LA Workshops
 
