@@ -29,7 +29,7 @@ caption = ""
 
 * TA: Junheng Hao, email: haojh[DOT]ucla[AT]gmail[DOT]com (for CS32 only, and please put "CS32" in the subject of the email)
 
-* TA office hours: Wednesdays 8:30-10:30am & Fridays 9:00-10:00am (Tentative). Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
+* TA office hours: Wednesdays 9:30-11:30am & Fridays 9:00-10:00am. Check other TA's office hours [here](http://web.cs.ucla.edu/classes/spring19/cs32/officehours.html).
 
 * LA: Arabelle Siahaan, Email: arabellekezia[AT]ucla[DOT]edu
 
@@ -66,7 +66,8 @@ caption = ""
 
 * Supplemental materials from other Spring19-CS32 TAs
 
-[Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02), [Qianru Li](https://drive.google.com/drive/folders/1x_u9cWO7vhzQXs4oLAzwMjocDXUC11LB), [Angelina Poole](https://sites.google.com/g.ucla.edu/angelinapoole/cs-32-discussion-1j-spring-2019)
+[Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02), [Qianru Li](https://drive.google.com/drive/folders/1x_u9cWO7vhzQXs4oLAzwMjocDXUC11LB), [Angelina Poole](https://sites.google.com/g.ucla.edu/angelinapoole/cs-32-discussion-1j-spring-2019), [Amrutha Srinivasan
+](https://drive.google.com/open?id=11s9VK-NEQE7hMmDRzh-oBcipIralnEeb), Ling Ding (on CCLE).
 
 * LA Workshops
 
