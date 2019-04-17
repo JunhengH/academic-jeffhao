@@ -59,7 +59,7 @@ caption = ""
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Apr. 5 |   No discussion today. Please attend lectures.  |  N/A |
 | Apr. 12|   Class construction, destructor, copy constructor, assignment operator  |  [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week02.pdf) [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-s19/WS1.pdf) [\[Worksheet 1 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS1-Sol.pdf) |
-| Apr. 19|   Data structures, linked List, stack and queue | \[Slides\] \[Worksheet 2\] \[Worksheet 2 Solution\]|
+| Apr. 19|   Data structures, linked list, stack and queue | \[Slides\] \[Worksheet 2\] \[Worksheet 2 Solution\]|
 
 
 **Additional Resources**
