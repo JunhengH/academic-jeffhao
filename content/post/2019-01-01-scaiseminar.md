@@ -25,4 +25,4 @@ Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
-| 4.12  | Generalization Error Bounds of Gradient Descent for Learning Over-parameterized Deep ReLU Networks | Yuan Cao | N/A |
+| 4.12  | [Generalization Error Bounds of Gradient Descent for Learning Over-parameterized Deep ReLU Networks](https://drive.google.com/file/d/1bQmT91XQsVT0fXhWDEDt8AI7Kl9hfLcX/view) | Yuan Cao | [PDF](https://arxiv.org/abs/1902.01384) |
