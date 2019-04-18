@@ -61,15 +61,14 @@ caption = ""
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Apr. 5 |   No discussion today. Please attend lectures.  |  N/A |
 | Apr. 12|   Class construction, destructor, copy constructor, assignment operator  |  [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week02.pdf) [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-s19/WS1.pdf) [\[Worksheet 1 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS1-Sol.pdf) |
-| Apr. 19|   Data structures, linked list | \[Slides\] [\[Worksheet 2\]](https://www.haojunheng.com/files/cs32-s19/WS2.pdf) \[Worksheet 2 Solution\]|
+| Apr. 19|   Data structures, linked list | \[Slides\] [\[Worksheet 2\]](https://www.haojunheng.com/files/cs32-s19/WS2.pdf) \[Worksheet 2 Solution\] [\[Notes on Linked List\]](http://web.cs.ucla.edu/classes/spring19/cs32/Codeexamples/SupplementLinkedLists.pdf)|
 
 
 **Additional Resources**
 
 * Supplemental materials from other Spring19-CS32 TAs
 
-[Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02), [Qianru Li](https://drive.google.com/drive/folders/1x_u9cWO7vhzQXs4oLAzwMjocDXUC11LB), [Angelina Poole](https://sites.google.com/g.ucla.edu/angelinapoole/cs-32-discussion-1j-spring-2019), [Amrutha Srinivasan
-](https://drive.google.com/open?id=11s9VK-NEQE7hMmDRzh-oBcipIralnEeb), Ling Ding (on CCLE).
+[Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02), [Qianru Li](https://drive.google.com/drive/folders/1x_u9cWO7vhzQXs4oLAzwMjocDXUC11LB), [Angelina Poole](https://sites.google.com/g.ucla.edu/angelinapoole/cs-32-discussion-1j-spring-2019), [Amrutha Srinivasan](https://drive.google.com/open?id=11s9VK-NEQE7hMmDRzh-oBcipIralnEeb), Ling Ding (on CCLE).
 
 * LA Workshops
 
