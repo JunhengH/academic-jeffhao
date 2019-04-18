@@ -53,13 +53,15 @@ caption = ""
 
 * <span style="color:blue">\[Apr. 10\]</span> [Homework 1](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/1/spec.html) is released and due on 11pm on Tuesday, April 16. 
 
+* <span style="color:blue">\[Apr. 17\]</span> [Project 2](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/2/spec.html) is released and due on 11pm on Tuesday, April 23. 
+
 **Discussion Materials:**
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Apr. 5 |   No discussion today. Please attend lectures.  |  N/A |
 | Apr. 12|   Class construction, destructor, copy constructor, assignment operator  |  [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week02.pdf) [\[Worksheet 1\]](https://www.haojunheng.com/files/cs32-s19/WS1.pdf) [\[Worksheet 1 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS1-Sol.pdf) |
-| Apr. 19|   Data structures, linked list, stack and queue | \[Slides\] \[Worksheet 2\] \[Worksheet 2 Solution\]|
+| Apr. 19|   Data structures, linked list | \[Slides\] [\[Worksheet 2\]](https://www.haojunheng.com/files/cs32-s19/WS2.pdf) \[Worksheet 2 Solution\]|
 
 
 **Additional Resources**
