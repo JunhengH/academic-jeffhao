@@ -36,7 +36,7 @@ I am currently a second-year Ph.D student in [Scalable Analytics Institute](http
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
-- [2019.4] One research track paper accepted at KDD 2019. See you in Anchorage, Alaska!
+- [2019.4] One research track paper accepted at [KDD 2019](https://www.kdd.org/kdd2019/). See you in Anchorage, Alaska!
 - [2018.7] PC member of [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2018/), IEEE ICDM 2018
 - [2018.6] Start my summer research internship at [NEC Labs America](http://www.nec-labs.com/research-departments/computer-security/computer-security-home) (Princeton) with my mentor [Lu-An Tang](http://www.nec-labs.com/lu-an-tang). 
 - [2017.9] PhD student at UCLA. Go Bruins!
