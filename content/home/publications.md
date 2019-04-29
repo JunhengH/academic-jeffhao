@@ -36,11 +36,11 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-* **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts". To Appear in the 25nd International ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD), 2019. 
+* **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts". To Appear in the 25nd International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. 
 
-* Chenshuo Sun, Xin Pei, **Junheng Hao**, Yewen Wang, Zuo Zhang, SC Wong. "Role of road network features in the evaluation of incident impacts on urban traffic mobility". In Transportation Research Part B: Methodological(TRB). 
+* Chenshuo Sun, Xin Pei, **Junheng Hao**, Yewen Wang, Zuo Zhang, SC Wong. "[Role of road network features in the evaluation of incident impacts on urban traffic mobility](https://ucelinks.cdlib.org/sfx_local?sid=google&auinit=C&aulast=Sun&atitle=Role+of+road+network+features+in+the+evaluation+of+incident+impacts+on+urban+traffic+mobility&id=doi:10.1016/j.trb.2018.08.013&title=Transportation+research.+Part+B:+methodological&volume=117&date=2018&spage=101&issn=0191-2615)". In Transportation Research Part B: Methodological (TRB). 
 
-* Chenshuo Sun, **Junheng Hao**, Xin Pei, Zuo Zhang, Yi Zhang. "A data-driven approach for duration evaluation of accident impacts on urban intersection traffic flow". In IEEE 19th International Conference on Intelligent Transportation Systems (ITSC), 2016.
+* Chenshuo Sun, **Junheng Hao**, Xin Pei, Zuo Zhang, Yi Zhang. "[A data-driven approach for duration evaluation of accident impacts on urban intersection traffic flow](http://or.nsfc.gov.cn/bitstream/00001903-5/518043/1/991339858.pdf)". In IEEE 19th International Conference on Intelligent Transportation Systems (ITSC), 2016.
 
 * Tanachat Nilanon, Jiayu Yao, **Junheng Hao**, Sanjay Purushotham, Yan Liu. "Normal/abnormal heart sound recordings classification using convolutional neural network". In IEEE Computing in Cardiology Conference (CinC), 2016.
 
