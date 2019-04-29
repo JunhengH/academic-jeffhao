@@ -61,7 +61,7 @@ caption = ""
 
 * <span style="color:blue">\[Apr. 23\]</span>  CS32 midterm 1 is held onn either 5:15 to 6:20 in Broad 2160E, 5:45 to 6:50 in Franz 1260, or 6:00 to 7:05 in Haines 39. Thursday, April 25). The midterm is open book, open notes, no electronic devices, covering topics up to and including linked lists (not stacks and queues, not inheritance). The midterm topics generally appear in Chapters 1, 3, 4, and 8 of the textbook. Midterm questions might have you read code, write code, and find bugs in code.
 
-* <span style="color:blue">\[Apr. 23\]</span> [Homework 2](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/2/spec.html) is released and due on 11pm on * <span style="color:red">Wednesday, May 1</span>.
+* <span style="color:blue">\[Apr. 23\]</span> [Homework 2](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/2/spec.html) is released and due on 11pm on <span style="color:red">Wednesday, May 1</span>.
 
 **Discussion Materials:**
 
