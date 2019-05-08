@@ -1,8 +1,8 @@
 +++
-title = "Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts"
+title = "Knowledge Graph Embedding on Instances and Ontological Concepts"
 date = 2019-05-01T00:00:00
 math = false
-highlight = false
+highlight = true
 
 # List fomat.
 #   0 = Simple
