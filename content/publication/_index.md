@@ -17,4 +17,4 @@ image = ""
 caption = ""
 +++
 
-Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts
+Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts [Project Page](https://www.haojunheng.com/project/joie-kdd.md)
