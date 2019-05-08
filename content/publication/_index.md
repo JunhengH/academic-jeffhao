@@ -16,3 +16,5 @@ list_format = 3
 image = ""
 caption = ""
 +++
+
+Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts

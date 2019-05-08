@@ -43,3 +43,5 @@ filter_default = 0
 
 +++
 
+Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts
+
