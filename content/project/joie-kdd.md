@@ -11,8 +11,8 @@ list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "project/kdd19-joie-twoview.png"
+caption = "Knowledge Graph Embedding on Instances and Ontological Concepts"
 +++
 
 The project page is under construction!
