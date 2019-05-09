@@ -84,9 +84,6 @@ caption = ""
 
 [Jack Gong](https://drive.google.com/drive/folders/1go-0dpkObg4redjC-D6SbbqQgee_gU02), [Qianru Li](https://drive.google.com/drive/folders/1x_u9cWO7vhzQXs4oLAzwMjocDXUC11LB), [Angelina Poole](https://sites.google.com/g.ucla.edu/angelinapoole/cs-32-discussion-1j-spring-2019), [Amrutha Srinivasan](https://drive.google.com/open?id=11s9VK-NEQE7hMmDRzh-oBcipIralnEeb), Ling Ding (on CCLE).
 
-* LA Workshops
-
-TBA
-
+* Useful resources
 
 
