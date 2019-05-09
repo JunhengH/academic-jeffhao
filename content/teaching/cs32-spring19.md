@@ -61,7 +61,10 @@ caption = ""
 
 * <span style="color:blue">\[Apr. 23\]</span> [Homework 2](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/2/spec.html) is released and due on 11pm on Wednesday, May 1.
 
-* <span style="color:blue">\[May. 1\]</span> [Homework 3](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/3/spec.html) is released and due on 11pm on <span style="color:red">Wednesday, May 8</span> (Problem 2-4 will be released later!).
+* <span style="color:blue">\[May. 1\]</span> [Homework 3](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/3/spec.html) is released and due on 11pm on <span style="color:red">Friday, May 10</span> (Problem 2-4 will be released later!).
+
+* <span style="color:blue">\[May. 9\]</span> Before Monday's class, go to the class's CCLE page / Media Resources, and watch the lecture under the tab "18W-COMSCI32-1 (10)" dated "Mon 1/29/2018 Video Content is from Winter 2012 2/15/12". (I covered the first 38 minutes or so of that video in class on Wednesday.) Slides are on the [Code Examples](http://web.cs.ucla.edu/classes/spring19/cs32/Codeexamples/index.html) page.
+
 
 **Discussion Materials:**
 
