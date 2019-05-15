@@ -61,7 +61,7 @@ caption = ""
 
 * <span style="color:blue">\[Apr. 23\]</span> [Homework 2](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/2/spec.html) is released and due on 11pm on Wednesday, May 1.
 
-* <span style="color:blue">\[May. 1\]</span> [Homework 3](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/3/spec.html) is released and due on 11pm on <span style="color:red">Friday, May 10</span> (Problem 2-4 will be released later!).
+* <span style="color:blue">\[May. 1\]</span> [Homework 3](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/3/spec.html) is released and due on 11pm on Friday, May 10.
 
 * <span style="color:blue">\[May. 9\]</span> Before Monday's class, go to the class's CCLE page / Media Resources, and watch the lecture under the tab "18W-COMSCI32-1 (10)" dated "Mon 1/29/2018 Video Content is from Winter 2012 2/15/12". Slides are on the [Code Examples](http://web.cs.ucla.edu/classes/spring19/cs32/Codeexamples/index.html) page.
 
@@ -79,7 +79,7 @@ caption = ""
 | Apr. 26| Stack and queue | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week04.pdf) [\[Worksheet 3\]](https://www.haojunheng.com/files/cs32-s19/WS3.pdf) [\[Worksheet 3 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS3-Sol.pdf) |
 | May. 3 | Inheritance, polymorphism and recursion (preview) | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week05.pdf) [\[Worksheet 4\]](https://www.haojunheng.com/files/cs32-s19/WS4.pdf) [\[Worksheet 4 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS4-Sol.pdf)|
 | May. 10 | Recursion (review), tempalte and STL (preview) | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week06.pdf) [\[Worksheet 5\]](https://www.haojunheng.com/files/cs32-s19/WS5.pdf)  \[Worksheet 5 Solution\] |
-| May. 17 | tempalte and STL (review), algorithmic efficiency, sorting | \[Slides\] \[Worksheet 6\] \[Worksheet 6 Solution\] |
+| May. 17 | Tempalte and STL (review), algorithmic efficiency, sorting | \[Slides\] \[Worksheet 6\] \[Worksheet 6 Solution\] |
 
 **Additional Resources**
 
