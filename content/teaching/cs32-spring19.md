@@ -79,7 +79,9 @@ caption = ""
 | Apr. 26| Stack and queue | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week04.pdf) [\[Worksheet 3\]](https://www.haojunheng.com/files/cs32-s19/WS3.pdf) [\[Worksheet 3 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS3-Sol.pdf) |
 | May. 3 | Inheritance, polymorphism and recursion (preview) | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week05.pdf) [\[Worksheet 4\]](https://www.haojunheng.com/files/cs32-s19/WS4.pdf) [\[Worksheet 4 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS4-Sol.pdf)|
 | May. 10 | Recursion (review), tempalte and STL (preview) | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week06.pdf) [\[Worksheet 5\]](https://www.haojunheng.com/files/cs32-s19/WS5.pdf)  [\[Worksheet 5 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS5-Sol.pdf) |
-| May. 17 | Tempalte and STL (review), algorithmic efficiency, sorting | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week07.pdf) [\[Worksheet 6\]](https://www.haojunheng.com/files/cs32-s19/WS6.pdf) \[Worksheet 6 Solution\] |
+| May. 17 | Tempalte and STL (review), algorithmic efficiency | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week07.pdf) [\[Worksheet 6\]](https://www.haojunheng.com/files/cs32-s19/WS6.pdf) \[Worksheet 6 Solution\] |
+| May. 24 | Sorting and tree (part 1)| \[Slides\] \[Worksheet 7\] \[Worksheet 7 Solution\] |
+ 
 
 **Additional Resources**
 
