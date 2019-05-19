@@ -57,7 +57,7 @@ caption = ""
 
 * <span style="color:blue">\[Apr. 18\]</span> Due to unexpected changes, we will have discussion 1D and 1F combined tomorrow (Apr. 19). Dis 1F meets from 12:00-1:50 in Haines A18. Sorry for any inconveniece!
 
-* <span style="color:blue">\[Apr. 23\]</span>  CS32 midterm 1 is held onn either 5:15 to 6:20 in Broad 2160E, 5:45 to 6:50 in Franz 1260, or 6:00 to 7:05 in Haines 39. Thursday, April 25). The midterm is open book, open notes, no electronic devices, covering topics up to and including linked lists (not stacks and queues, not inheritance). The midterm topics generally appear in Chapters 1, 3, 4, and 8 of the textbook. Midterm questions might have you read code, write code, and find bugs in code.
+* <span style="color:blue">\[Apr. 23\]</span>  CS32 midterm 1 is held on 5:15 to 6:20 in Broad 2160E, 5:45 to 6:50 in Franz 1260, or 6:00 to 7:05 in Haines 39. Thursday, April 25). The midterm is open book, open notes, no electronic devices, covering topics up to and including linked lists (not stacks and queues, not inheritance). The midterm topics generally appear in Chapters 1, 3, 4, and 8 of the textbook. Midterm questions might have you read code, write code, and find bugs in code.
 
 * <span style="color:blue">\[Apr. 23\]</span> [Homework 2](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/2/spec.html) is released and due on 11pm on Wednesday, May 1.
 
@@ -67,6 +67,7 @@ caption = ""
 
 * <span style="color:blue">\[May. 11\]</span> [Project 3](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/3/spec.html) is released and due on 11pm on Tuesday, May 21. Start early! (UPE is hosting a [CS32 Project 3 Hack](https://www.facebook.com/events/314588625900724/) Monday, May 13, from 6:30 pm to 8:30 pm in the Covel Grand Horizon Room)
 
+* <span style="color:blue">\[May. 18\]</span> CS32 midterm 2 is held on 5:15 to 6:20 in Broad 2160E, 5:45 to 6:50 in Franz 1260, or 6:00 to 7:05 in Haines 39, Thursday, May 23. The midterm is open book, open notes, no electronic devices, emphasizing stacks and queues, inheritance and polymorphism, and recursion (not templates, not big-O). Please check the [announcements](http://web.cs.ucla.edu/classes/spring19/cs32/announcements.html) and sign up!
 
 **Discussion Materials:**
 
@@ -80,6 +81,7 @@ caption = ""
 | May. 3 | Inheritance, polymorphism and recursion (preview) | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week05.pdf) [\[Worksheet 4\]](https://www.haojunheng.com/files/cs32-s19/WS4.pdf) [\[Worksheet 4 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS4-Sol.pdf)|
 | May. 10 | Recursion (review), tempalte and STL (preview) | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week06.pdf) [\[Worksheet 5\]](https://www.haojunheng.com/files/cs32-s19/WS5.pdf)  [\[Worksheet 5 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS5-Sol.pdf) |
 | May. 17 | Tempalte and STL (review), algorithmic efficiency | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week07.pdf) [\[Worksheet 6\]](https://www.haojunheng.com/files/cs32-s19/WS6.pdf) \[Worksheet 6 Solution\] |
+| May. 22 | Midterm review by [UPE](https://www.facebook.com/events/271644407056150/) | [\[Midterm-2 Practice 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangMidterm2Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangMidterm2PracticeSolution.pdf) [\[Midterm-2 Practice 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiMidterm2Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiMidterm2PracticeSolution.pdf) |
 | May. 24 | Sorting and tree (part 1)| \[Slides\] \[Worksheet 7\] \[Worksheet 7 Solution\] |
  
 
