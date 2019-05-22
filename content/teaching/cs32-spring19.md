@@ -69,6 +69,8 @@ caption = ""
 
 * <span style="color:blue">\[May. 18\]</span> CS32 midterm 2 is held on 5:15 to 6:20 in Broad 2160E, 5:45 to 6:50 in Franz 1260, or 6:00 to 7:05 in Haines 39, Thursday, May 23. The midterm is open book, open notes, no electronic devices, emphasizing stacks and queues, inheritance and polymorphism, and recursion (not templates, not big-O). Please check the [announcements](http://web.cs.ucla.edu/classes/spring19/cs32/announcements.html) and sign up!
 
+* <span style="color:blue">\[May. 22\]</span> [Homework 4](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/4/spec.html) is released and due on 11pm on Tuesday, May 28.
+
 **Discussion Materials:**
 
 |  Date  |                        Content                      |          Slides & Links            |
