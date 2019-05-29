@@ -71,6 +71,9 @@ caption = ""
 
 * <span style="color:blue">\[May. 22\]</span> [Homework 4](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/4/spec.html) is released and due on 11pm on Tuesday, May 28.
 
+* <span style="color:blue">\[May. 28\]</span> <span style="color:red"> Due to schedule conflicts, I have to change the time of my office hours from 9:30-11:30am to 1:30-3:30pm. </span>
+
+
 **Discussion Materials:**
 
 |  Date  |                        Content                      |          Slides & Links            |
@@ -85,6 +88,7 @@ caption = ""
 | May. 17 | Tempalte and STL (review), algorithmic efficiency | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week07.pdf) [\[Worksheet 6\]](https://www.haojunheng.com/files/cs32-s19/WS6.pdf) [\[Worksheet 6 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS6-Sol.pdf) |
 | May. 22 | Midterm review by [UPE](https://www.facebook.com/events/271644407056150/) | [\[Midterm-2 Practice 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangMidterm2Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangMidterm2PracticeSolution.pdf) [\[Midterm-2 Practice 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiMidterm2Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiMidterm2PracticeSolution.pdf) |
 | May. 24 | Sorting and tree (part 1)| [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week08.pdf) [\[Worksheet 7\]](https://www.haojunheng.com/files/cs32-s19/WS7.pdf) \[Worksheet 7 Solution\] |
+| May. 31 | Tree (part 2), heap and hashtable | \[Slides\] \[Worksheet 8\] \[Worksheet 8 Solution\]|
  
 
 **Additional Resources**
