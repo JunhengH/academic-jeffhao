@@ -73,6 +73,7 @@ caption = ""
 
 * <span style="color:blue">\[May. 28\]</span> <span style="color:red"> Due to schedule conflicts, I have to change the time of my office hours from 9:30-11:30am to 1:30-3:30pm. </span>
 
+* <span style="color:blue">\[May. 29\]</span> [Project 4](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/4/spec.html) is released and due on 11pm on Thursday, June 6. Start early!
 
 **Discussion Materials:**
 
