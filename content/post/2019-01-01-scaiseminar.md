@@ -29,3 +29,5 @@ Schedule:
 | 4.26  | [Some recent advances in GANs](https://docs.google.com/presentation/d/1vyTXLj_yiH2tbHki6aOOgHNhb_vlKBjWvKxVNBdRPeA/edit?usp=sharing)  | [Ting Chen](http://web.cs.ucla.edu/~tingchen/) | [PDF](https://openreview.net/forum?id=Hkl5aoR5tm) |
 | 5.17  | Aggregates in Recursive Programs  and Declarative Algorithms for BigData | [Carlo Zaniolo](http://web.cs.ucla.edu/~zaniolo/) | N/A |
 | 5.21  | Graph Representation Learning: Algorithms, Applications and Systems | [Jian Tang](https://jian-tang.com/) | N/A |
+| 5.24  | [Geometric Scattering on Graphs and Manifolds](https://drive.google.com/file/d/1g7ZTHSab8P5HjibA_aiXRtE8Osj-5SIE/view) | [Feng Gao](https://www.canr.msu.edu/people/feng_gao) | N/A |
+| 5.31  | Bridging adversarial robustness with generative adversarial networks | [Xuanqing Liu](https://xuanqing94.github.io/) | N/A | 
