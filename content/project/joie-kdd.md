@@ -17,7 +17,6 @@ caption = ""
 
 The project page is under construction!
 
-<!DOCTYPE html>
 <meta charset="utf-8">
 <style>
 
