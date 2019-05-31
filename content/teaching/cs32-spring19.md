@@ -87,7 +87,7 @@ caption = ""
 | May. 17 | Tempalte and STL (review), algorithmic efficiency | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week07.pdf) [\[Worksheet 6\]](https://www.haojunheng.com/files/cs32-s19/WS6.pdf) [\[Worksheet 6 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS6-Sol.pdf) |
 | May. 22 | Midterm review by [UPE](https://www.facebook.com/events/271644407056150/) | [\[Midterm-2 Practice 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangMidterm2Practice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangMidterm2PracticeSolution.pdf) [\[Midterm-2 Practice 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiMidterm2Practice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiMidterm2PracticeSolution.pdf) |
 | May. 24 | Sorting and tree (part 1)| [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week08.pdf) [\[Worksheet 7\]](https://www.haojunheng.com/files/cs32-s19/WS7.pdf) \[Worksheet 7 Solution\] |
-| May. 31 | Tree & BST (part 2) and hashtable | \[Slides\] \[Worksheet 8\] \[Worksheet 8 Solution\]|
+| May. 31 | Tree & BST (part 2) and hashtable | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week09.pdf) [\[Worksheet 8\]]((https://www.haojunheng.com/files/cs32-s19/WS8.pdf)) \[Worksheet 8 Solution\]|
 | June 1 | Final exam review & practice | \[Final Practice 1\] \[Soultion 1\] \[Final Practice 2\] \[Soultion 2\]|
 | June 7 | Heap, graph and final exam review |  \[Slides\] \[Worksheet 9\] \[Worksheet 9 Solution\] | 
  
