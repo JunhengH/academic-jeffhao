@@ -75,6 +75,8 @@ caption = ""
 
 * <span style="color:blue">\[June 2\]</span> UPE is hosting a [final exam review session](https://www.facebook.com/events/572196233271932/) on Thursday, June 6, from 6:30 pm to 8:30 pm in Haines 220.
 
+* <span style="color:blue">\[June 2\]</span> [Homework 5](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/5/spec.html) is released and due on 11pm on Thursday, June 6 (same as Project 4).
+
 
 **Discussion Materials:**
 
