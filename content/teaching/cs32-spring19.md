@@ -71,7 +71,7 @@ caption = ""
 
 * <span style="color:blue">\[May. 22\]</span> [Homework 4](http://web.cs.ucla.edu/classes/spring19/cs32/Homeworks/4/spec.html) is released and due on 11pm on Tuesday, May 28.
 
-* <span style="color:blue">\[May. 29\]</span> [Project 4](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/4/spec.html) and [FAQ]() are released and due on 11pm on Thursday, June 6. Start early!
+* <span style="color:blue">\[May. 29\]</span> [Project 4](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/4/spec.html) and [FAQ](http://web.cs.ucla.edu/classes/spring19/cs32/Projects/4/faq.html) are released and due on 11pm on Thursday, June 6. Start early!
 
 * <span style="color:blue">\[June 2\]</span> UPE is hosting a [final exam review session](https://www.facebook.com/events/572196233271932/) on Thursday, June 6, from 6:30 pm to 8:30 pm in Haines 220.
 
