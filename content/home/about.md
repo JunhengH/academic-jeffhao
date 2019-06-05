@@ -36,6 +36,7 @@ I am currently a second-year Ph.D student in [Scalable Analytics Institute](http
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
+- [2019.6] Attending [ICML'19](https://icml.cc/) on June 11-13. See you at Long Beach!
 - [2019.4] One research track paper accepted at [KDD 2019](https://www.kdd.org/kdd2019/). See you in Anchorage, Alaska!
 - [2018.11] One journal paper accepted at Transportation Research Part B: Methodological (TRB). 
 - [2018.7] PC member of [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2018/), IEEE ICDM 2018

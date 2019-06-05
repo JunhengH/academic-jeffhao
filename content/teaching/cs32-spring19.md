@@ -79,6 +79,8 @@ caption = ""
 
 * <span style="color:blue">\[June 3\]</span> An LA-led final exam review workshop will be held on Tuesday, June 4, from 5:00 to 6:00 in 289 Engr VI.
 
+* <span style="color:blue">\[June 5\]</span> Check the final exam schedule on the [announcements](http://web.cs.ucla.edu/classes/spring19/cs32/announcements.html) (either 11:25-1:55 in Haines 39 or 11:40-2:10 in Moore 100)!
+The exam is open book, open notes, no electronic devices.  <span style="color:red"> **Bring a No. 2 pencil to the exam.** </span>
 
 **Discussion Materials:**
 
