@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:blue"> **This site (including slides, etc) will be continuously updated.** </span>
+<span style="color:red"> **This site will no longer be updated since June 8, 2019. Slides are availble upon request.** </span>
 
 **Course Info:**
 

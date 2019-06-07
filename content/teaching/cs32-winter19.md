@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:red"> **This site will no longer updated since March 16, 2019. Slides are availble upon request.** </span>
+<span style="color:red"> **This course is no longer active and this site will no longer be updated since March 16, 2019. Slides are availble upon request.** </span>
 
 **Course Info:**
 
