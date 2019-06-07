@@ -98,7 +98,7 @@ The exam is open book, open notes, no electronic devices.  <span style="color:re
 | May. 24 | Sorting and tree (part 1)| [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week08.pdf) [\[Worksheet 7\]](https://www.haojunheng.com/files/cs32-s19/WS7.pdf) [\[Worksheet 7 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS7-Sol.pdf) |
 | May. 31 | Tree & BST (part 2) and hashtable | [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week09.pdf) [\[Worksheet 8\]](https://www.haojunheng.com/files/cs32-s19/WS8.pdf) [\[Worksheet 8 Solution\]](https://www.haojunheng.com/files/cs32-s19/WS8-Sol.pdf)|
 | June 3 | Final exam review & practice | [\[Final Practice 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangFinalPractice.pdf) [\[Soultion 1\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChangFinalPracticeSolution.pdf) [\[Final Practice 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiFinalPractice.pdf) [\[Soultion 2\]](http://web.cs.ucla.edu/classes/spring19/cs32/Sampleproblems/ChoiFinalPracticeSolution.pdf)|
-| June 7 | Heap, graph and final exam review |  [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week10.pdf)  [\[LA-workshop Final Practice\]](tinyurl.com/CS32-LAFinal)| 
+| June 7 | Heap, graph and final exam review |  [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week10.pdf)  [\[LA-workshop Final Practice\]](https://tinyurl.com/CS32-LAFinal)| 
  
 
 **Additional Resources**
