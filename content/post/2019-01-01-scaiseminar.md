@@ -31,4 +31,4 @@ Schedule:
 | 5.21  | [Graph Representation Learning: Algorithms, Applications and Systems](https://drive.google.com/file/d/1Q7sSDxajvpt4KRYjeDzXkbPVaDUfOCe-/view) | [Jian Tang](https://jian-tang.com/) | N/A |
 | 5.24  | [Geometric Scattering on Graphs and Manifolds](https://drive.google.com/file/d/1g7ZTHSab8P5HjibA_aiXRtE8Osj-5SIE/view) | [Feng Gao](https://www.canr.msu.edu/people/feng_gao) | N/A |
 | 5.31  | [Bridging adversarial robustness with generative adversarial networks](https://drive.google.com/file/d/1c790D0n1uQc-PtW3k9shf5pZJ1JqCyS_/view) | [Xuanqing Liu](https://xuanqing94.github.io/) | N/A |
-|  6.7  | Robustness Verification of Neural Networks | [Huan Liu](https://www.huan-zhang.com/) | N/A | 
+|  6.7  | [Robustness Verification of Neural Networks](https://drive.google.com/file/d/199inwaaz455OZFDcIC_DKmkgG1QCFSqx/view) | [Huan Liu](https://www.huan-zhang.com/) | N/A | 
