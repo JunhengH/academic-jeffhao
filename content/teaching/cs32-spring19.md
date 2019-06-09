@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:red"> **This site will no longer be updated since June 8, 2019. Slides are availble upon request.** </span>
+<span style="color:red"> **This course is no longer active and this site will no longer be updated since June 8, 2019. Slides are availble upon request.** </span>
 
 **Course Info:**
 
@@ -81,6 +81,8 @@ caption = ""
 
 * <span style="color:blue">\[June 5\]</span> Check the final exam schedule on the [announcements](http://web.cs.ucla.edu/classes/spring19/cs32/announcements.html) (either 11:25-1:55 in Haines 39 or 11:40-2:10 in Moore 100)!
 The exam is open book, open notes, no electronic devices.  <span style="color:red"> **Bring a No. 2 pencil to the exam.** </span>
+
+* <span style="color:blue">\[June 8\]</span> The course ends today and hope you have an enjoyable summer!
 
 **Discussion Materials:**
 
