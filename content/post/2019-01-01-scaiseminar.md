@@ -26,7 +26,7 @@ Schedule:
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
 
-There is no seminars during summer session. More information will be updated by September, 2019.
+<span style="color:red"> There is no seminars during summer session. More information will be updated by September, 2019. </span>
 
 Seminars in previous academic year:
 
