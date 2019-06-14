@@ -1,5 +1,5 @@
 +++
-title = "ScAI Machine Learning Seminar, (Updating)"
+title = "ScAI Machine Learning Seminar (2019-2020, Updating)"
 date = 2019-01-01T00:00:00
 math = false
 highlight = true
@@ -22,6 +22,9 @@ Welcome to our ScAI seminar on machine learning! Each week, we invite a current 
 Location: Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
 
 Schedule:
+
+|  Date |                        Title                        |               Speaker              |  Refs. |
+|:------|:----------------------------------------------------|:-----------------------------------|:-------|
 
 There is no seminars during summer session. More information will be updated by September, 2019.
 

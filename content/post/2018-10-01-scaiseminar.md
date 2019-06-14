@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-Archive of ScAI machine learning seminar in Fall quarter, 2018.
+Archive of ScAI machine learning seminar in 2018-19 academic year.
 
 [\[Current Seminar\]](https://www.haojunheng.com/post/2019-01-01-scaiseminar/)
 
