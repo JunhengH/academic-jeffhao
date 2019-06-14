@@ -42,5 +42,4 @@ Before coming to UCLA, I graduated in 2017 from [Department of Automation](http:
 - [2018.11] One journal paper accepted at Transportation Research Part B: Methodological (TRB). 
 - [2018.07] PC member of the 1st [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2018/), IEEE ICDM 2018
 - [2018.06] Start my summer research internship at [NEC Labs America](http://www.nec-labs.com/research-departments/computer-security/computer-security-home) (Princeton) with my mentor [Lu-An Tang](http://www.nec-labs.com/lu-an-tang). 
-- [2017.09] PhD student at UCLA. Go Bruins!
-- [More news ...](https://www.haojunheng.com/)
+- [More news ...](https://www.haojunheng.com/others/news)
