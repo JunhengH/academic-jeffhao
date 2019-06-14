@@ -1,5 +1,5 @@
 +++
-title = "ScAI Machine Learning Seminar, Spring 2019 (Updating)"
+title = "ScAI Machine Learning Seminar, (Updating)"
 date = 2019-01-01T00:00:00
 math = false
 highlight = true
@@ -17,19 +17,17 @@ caption = ""
 
 Welcome to our ScAI seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides.
 
-[\[Spring 2019\]](https://scai.cs.ucla.edu/?page_id=373)
+[\[Fall 2019\]](https://scai.cs.ucla.edu/?page_id=373)
 
 Location: Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
 
 Schedule:
 
-|  Date |                        Title                        |               Speaker              |  Refs. |
-|:------|:----------------------------------------------------|:-----------------------------------|:-------|
-| 4.12  | [Generalization Error Bounds of Gradient Descent for Learning Over-parameterized Deep ReLU Networks](https://drive.google.com/file/d/1bQmT91XQsVT0fXhWDEDt8AI7Kl9hfLcX/view) | Yuan Cao | [PDF](https://arxiv.org/abs/1902.01384) |
-| 4.26  | [Some recent advances in GANs](https://docs.google.com/presentation/d/1vyTXLj_yiH2tbHki6aOOgHNhb_vlKBjWvKxVNBdRPeA/edit?usp=sharing)  | [Ting Chen](http://web.cs.ucla.edu/~tingchen/) | [PDF](https://openreview.net/forum?id=Hkl5aoR5tm) |
-| 5.17  | [Aggregates in Recursive Programs  and Declarative Algorithms for Big Data](https://drive.google.com/file/d/10AoFFN4DMoGgygXdVI6lEDeYDa_Fszuz/view) | [Carlo Zaniolo](http://web.cs.ucla.edu/~zaniolo/) | [PDF](https://pdfs.semanticscholar.org/61ff/5f2459ff2ce9004c02e9fd875145cf052110.pdf)|
-| 5.21  | [Graph Representation Learning: Algorithms, Applications and Systems](https://drive.google.com/file/d/1Q7sSDxajvpt4KRYjeDzXkbPVaDUfOCe-/view) | [Jian Tang](https://jian-tang.com/) | [Link](http://www.ipam.ucla.edu/abstract/?tid=16001&pcode=GLWS4) |
-| 5.24  | [Geometric Scattering on Graphs and Manifolds](https://drive.google.com/file/d/1g7ZTHSab8P5HjibA_aiXRtE8Osj-5SIE/view) | [Feng Gao](https://www.canr.msu.edu/people/feng_gao) | [PDF](https://arxiv.org/pdf/1905.10448.pdf) |
-| 5.31  | [Bridging adversarial robustness with generative adversarial networks](https://drive.google.com/file/d/1c790D0n1uQc-PtW3k9shf5pZJ1JqCyS_/view) | [Xuanqing Liu](https://xuanqing94.github.io/) | [PDF](https://arxiv.org/pdf/1903.11626.pdf) |
-|  6.7  | [Robustness Verification of Neural Networks](https://drive.google.com/file/d/199inwaaz455OZFDcIC_DKmkgG1QCFSqx/view) | [Huan Liu](https://www.huan-zhang.com/) | N/A | 
-|  6.10 | Random Search and Reproducibility for Neural Architecture Search | [Liam Li](https://liamcli.com/) | [PDF](https://liamcli.com/assets/pdf/randnas_arxiv.pdf) |
+There is no seminars during summer session. More information will be updated by September, 2019.
+
+Seminars in previous academic year:
+
+* [\[Archive 2018-2019\]](https://www.haojunheng.com/post/2018-010-01-scaiseminar/)
+
+* [\[Archive 2017-2018\]](https://www.haojunheng.com/post/2018-07-01-scaiseminar/)
+
