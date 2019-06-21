@@ -17,6 +17,7 @@ caption = ""
 
 ### Year of 2019
 - <span style="color:blue">**[2019.06]**</span> Start my summer internship as an applied scientist intern with Product Graph Team at Amazon Seattle.
+- <span style="color:blue">**[2019.06]**</span> Received KDD 2019 Travel Award.
 - <span style="color:blue">**[2019.06]**</span> External reviewer of EMNLP 2019.
 - <span style="color:blue">**[2019.06]**</span> PC member of the 2nd [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/), IEEE ICDM 2019.
 - <span style="color:blue">**[2019.06]**</span> Attending [ICML'19](https://icml.cc/) on June 11-13. See you at Long Beach!
