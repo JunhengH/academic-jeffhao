@@ -16,9 +16,10 @@ caption = ""
 +++
 
 ### Year of 2019
-- <span style="color:blue">**[2019.06]**</span> Start my summer internship as an applied scientist intern with Product Graph Team at Amazon Seattle.
+- <span style="color:blue">[2019.06]</span> PC member of [SoCal NLP Symposium 2019](https://socalnlp.github.io/symp19/index.html).
+- <span style="color:blue">[2019.06]</span> Start my summer internship as an applied scientist intern in [Product Graph/Substitute](https://blog.aboutamazon.com/innovation/making-search-easier) Team at Amazon Seattle (with [Tong Zhao](https://www.linkedin.com/in/tonytongzhao/), [Xin Luna Dong](http://lunadong.com/) and [Christos Faloutsos](http://www.cs.cmu.edu/~christos/))
 - <span style="color:blue">**[2019.06]**</span> Received KDD 2019 Travel Award.
-- <span style="color:blue">**[2019.06]**</span> External reviewer of EMNLP 2019.
+- <span style="color:blue">**[2019.06]**</span> External reviewer of [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/), [ICDM 2019](http://icdm2019.bigke.org/), [ECML PKDD 2019](http://www.ecmlpkdd2019.org/).
 - <span style="color:blue">**[2019.06]**</span> PC member of the 2nd [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/), IEEE ICDM 2019.
 - <span style="color:blue">**[2019.06]**</span> Attending [ICML'19](https://icml.cc/) on June 11-13. See you at Long Beach!
 - <span style="color:blue">**[2019.04]**</span> One research track paper accepted at [KDD 2019](https://www.kdd.org/kdd2019/). See you in Anchorage, Alaska!
