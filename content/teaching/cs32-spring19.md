@@ -17,7 +17,7 @@ caption = ""
 
 <span style="color:red"> **This course is no longer active and this site will no longer be updated since June 8, 2019. Slides are availble upon request.** </span>
 
-**Course Info:**
+## Course Info
 
 * Instructor: David Smallberg
 
@@ -25,7 +25,7 @@ caption = ""
 
 * Course website: [http://web.cs.ucla.edu/classes/spring19/cs32/](http://web.cs.ucla.edu/classes/spring19/cs32/)
 
-**TA & LA Info:**
+## TA & LA Info
 
 * TA: Junheng Hao, email: haojh[DOT]ucla[AT]gmail[DOT]com (for CS32 only, and please put "CS32" in the subject of the email)
 
@@ -35,13 +35,13 @@ caption = ""
 
 * LA office hours: Tuesdays 1:00-2:00pm & 4:00-5:00pm
 
-**Discussion Info (Dis 1F, instructed by Junheng):**
+## Discussion Info (Dis 1F, instructed by Junheng)
 
 * Time: Fridays 12pm-1:50pm
 
 * Location: Boelter Hall 5264
 
-**Announcements:**
+## Announcements:
 
 * <span style="color:blue">\[Mar. 31\]</span> Welcome to CS32: Introduction to Computer Science II (data structures). Pleae check the [course syllabus](http://web.cs.ucla.edu/classes/spring19/cs32/syllabus.html).
 
@@ -84,7 +84,7 @@ The exam is open book, open notes, no electronic devices. Bring a No. 2 pencil t
 
 * <span style="color:blue">\[June 8\]</span> The course ends today and hope you have an enjoyable summer!
 
-**Discussion Materials:**
+## Discussion Materials
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
@@ -103,7 +103,7 @@ The exam is open book, open notes, no electronic devices. Bring a No. 2 pencil t
 | June 7 | Heap, graph and final exam review |  [\[Slides\]](https://www.haojunheng.com/files/cs32-s19/CS32S19_dis_week10.pdf)  [\[LA-workshop Final Practice\]](https://tinyurl.com/CS32-LAFinal)| 
  
 
-**Additional Resources**
+## Additional Resources
 
 * Supplemental materials from other Spring19-CS32 TAs
 

@@ -19,6 +19,8 @@ caption = ""
 
 Discussion Materials for CS145, instructed by [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/). More details on [course website](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html). 
 
+## Discussion Slides
+
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|
 | Oct. 5 | Math review (Basic linear algebra, probabilities, optimization) | [Slides Week1](https://www.haojunheng.com/files/cs145-f18/Discussion_Week1.pptx), [Math essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)|

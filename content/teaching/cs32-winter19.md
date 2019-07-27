@@ -17,7 +17,7 @@ caption = ""
 
 <span style="color:red"> **This course is no longer active and this site will no longer be updated since March 16, 2019. Slides are availble upon request.** </span>
 
-**Course Info:**
+## Course Info
 
 * Instructor: David Smallberg, Carey Nachenberg
 
@@ -25,7 +25,7 @@ caption = ""
 
 * Course website: [http://web.cs.ucla.edu/classes/winter19/cs32/](http://web.cs.ucla.edu/classes/winter19/cs32/)
 
-**TA & LA Info (Dis 2B):**
+## TA & LA Info (Dis 2B)
 
 * TA: Junheng Hao, email: haojh.ucla [AT] gmail [DOT] com (for CS32 only)
 
@@ -35,13 +35,13 @@ caption = ""
 
 * LA office hours: Thursday 8:30am-9:30am & 4:30pm-5:30pm @BH3256S
 
-**Discussion Info (Dis 2B, instructed by Junheng):**
+## Discussion Info (Dis 2B, instructed by Junheng)
 
 * Time: Friday 12pm-1:50pm (except week 1 & 3)
 
 * Location: Rolfe Hall 3134
 
-**Announcement:**
+## Announcement
 
 * <span style="color:blue">\[Jan. 9\]</span> There are no discussion sessions on the first and third week (Jan. 11 and Jan. 25). Prof. Smallberg will hold lectures instead. Check the [course syllabus](http://web.cs.ucla.edu/classes/winter19/cs32/).
 
@@ -69,7 +69,7 @@ caption = ""
 
 * <span style="color:blue">\[Mar. 15\]</span> Check final exam schedule and announcements at [here](http://web.cs.ucla.edu/classes/winter19/cs32/announcements.html)!
 
-**Discussion Materials:**
+## Discussion Materials
 
 |  Date |                        Content                      |          Slides & Links            |
 |:------|:----------------------------------------------------|:-----------------------------------|
@@ -87,7 +87,7 @@ caption = ""
 | Mar. 15 | Priority queue, Heap, Final exam review | [\[Slides\]](https://www.haojunheng.com/files/cs32-w19/CS32_dis_week10.pdf) |
 
 
-**Additional Resources**
+## Additional Resources
 
 * Supplemental material from other Winter19-CS32 TAs
 
