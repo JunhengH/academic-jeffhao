@@ -21,7 +21,8 @@ Many large-scale knowledge bases simultaneously represent two views of knowledge
 
 ## Introduction
 
-To be added soon!
+One example of a two-view knowledge graph. 
+![Two-view KG](static/img/project/kdd10-joie-twoview.png)
 
 ## Modeling
 
@@ -29,7 +30,7 @@ To be added soon!
 
 ## More Info
 
-**Publication:** The 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019
+**Publication:** The 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 
 **Date:** August, 2019
 
