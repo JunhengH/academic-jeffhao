@@ -36,7 +36,8 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-* **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts". To Appear in the 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. 
+
+* **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "[Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](https://www.haojunheng.com/files/pubs/KDD19-JOIE.pdf)". To Appear in the 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. 
 
 * Chenshuo Sun, Xin Pei, **Junheng Hao**, Yewen Wang, Zuo Zhang, SC Wong. "[Role of road network features in the evaluation of incident impacts on urban traffic mobility](https://ucelinks.cdlib.org/sfx_local?sid=google&auinit=C&aulast=Sun&atitle=Role+of+road+network+features+in+the+evaluation+of+incident+impacts+on+urban+traffic+mobility&id=doi:10.1016/j.trb.2018.08.013&title=Transportation+research.+Part+B:+methodological&volume=117&date=2018&spage=101&issn=0191-2615)". In Transportation Research Part B: Methodological (TRB), 2018. 
 
