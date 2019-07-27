@@ -21,8 +21,7 @@ Many large-scale knowledge bases simultaneously represent two views of knowledge
 
 ## Introduction
 
-One example of a two-view knowledge graph. 
-![Two-view KG](https://www.haojunheng.com/img/project/kdd10-joie-twoview.png)
+{{< figure library="true" src="project/kdd19-joie-twoview.png" title="One example of a two-view knowledge graph" lightbox="true" >}}
 
 ## Modeling
 
