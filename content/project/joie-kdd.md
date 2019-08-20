@@ -33,5 +33,5 @@ To be added soon!
 
 **Date:** August, 2019
 
-**Links:** [Paper](https://dl.acm.org/citation.cfm?id=3330838), [PDF](https://www.haojunheng.com/files/pubs/KDD19-JOIE.pdf), [Github](https://github.com/JunhengH/joie-kdd19), [Video](https://youtu.be/krJP6Lpa4so), [Poster](https://www.haojunheng.com/files/pubs/KDD19-JOIE-Poster.pdf)
+**Links:** [Paper](https://dl.acm.org/citation.cfm?id=3330838), [PDF](https://www.haojunheng.com/files/pubs/KDD19-JOIE.pdf), [Github](https://github.com/JunhengH/joie-kdd19), [Video](https://youtu.be/krJP6Lpa4so), [Slides](https://www.haojunheng.com/files/pubs/KDD19-JOIE-Presentation.pdf), [Poster](https://www.haojunheng.com/files/pubs/KDD19-JOIE-Poster.pdf)
 
