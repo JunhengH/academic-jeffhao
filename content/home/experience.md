@@ -23,11 +23,11 @@ date_format = "January 2006"
   title = "Applied Scientist Intern"
   company = "Amazon"
   company_url = "https://blog.aboutamazon.com/innovation/making-search-easier"
-  location = "Princeton, NJ"
+  location = "Seattle, WA"
   date_start = "2019-06-24"
   date_end = "2019-09-20"
   description = """
-  Project: Diversified Complementary Recommendation by utilizing Amazon Product Graphs
+  Project: Diversified Complementary Recommendation by utilizing Amazon Product Graphs and Taxonomy
   """
 
 [[experience]]
