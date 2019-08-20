@@ -19,7 +19,7 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 
 [\[Current Seminar\]](https://www.haojunheng.com/post/2019-01-01-scaiseminar/)
 
-[\[Spring 2018\]](http://yunshengb.com/spring-2018-machine-learning-seminar/)
+### [Spring 2018](http://yunshengb.com/spring-2018-machine-learning-seminar/)
 
 - Topics: Autoencoders, Advanced Graph Convolutional Networks, GAN for Natural Language Processing, Unsupervised Rare Pattern Mining, Influence Maximization on Social Graphs
 - Schdule
@@ -32,7 +32,7 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 | 5.11 | [Unsupervised Rare Pattern Mining](http://yunshengb.com/wp-content/uploads/2018/04/Unsupervised-Rare-Pattern-Mining.pdf) | Jiaqi Zhu | [Video](https://youtu.be/Bt4rYRJJxzU) | [TKDE'16](https://ieeexplore.ieee.org/document/7431989) [TKDD'16](https://dl.acm.org/citation.cfm?id=2898359) [SIGKDD'17](https://arxiv.org/abs/1708.01967) |
 | 5.25 | [Influence Maximization on Social Graphs](http://yunshengb.com/wp-content/uploads/2018/05/im_ucla_ml_ytwen0525.pdf) | Yuting Wen | [Video](https://youtu.be/XiELAbdqF9g) | [WSDM'17](https://dl.acm.org/citation.cfm?id=3018705) [CIKM'16](https://dl.acm.org/citation.cfm?id=2983724) |
 
-[\[Winter 2018\]](http://yunshengb.com/winter-2018-machine-learning-seminar/) 
+###  [Winter 2018](http://yunshengb.com/winter-2018-machine-learning-seminar/) 
 
 - Topics: Fairness in Machine Learning, Matrix Completion with Graph Neural Networks, Theory and Applications of Wasserstein Distance, Deep Reinforcement Learning, Capsule Networks.
 - Schedule
@@ -45,7 +45,7 @@ Archive of ScAI machine learning seminar in 2017-18 academic year.
 | 3.9 | [Deep Reinforcement Learning](http://yunshengb.com/wp-content/uploads/2018/03/Seminar_Changjun_Fan.pdf) | Changjun Fan  | Nature'16 NIPS'17 <br>  [PDF1](https://www.nature.com/articles/nature14236) [PDF2](https://arxiv.org/abs/1704.01665) |
 | 3.16 | [Capsule Networks](http://yunshengb.com/wp-content/uploads/2018/03/capsnet.pdf) | Zeyu Li | NIPS'17 [PDF](https://arxiv.org/pdf/1710.09829.pdf) |
 
-[\[Fall 2017\]](http://yunshengb.com/fall-2017-machine-learning-seminar/) 
+### [Fall 2017](http://yunshengb.com/fall-2017-machine-learning-seminar/) 
 
 - Topics: Network Embedding, Graph Convolutional Networks (GCN), Multi-task Machine Learning, Generative Adversarial Networks (GAN), etc.
 - Schedule

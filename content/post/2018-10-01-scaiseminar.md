@@ -18,8 +18,12 @@ caption = ""
 Archive of ScAI machine learning seminar in 2018-19 academic year.
 
 [\[Current Seminar\]](https://www.haojunheng.com/post/2019-01-01-scaiseminar/)
+### Summer 2019
+|  Date |                        Title                        |               Speaker              |  Refs. |
+|:------|:----------------------------------------------------|:-----------------------------------|:-------|
+| 8.26  | Sublinear Approximation for Large-scale Data Science| [Chi Wang](https://www.microsoft.com/en-us/research/people/chiw/) | NA |
 
-\[Spring 2019\]
+### Spring 2019 
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
@@ -34,7 +38,7 @@ Archive of ScAI machine learning seminar in 2018-19 academic year.
 
 
 
-\[Winter 2019\]
+###  Winter 2019
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-----------|
@@ -47,7 +51,7 @@ Archive of ScAI machine learning seminar in 2018-19 academic year.
 | 3.15 | [Southern California Machine Learning Symposium](https://sites.google.com/view/socalml2019) | [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra), [Pietro Perona](http://www.vision.caltech.edu/Perona.html), [Hongjing Lu](http://cvl.psych.ucla.edu/people.htm), [Alicia Solow-Niederman](https://law.ucla.edu/faculty/faculty-profiles/alicia-solow-niederman/)| N/A|
 | 3.22 |  [Embedding Uncertain Knowledge Graphs](https://drive.google.com/file/d/1XSEp3IUhhLZU1zD9AvFQzIUbNfT_23SZ/view) | [Xuelu Chen](http://yellowstone.cs.ucla.edu/~shirley/) | [PDF](https://arxiv.org/pdf/1811.10667.pdf) |
 
-\[Fall 2018\]
+###  Fall 2018
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-----------|
