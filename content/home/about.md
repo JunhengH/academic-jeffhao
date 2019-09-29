@@ -31,7 +31,7 @@ weight = 5
 
 ## Biography
 
-I am currently a second-year Ph.D student in [Scalable Analytics Institute](https://scai.cs.ucla.edu/) (ScAi), [Department of Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles](http://www.ucla.edu/). My advisors are [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+I am currently a third-year Ph.D student in [Scalable Analytics Institute](https://scai.cs.ucla.edu/) (ScAi), [Department of Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles](http://www.ucla.edu/). My advisors are [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
