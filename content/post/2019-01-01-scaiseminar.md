@@ -25,8 +25,7 @@ Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
-
-<span style="color:red"> There is no seminars during summer session. More information will be updated by September, 2019. </span>
+| 10.4 | Deep Learning on Graphs: Methods and Applications  | [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) | N/A |
 
 Seminars in previous academic year:
 
