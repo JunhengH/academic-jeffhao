@@ -26,6 +26,8 @@ Schedule:
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
 | 10.4 | Deep Learning on Graphs: Methods and Applications  | [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) | N/A |
+| 10.11| [Reducing Societal Bias in Natural Language Processing]()  | [Jieyu Zhao](https://jyzhao.net/) | N/A |
+| 10.18| [Multi-view Knowledge Graphs and Applications on Recommendation]| [Junheng Hao](https://www.haojunheng.com/) | [PDF](https://www.haojunheng.com/files/pubs/KDD19-JOIE.pdf) |
 
 Seminars in previous academic year:
 
