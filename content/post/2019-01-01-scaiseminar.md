@@ -31,7 +31,7 @@ Schedule:
 
 Seminars in previous academic year:
 
-* [\[Archive 2018-2019\]](https://www.haojunheng.com/post/2018-010-01-scaiseminar/)
+* [\[Archive 2018-2019\]](https://www.haojunheng.com/post/2018-10-01-scaiseminar/)
 
 * [\[Archive 2017-2018\]](https://www.haojunheng.com/post/2018-07-01-scaiseminar/)
 
