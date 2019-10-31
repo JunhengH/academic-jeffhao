@@ -28,6 +28,8 @@ Schedule:
 | 10.4 | Deep Learning on Graphs: Methods and Applications  | [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) | N/A |
 | 10.11| [Reducing Societal Bias in Natural Language Processing](https://drive.google.com/file/d/1xOFabPARz4jFQkPqEADW1aNJbbe4Vjei/view)  | [Jieyu Zhao](https://jyzhao.net/) | N/A |
 | 10.18| [Two-view Knowledge Graph Learning and Applications on Recommendation](https://www.haojunheng.com/project/joie-kdd/) | [Junheng Hao](https://www.haojunheng.com/) | [PDF](https://www.haojunheng.com/files/pubs/KDD19-JOIE.pdf) |
+| 10.25| Data Science at Scale: from Theory to Practice | [Xiaolin Shi](https://sites.google.com/site/shixiaolin/) | N/A |
+| 11.1 | How Powerful are Graph Neural Networks? | [Jure Leskovec](https://cs.stanford.edu/~jure/) | N/A |
 
 Seminars in previous academic year:
 
