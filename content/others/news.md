@@ -16,6 +16,7 @@ caption = ""
 +++
 
 ### Year of 2019
+- <span style="color:blue">**[2019.11]**</span> PC member of [ICML 2020](https://icml.cc/).
 - <span style="color:blue">**[2019.08]**</span> External reviewer of [WSDM 2020](http://www.wsdm-conference.org/2020/).
 - <span style="color:blue">**[2019.06]**</span> PC member of [SoCal NLP Symposium 2019](https://socalnlp.github.io/symp19/index.html).
 - <span style="color:blue">**[2019.06]**</span> Start my summer internship as an applied scientist intern in [Product Graph/Substitute](https://blog.aboutamazon.com/innovation/making-search-easier) Team at Amazon Seattle (with [Tong Zhao](https://www.linkedin.com/in/tonytongzhao/), [Xin Luna Dong](http://lunadong.com/) and [Christos Faloutsos](http://www.cs.cmu.edu/~christos/))
