@@ -36,7 +36,7 @@ I am currently a third-year Ph.D student in [Scalable Analytics Institute](https
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
-- <span style="color:blue">[2019.06]</span> PC member of [SoCal NLP Symposium 2019](https://socalnlp.github.io/symp19/index.html).
+- <span style="color:blue">**[2019.11]**</span> Reviewer of [ICML 2020](https://icml.cc/).
 - <span style="color:blue">[2019.06]</span> Start my summer internship as an applied scientist intern in [Product Graph/Substitute](https://blog.aboutamazon.com/innovation/making-search-easier) Team at Amazon Seattle (with [Tong Zhao](https://www.linkedin.com/in/tonytongzhao/), [Xin Luna Dong](http://lunadong.com/) and [Christos Faloutsos](http://www.cs.cmu.edu/~christos/))
 - <span style="color:blue">[2019.06]</span> PC member of the 2nd [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2019/), IEEE ICDM 2019.
 - <span style="color:blue">[2019.06]</span> Attending [ICML'19](https://icml.cc/) on June 11-13. See you at Long Beach!
