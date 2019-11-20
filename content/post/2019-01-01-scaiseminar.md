@@ -29,9 +29,9 @@ Schedule:
 | 10.11| [Reducing Societal Bias in Natural Language Processing](https://drive.google.com/file/d/1xOFabPARz4jFQkPqEADW1aNJbbe4Vjei/view)  | [Jieyu Zhao](https://jyzhao.net/) | N/A |
 | 10.18| [Two-view Knowledge Graph Learning and Applications on Recommendation](https://www.haojunheng.com/project/joie-kdd/) | [Junheng Hao](https://www.haojunheng.com/) | [PDF](https://www.haojunheng.com/files/pubs/KDD19-JOIE.pdf) |
 | 10.25| Data Science at Scale: from Theory to Practice | [Xiaolin Shi](https://sites.google.com/site/shixiaolin/) | N/A |
-| 11.1 | How Powerful are Graph Neural Networks? (Cancelled) | [Jure Leskovec](https://cs.stanford.edu/~jure/) | N/A |
-| 11.20 | Machine Reading for Precision Medicine | [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/) | N/A |
-| 11.22 | Deep Probabilistic Logic: A Unifying Framework for Self-Supervision (Location: MRL1-441)  | [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/) | N/A |
+| 11.1 | How Powerful are Graph Neural Networks? <span style="color:red">(Cancelled)</span> | [Jure Leskovec](https://cs.stanford.edu/~jure/) | N/A |
+| 11.20 | Machine Reading for Precision Medicine <span style="color:blue">(Location: MRL1-441)</span> | [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/) | N/A |
+| 11.22 | Deep Probabilistic Logic: A Unifying Framework for Self-Supervision  | [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/) | N/A |
 
 Seminars in previous academic year:
 
