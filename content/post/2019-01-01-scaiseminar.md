@@ -31,7 +31,7 @@ Schedule:
 | 10.25| Data Science at Scale: from Theory to Practice | [Xiaolin Shi](https://sites.google.com/site/shixiaolin/) | N/A |
 | 11.1 | How Powerful are Graph Neural Networks? <span style="color:red">(Cancelled)</span> | [Jure Leskovec](https://cs.stanford.edu/~jure/) | N/A |
 | 11.20 | Machine Reading for Precision Medicine <span style="color:blue">(Location: MRL1-441)</span> | [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/) | N/A |
-| 11.22 | Deep Probabilistic Logic: A Unifying Framework for Self-Supervision  | [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/) | N/A |
+| 11.22 | [Deep Probabilistic Logic: A Unifying Framework for Self-Supervision](https://drive.google.com/file/d/1kveAeveSuRRM9WDF_Q039d8brd9Ro6fe/view)  | [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/) | N/A |
 
 Seminars in previous academic year:
 
