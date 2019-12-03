@@ -18,6 +18,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Ph.D. Candidate in Computer Science"
+  institution = "University of California, Los Angeles"
+  year = 2019
+
+[[education.courses]]
   course = "Ph.D. Student in Computer Science"
   institution = "University of California, Los Angeles"
   year = 2018
