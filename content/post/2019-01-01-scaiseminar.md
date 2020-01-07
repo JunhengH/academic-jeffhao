@@ -17,11 +17,17 @@ caption = ""
 
 Welcome to our ScAI seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides.
 
-### [Fall 2019](https://scai.cs.ucla.edu/?page_id=373)
+### [Winter 2019](https://scai.cs.ucla.edu/?page_id=373)
 
-Location: Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
+Time & Location: 10:00-11:30am, Fridays, Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
 
 Schedule:
+
+|  Date |                        Title                        |               Speaker              |  Refs. |
+|:------|:----------------------------------------------------|:-----------------------------------|:-------|
+
+
+### Fall 2019
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
