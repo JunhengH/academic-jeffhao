@@ -25,7 +25,7 @@ date_format = "January 2006"
   company_url = "https://blog.aboutamazon.com/innovation/making-search-easier"
   location = "Seattle, WA"
   date_start = "2019-06-24"
-  date_end = "2019-09-20"
+  date_end = "2019-12-11"
   description = """
   Project: Diversified Complementary Recommendation by utilizing Amazon Product Graphs and Taxonomy
   """
