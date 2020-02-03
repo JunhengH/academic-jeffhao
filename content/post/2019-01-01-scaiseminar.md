@@ -25,6 +25,7 @@ Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
+| 2.7 | Dynamic Neural User Models | [Srijan Kumar](https://cs.stanford.edu/~srijan/) | [PDF](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)|
 
 
 ### Fall 2019
