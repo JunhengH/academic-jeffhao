@@ -26,6 +26,8 @@ Schedule:
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
 | 2.7 | Dynamic Neural User Models | [Srijan Kumar](https://cs.stanford.edu/~srijan/) | [PDF](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)|
+| 2.21 | [Neural Network-based Graph-Level Operator Learning](https://docs.google.com/presentation/d/1SoeQRS961VDcRAn_d8wMmJ110GzTlCAB60t4sIQnRCI/edit) | [Yunsheng Bai](http://yunshengb.com/) | N/A |
+| 2.28 | Unsupervised state embedding and aggregation towards scalable reinforcement learning | [Mengdi Wang](https://mwang.princeton.edu/) | N/A |
 
 
 ### Fall 2019
