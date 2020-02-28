@@ -16,6 +16,7 @@ caption = ""
 +++
 
 ### Year of 2020
+- <span style="color:blue">**[2020.02]**</span> Reviewer of [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 
 ### Year of 2019
 - <span style="color:blue">**[2019.12]**</span> Passed oral qualification exam (OQE) and officially advanced to candidacy.
