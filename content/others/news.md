@@ -16,6 +16,7 @@ caption = ""
 +++
 
 ### Year of 2020
+- <span style="color:blue">**[2020.04]**</span> PC member of the [AACL-IJCNLP 2020](http://aacl2020.org/).
 - <span style="color:blue">**[2020.04]**</span> PC member of the 3rd [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2020/), IEEE BigData 2020.
 - <span style="color:blue">**[2020.03]**</span> PC member of [ECML-PKDD 2020](https://ecmlpkdd2020.net/) (Applied Data Science Track/Demo Track).
 - <span style="color:blue">**[2020.02]**</span> Reviewer of [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
