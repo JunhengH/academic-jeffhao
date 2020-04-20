@@ -17,7 +17,8 @@ caption = ""
 
 Welcome to our ScAI seminar on machine learning! Each week, we invite a current researcher to give a talk on the latest advancement in big data and machine learning. Please check the following links to slides.
 
-### [Winter 2019](https://scai.cs.ucla.edu/?page_id=373)
+
+### [Spring 2019](https://scai.cs.ucla.edu/?page_id=373)
 
 Time & Location: 10:00-11:30am, Fridays, Room 289, [Engeering VI](https://goo.gl/maps/UajRgvm2TRR2)
 
@@ -25,7 +26,14 @@ Schedule:
 
 |  Date |                        Title                        |               Speaker              |  Refs. |
 |:------|:----------------------------------------------------|:-----------------------------------|:-------|
-| 2.7 | Dynamic Neural User Models | [Srijan Kumar](https://cs.stanford.edu/~srijan/) | [PDF](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)|
+| 4.10 | Generative Pre-training of Graph Neural Networks | [Ziniu Hu](https://acbull.github.io/) | [PDF](https://arxiv.org/abs/2003.01332), [Video](https://drive.google.com/file/d/1UKRv5k5s8Ylj8XVP4RQovIt8q1aFLzb8/view) | 
+
+### Winter 2019
+
+
+|  Date |                        Title                        |               Speaker              |  Refs. |
+|:------|:----------------------------------------------------|:-----------------------------------|:-------|
+| 2.7 | [Dynamic Neural User Models](https://drive.google.com/file/d/1_1SdZDB6M3EoxRmc8k_xm-NQjJ6hFr0-/view?usp=sharing) | [Srijan Kumar](https://cs.stanford.edu/~srijan/) | [PDF](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf)|
 | 2.21 | [Neural Network-based Graph-Level Operator Learning](https://docs.google.com/presentation/d/1SoeQRS961VDcRAn_d8wMmJ110GzTlCAB60t4sIQnRCI/edit) | [Yunsheng Bai](http://yunshengb.com/) | N/A |
 | 2.28 | Unsupervised state embedding and aggregation towards scalable reinforcement learning | [Mengdi Wang](https://mwang.princeton.edu/) | N/A |
 
