@@ -16,6 +16,7 @@ caption = ""
 +++
 
 ### Year of 2020
+- <span style="color:blue">**[2020.05]**</span> Reviewer of [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist).
 - <span style="color:blue">**[2020.04]**</span> PC member of [KDD 2020](https://www.kdd.org/kdd2020/) (Research Track).
 - <span style="color:blue">**[2020.04]**</span> PC member of the [AACL-IJCNLP 2020](http://aacl2020.org/).
 - <span style="color:blue">**[2020.04]**</span> PC member of the 3rd [CDEC Workshop](http://www.panda.sys.t.u-tokyo.ac.jp/CDEC/2020/), IEEE BigData 2020.
