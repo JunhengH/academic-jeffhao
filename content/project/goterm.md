@@ -17,8 +17,4 @@ caption = ""
 
 This project page is under development.
 
-More Links:
-
-* Datasets: [Download Link]().
-
-* Codebase: [Download Link](). 
+More Links: Dataset and code are available [here](https://www.dropbox.com/sh/odwwjbc9fbed3y2/AADvKvu2w6Rcju6DOihQcBa_a?dl=0).
