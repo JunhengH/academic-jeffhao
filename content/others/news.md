@@ -16,6 +16,7 @@ caption = ""
 +++
 
 ### Year of 2020
+- <span style="color:blue">**[2020.08]**</span> PC member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 - <span style="color:blue">**[2020.08]**</span> Received KDD'2020 Student Registration Award from NSF and SIGKDD. Thanks!
 - <span style="color:blue">**[2020.07]**</span> One applied research track paper accepted at [CIKM 2020](https://cikm2020.org/).
 - <span style="color:blue">**[2020.07]**</span> One regular paper accepted at [ACM BCB 2020](https://acm-bcb.org/2020/index.php).
