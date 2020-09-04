@@ -41,7 +41,7 @@ I am currently a third-year PhD candidate in [Scalable Analytics Institute](http
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
-- <span style="color:blue">[2020.08]</span> PC member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+- <span style="color:blue">[2020.09]</span> PC member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) and [ICLR 2021](https://iclr.cc/).
 - <span style="color:blue">[2020.08]</span> Attending [KDD'20](https://www.kdd.org/kdd2020) online.
 - <span style="color:blue">[2020.07]</span> One applied research track paper accepted at [CIKM 2020](https://cikm2020.org/).
 - <span style="color:blue">[2020.07]</span> One regular paper accepted at [ACM BCB 2020](https://acm-bcb.org/2020/index.php).
