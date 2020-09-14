@@ -36,11 +36,12 @@ weight = 5
 
 ## Biography
 
-I am currently a third-year PhD candidate in [Scalable Analytics Institute](https://scai.cs.ucla.edu/) (ScAi), [Department of Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles](http://www.ucla.edu/). My advisors are [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+I am currently a fourth-year PhD candidate in [Scalable Analytics Institute](https://scai.cs.ucla.edu/) (ScAi), [Department of Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles](http://www.ucla.edu/). My advisors are [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
+- <span style="color:blue">[2020.09]</span> SIGIR student travel grant received for [CIKM 2020](https://cikm2020.org/).
 - <span style="color:blue">[2020.09]</span> PC member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) and [ICLR 2021](https://iclr.cc/).
 - <span style="color:blue">[2020.08]</span> Attending [KDD'20](https://www.kdd.org/kdd2020) online.
 - <span style="color:blue">[2020.07]</span> One applied research track paper accepted at [CIKM 2020](https://cikm2020.org/).

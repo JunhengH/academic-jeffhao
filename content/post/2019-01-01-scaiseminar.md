@@ -1,5 +1,5 @@
 +++
-title = "ScAI Machine Learning Seminar (2019-2020, Updating)"
+title = "ScAI Machine Learning Seminar (2019-2020, Archive)"
 date = 2019-01-01T00:00:00
 math = false
 highlight = true
