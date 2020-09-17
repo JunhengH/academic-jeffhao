@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "jhao [AT] cs.ucla.edu"
   address = "Room 3551A, Boelter Hall, 580 Portola Plaza, Los Angeles, CA 90095"
-  office_hours = "Wednesdays 9:30am-11:30am & Fridays 9:00am-10:00am at 3256S Boelter Hall (CS32 Office Hours)"
+  #office_hours = "Wednesdays 9:30am-11:30am & Fridays 9:00am-10:00am (CS145 Office Hours, Fall 2020)"
   #phone = "888 888 88 88"
   #skype = "echo123"
   telegram = ""
@@ -272,7 +272,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv-07252020.pdf"
+     link = "files/cv_folder/cv-09152020.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

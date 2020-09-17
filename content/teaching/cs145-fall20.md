@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:green"> **This course is currently active and updated.** </span>
+<span style="color:green"> **Note: This course is currently active and updated.** </span>
 
 <span style="color:red"> **Reminder: US Daylight Saving Time Ends on Nov. 1, 2020. Check [DST changes](https://www.timeanddate.com/time/change/usa) and [your local time](https://www.timeanddate.com/worldclock/converter.html).** </span>
 

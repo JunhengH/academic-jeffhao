@@ -36,9 +36,9 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-* **Junheng Hao**, Tong Zhao, Jin Li, Xin Luna Dong, Christos Faloutsos, Yizhou Sun and Wei Wang. "P-Companion: A Principled Framework for Diversified Complementary Product Recommendation". In the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020), Applied Research Track. (To appear)
+* **Junheng Hao**, Tong Zhao, Jin Li, Xin Luna Dong, Christos Faloutsos, Yizhou Sun and Wei Wang. "P-Companion: A Principled Framework for Diversified Complementary Product Recommendation". In the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020), Applied Research Track. [**\[Project Page\]**](https://www.haojunheng.com/project/pcompanion/)
 
-* **Junheng Hao**, Chelsea J.-T. Ju, Muhao Chen, Yizhou Sun, Carlo Zaniolo and Wei Wang. "Bio-JOIE: Joint Representation Learning of Biological Knowledge Bases". In the 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020). (To appear)
+* **Junheng Hao**, Chelsea J.-T. Ju, Muhao Chen, Yizhou Sun, Carlo Zaniolo and Wei Wang. "Bio-JOIE: Joint Representation Learning of Biological Knowledge Bases". In the 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020). [**\[Project Page\]**](https://www.haojunheng.com/project/goterm/)
 
 * **Junheng Hao**, Muhao Chen, Wenchao Yu, Yizhou Sun, Wei Wang. "[Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts](https://dl.acm.org/citation.cfm?id=3330838)". In the 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. [**\[Project Page\]**](https://www.haojunheng.com/project/joie-kdd/)
 
