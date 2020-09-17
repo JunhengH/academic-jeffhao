@@ -32,7 +32,7 @@ caption = ""
 
 ## TA Info
 
-* TA: Junheng Hao, email: haojh[DOT]ucla[AT]gmail[DOT]com (for CS145 only, and please put "CS145" in the subject of the email)
+* TA: Junheng Hao, email: haojh [DOT] ucla [AT] gmail [DOT] com (for CS145 only, and please put "CS145" in the subject of the email)
 
 * TA office hours: TBA (Los Angeles).
 
