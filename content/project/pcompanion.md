@@ -23,10 +23,10 @@ If one customer [Pablo Alborán](https://www.pabloalboran.es/) buys a tennis rac
 
 {{< figure library="true" src="project/p-companion.png" title="Product Companion: Diversified Complementary Product Recommendation. P-Companion has three major components: Product2vec Embedding module (encoding all products with their features to pre-trained embeddings), Type Transition Module (modeling the mapping function from one type to its complementary types) and Item Prediction Module (predicting corresponding items given the query product with associated complementary product types)." lightbox="true">}}
 
-## ## More Info
+## More Info
 
 **Publication:** The 29th ACM International Conference on Information and Knowledge Management (CIKM'20)
 
 **Date:** October, 2020
 
-**Links:** [PDF](https://www.haojunheng.com/files/pubs/CIKM20-PCompanion.pdf), Video (TBA), [Slides](https://www.haojunheng.com/files/pubs/CIKM20-PCompanion-slides-shot.pdf), [Amazon Science Blog](https://www.amazon.science/publications/p-companion-a-principled-framework-for-diversified-complementary-product-recommendation). 
+**Links:** [PDF](https://www.haojunheng.com/files/pubs/CIKM20_PCompanion.pdf), Video (TBA), [Slides](https://www.haojunheng.com/files/pubs/CIKM20-PCompanion-slides-shot.pdf), [Amazon Science Blog](https://www.amazon.science/publications/p-companion-a-principled-framework-for-diversified-complementary-product-recommendation). 

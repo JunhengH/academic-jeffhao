@@ -23,10 +23,10 @@ The widespread of coronavirus has led to a worldwide pandemic with a high mortal
 
 {{< figure library="true" src="project/bio-joie.png" title="Data formulation and model architecture." lightbox="true">}}
 
-## ## More Info
+## More Info
 
 **Publication:** The 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 
 **Date:** September, 2020
 
-**Links:** [PDF](https://www.haojunheng.com/files/pubs/BCB20-BioJOIE.pdf), Video (TBA), Slides (TBA). Dataset and code are available [here](https://www.dropbox.com/sh/odwwjbc9fbed3y2/AADvKvu2w6Rcju6DOihQcBa_a?dl=0).
+**Links:** [PDF](https://www.haojunheng.com/files/pubs/BCB20_BioJOIE.pdf), Video (TBA), Slides (TBA). Dataset and code are available [here](https://www.dropbox.com/sh/odwwjbc9fbed3y2/AADvKvu2w6Rcju6DOihQcBa_a?dl=0).
