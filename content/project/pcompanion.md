@@ -25,7 +25,7 @@ If one customer [Pablo Alborán](https://www.pabloalboran.es/) buys a tennis rac
 
 ## More Info
 
-**Publication:** The 29th ACM International Conference on Information and Knowledge Management (CIKM'20)
+**Publication:** The 29th ACM International Conference on Information and Knowledge Management (CIKM 2020)
 
 **Date:** October, 2020
 

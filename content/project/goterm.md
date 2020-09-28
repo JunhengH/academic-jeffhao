@@ -25,7 +25,7 @@ The widespread of coronavirus has led to a worldwide pandemic with a high mortal
 
 ## More Info
 
-**Publication:** The 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+**Publication:** The 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB 2020)
 
 **Date:** September, 2020
 

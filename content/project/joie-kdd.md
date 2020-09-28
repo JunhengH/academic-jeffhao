@@ -26,7 +26,7 @@ Many large-scale knowledge bases simultaneously represent two views of knowledge
 
 ## More Info
 
-**Publication:** The 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+**Publication:** The 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2019)
 
 **Date:** August, 2019
 
