@@ -41,7 +41,8 @@ I am currently a fourth-year PhD candidate in [Scalable Analytics Institute](htt
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
-- <span style="color:blue">[2020.09]</span> Attending [BCB'20](https://acm-bcb.org/2020/index.php) online.
+- <span style="color:blue">[2020.10]</span> Promoted to Teaching Associate.
+- <span style="color:blue">[2020.09]</span> Attending [BCB'20](https://acm-bcb.org/2020/index.php) online. [Our paper]((https://www.haojunheng.com/project/goterm/)) is selected as [Best Student Paper Award](https://twitter.com/acm_bcb/status/1309238014967767041?s=20)!
 - <span style="color:blue">[2020.09]</span> SIGIR student travel grant received for [CIKM 2020](https://cikm2020.org/).
 - <span style="color:blue">[2020.09]</span> PC member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) and [ICLR 2021](https://iclr.cc/).
 - <span style="color:blue">[2020.08]</span> Attending [KDD'20](https://www.kdd.org/kdd2020) online.
