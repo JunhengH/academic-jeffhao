@@ -47,11 +47,13 @@ caption = ""
 
 * <span style="color:blue">\[Sept. 30\]</span> Welcome to CS145: Introduction to Data Mining! Pleae check the course syllabus.
 
+* <span style="color:blue">\[Oct. 1\]</span> <span style="color:red"> There is no discussion session on Oct. 2 (Week 0). Instruction/Lectures starts on Oct. 5 (Monday, Week 1) </span>
+
 ## Discussion Materials
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Oct. 2 | Course overview, math review (Linear algebra, probability, etc.) | Slides Week1, [Math essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)|
+| Oct. 9 | Course overview, math review (Linear algebra, probability, etc.) | Slides Week1, [Math essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)|
 
 ## Additional Resources
 
