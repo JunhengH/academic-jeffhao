@@ -32,9 +32,11 @@ caption = ""
 
 ## TA Info
 
-* TA: Junheng Hao, email: haojh [DOT] ucla [AT] gmail [DOT] com (for CS145 only, and please put "CS145" in the subject of the email)
+* TA: [Junheng Hao](https://www.haojunheng.com/)
 
-* TA office hours: TBA (Los Angeles).
+* TA office hours: TBA (Los Angeles)
+
+* Contact: **haojh [DOT] ucla [AT] gmail [DOT] com** (for CS145 only, and please add "CS145" in the subject of the email) <span style="color:red"> Note: Please do NOT send to other emails. </span>
 
 
 ## Discussion Info (Dis 1C, instructed by Junheng)
@@ -45,7 +47,7 @@ caption = ""
 
 ## Announcements
 
-* <span style="color:blue">\[Sept. 30\]</span> Welcome to CS145: Introduction to Data Mining! Pleae check the course syllabus.
+* <span style="color:blue">\[Sept. 30\]</span> Welcome to CS145: Introduction to Data Mining. Greetings from Week 0!
 
 * <span style="color:blue">\[Oct. 1\]</span> <span style="color:red"> There is no discussion session on Oct. 2 (Week 0). Instruction/Lectures starts on Oct. 5 (Monday, Week 1) </span>
 
