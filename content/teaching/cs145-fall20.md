@@ -28,13 +28,17 @@ caption = ""
 
 * Lecture time & location: Lec 1, Monday/Wednesday 10am-11:50am (Los Angeles), Online (Recorded, Zoom links provided for enrolled students).
 
-* Course website: TBD
+* Course website: [https://sites.google.com/view/cs145fall2020/home](https://sites.google.com/view/cs145fall2020/home)
+
+* Zoom Link: Please find on CCLE for enrolled students.
+
+* Piazza: [http://piazza.com/ucla/fall2020/cs145](http://piazza.com/ucla/fall2020/cs145)
 
 ## TA Info
 
 * TA: [Junheng Hao](https://www.haojunheng.com/)
 
-* TA office hours: TBA (Los Angeles)
+* TA office hours: 8:30-10:30am (US Pacific/Los Angeles)
 
 * Contact: **haojh [DOT] ucla [AT] gmail [DOT] com** (for CS145 only, and please add "CS145" in the subject of the email) <span style="color:red"> Note: Please do NOT send to other emails. </span>
 
@@ -43,13 +47,15 @@ caption = ""
 
 * Time: Fridays 10am-11:50am
 
-* Location: Online (Recorded, Zoom links provided for enrolled students)
+* Location: Online (Recorded, Zoom links provided on CCLE for enrolled students)
 
 ## Announcements
 
 * <span style="color:blue">\[Sept. 30\]</span> Welcome to CS145: Introduction to Data Mining. Greetings from Week 0!
 
 * <span style="color:blue">\[Oct. 1\]</span> <span style="color:red"> There is no discussion session on Oct. 2 (Week 0). Instruction/Lectures starts on Oct. 5 (Monday, Week 1) </span>
+
+* <span style="color:blue">\[Oct. 5\]</span> <span style="color:red"> Course website is [here](https://sites.google.com/view/cs145fall2020/home). Please check the class schedule and logistics. </span>
 
 ## Discussion Materials
 
