@@ -38,7 +38,7 @@ caption = ""
 
 * TA: [Junheng Hao](https://www.haojunheng.com/)
 
-* TA office hours: 8:30-10:30am (US Pacific/Los Angeles)
+* TA office hours: 8:30-10:30am Thursdays (US Pacific/Los Angeles)
 
 * Contact: **haojh [DOT] ucla [AT] gmail [DOT] com** (for CS145 only, and please add "CS145" in the subject of the email) <span style="color:red"> Note: Please do NOT send to other emails. </span>
 
@@ -53,9 +53,9 @@ caption = ""
 
 * <span style="color:blue">\[Sept. 30\]</span> Welcome to CS145: Introduction to Data Mining. Greetings from Week 0!
 
-* <span style="color:blue">\[Oct. 1\]</span> <span style="color:red"> There is no discussion session on Oct. 2 (Week 0). Instruction/Lectures starts on Oct. 5 (Monday, Week 1) </span>
+* <span style="color:blue">\[Oct. 1\]</span> There is no discussion session on Oct. 2 (Week 0). Instruction/Lectures starts on Oct. 5 (Monday, Week 1) </span>
 
-* <span style="color:blue">\[Oct. 5\]</span> <span style="color:red"> Course website is [here](https://sites.google.com/view/cs145fall2020/home). Please check the class schedule and logistics. </span>
+* <span style="color:blue">\[Oct. 5\]</span> <span style="color:red"> \[New\] </span> Course website is [here](https://sites.google.com/view/cs145fall2020/home). Please check the class schedule and logistics.
 
 ## Discussion Materials
 
