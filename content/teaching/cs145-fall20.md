@@ -55,15 +55,16 @@ caption = ""
 
 * <span style="color:blue">\[Oct. 1\]</span> There is no discussion session on Oct. 2 (Week 0). Instruction/Lectures starts on Oct. 5 (Monday, Week 1) </span>
 
-* <span style="color:blue">\[Oct. 5\]</span> <span style="color:red"> \[New\] </span> Course website is [here](https://sites.google.com/view/cs145fall2020/home). Please check the class schedule and logistics.
+* <span style="color:blue">\[Oct. 5\]</span> Course website is [here](https://sites.google.com/view/cs145fall2020/home). Please check the class schedule and logistics.
 
 ## Discussion Materials
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Oct. 9 | Course overview, math prep, linear regression, programming prep for homework | [Slides Week1](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01.pdf), [Slides Week 1 (Math)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Math.pdf), [Python & Jupyter Notebook)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Jupyter.ipynb)|
+| Oct. 9 | Course overview, math prep, linear regression, programming prep for homework | [Slides Week1](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01.pdf), [Slides Week 1 (Math)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Math.pdf), [Python & Jupyter Notebook (Intro))](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Jupyter.ipynb)|
 
 ## Additional Resources
 
-To be updated!
-N/A
+Supplemental materials from other Fall 2020 CS1452 TAs: 
+
+* To be updated
