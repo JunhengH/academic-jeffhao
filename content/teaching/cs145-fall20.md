@@ -61,8 +61,9 @@ caption = ""
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Oct. 9 | Course overview, math review (Linear algebra, probability, etc.) | Slides Week1, [Math essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)|
+| Oct. 9 | Course overview, math prep, linear regression, programming prep for homework | [Slides Week1](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01.pdf), [Slides Week 1 (Math)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Math.pdf), [Python & Jupyter Notebook)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Jupyter.ipynb)|
 
 ## Additional Resources
 
-TBA
+To be updated!
+N/A

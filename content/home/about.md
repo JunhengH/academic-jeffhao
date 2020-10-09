@@ -46,7 +46,7 @@ Before coming to UCLA, I graduated in 2017 from [Department of Automation](http:
 - <span style="color:blue">[2020.09]</span> SIGIR student travel grant received for [CIKM 2020](https://cikm2020.org/).
 - <span style="color:blue">[2020.09]</span> PC member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) and [ICLR 2021](https://iclr.cc/).
 - <span style="color:blue">[2020.08]</span> Attending [KDD'20](https://www.kdd.org/kdd2020) online.
-- <span style="color:blue">[2020.07]</span> One [applied research track paper](https://www.haojunheng.com/project/pcompanion/) accepted at [CIKM 2020](https://cikm2020.org/).
+- <span style="color:blue">[2020.07]</span> One [applied research track paper](https://www.amazon.science/blog/improving-complementary-product-recommendations) accepted at [CIKM 2020](https://cikm2020.org/).
 - <span style="color:blue">[2020.07]</span> One [regular paper](https://www.haojunheng.com/project/goterm/) accepted at [ACM BCB 2020](https://acm-bcb.org/2020/index.php).
 - <span style="color:blue">[2020.07]</span> Attending [ACL'20](https://acl2020.org/), [ICML'20](https://icml.cc/), [ISMB'20](https://www.iscb.org/ismb2020) online.
 - <span style="color:blue">[2020.06]</span> Start my summer internship as a research intern at [IBM Research AI](https://www.research.ibm.com/).
