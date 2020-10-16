@@ -57,11 +57,18 @@ caption = ""
 
 * <span style="color:blue">\[Oct. 5\]</span> Course website is [here](https://sites.google.com/view/cs145fall2020/home). Please check the class schedule and logistics.
 
+* <span style="color:blue">\[Oct. 12\]</span> HW1 is released on CCLE and due on 11:59pm PT, Oct 19 (Monday, Week 3).
+
+* <span style="color:blue">\[Oct. 13\]</span> [Project guideline](http://web.cs.ucla.edu/~yzsun/classes/2020Fall_CS145/Slides/Course%20Project%20Description.pdf) is rleased on course website (and CCLE as well).
+
+* <span style="color:blue">\[Oct. 16\]</span> <span style="color:red"> \[New\] </span> Register the team for the course project by the end of Week 2 (Fri 16 Oct, 2020) with member information.
+
 ## Discussion Materials
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Oct. 9 | Course overview, math prep, linear regression, programming prep for homework | [Slides Week1](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01.pdf), [Slides Week 1 (Math)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Math.pdf), [Python & Jupyter Notebook (Intro))](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Jupyter.ipynb)|
+| Oct. 16 | Review: Linear regression (cont'd), logistic regression | [Slides Week2](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week02.pdf) |
 
 ## Additional Resources
 
