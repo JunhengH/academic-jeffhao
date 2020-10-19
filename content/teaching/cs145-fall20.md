@@ -49,6 +49,8 @@ caption = ""
 
 * Location: Online (Recorded, Zoom links provided on CCLE for enrolled students)
 
+* Recording: Video resource available on CCLE under the section of each week, named "WeekX_Dis1C_Junheng"
+
 ## Announcements
 
 * <span style="color:blue">\[Sept. 30\]</span> Welcome to CS145: Introduction to Data Mining. Greetings from Week 0!
@@ -75,4 +77,4 @@ caption = ""
 
 Supplemental materials from other Fall 2020 CS1452 TAs: 
 
-* To be updated
+* Please check posts of discussion materials under the section of each week on CCLE.
