@@ -16,6 +16,9 @@ caption = ""
 +++
 
 ### Year of 2020
+- <span style="color:blue">**[2020.10]**</span> Attending [CIKM 2020](https://cikm2020.org/) online.
+- <span style="color:blue">**[2020.10]**</span> PC member of [IJCAI 2021](https://ijcai-21.org/).
+- <span style="color:blue">**[2020.09]**</span> Our [Bio-JOIE](https://www.haojunheng.com/project/goterm/) paper won Best Student Paper Award on ACM-BCB 2020!
 - <span style="color:blue">**[2020.09]**</span>  SIGIR student travel grant received for [CIKM 2020](https://cikm2020.org/), supported by SIGIR Travel Grants program. Thanks!
 - <span style="color:blue">**[2020.09]**</span> PC member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) and [ICLR 2021](https://iclr.cc/).
 - <span style="color:blue">**[2020.08]**</span> Received KDD'2020 Student Registration Award from NSF and SIGKDD. Thanks!
