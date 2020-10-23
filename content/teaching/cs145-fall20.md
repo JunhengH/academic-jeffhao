@@ -63,7 +63,9 @@ caption = ""
 
 * <span style="color:blue">\[Oct. 13\]</span> [Project guideline](http://web.cs.ucla.edu/~yzsun/classes/2020Fall_CS145/Slides/Course%20Project%20Description.pdf) is rleased on course website (and CCLE as well).
 
-* <span style="color:blue">\[Oct. 16\]</span> <span style="color:red"> \[New\] </span> Register the team for the course project by the end of Week 2 (Fri 16 Oct, 2020) with member information.
+* <span style="color:blue">\[Oct. 16\]</span> Register the team for the course project by the end of Week 2 (Fri 16 Oct, 2020) with member information.
+
+* <span style="color:blue">\[Oct. 22\]</span> <span style="color:red"> \[New\] </span> HW2 is released on CCLE and due on 11:59pm PT, Oct 30 (Friday, Week 4).
 
 ## Discussion Materials
 
