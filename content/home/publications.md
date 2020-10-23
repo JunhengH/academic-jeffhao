@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-* **Junheng Hao**, Tong Zhao, Jin Li, Xin Luna Dong, Christos Faloutsos, Yizhou Sun and Wei Wang. "[P-Companion: A Principled Framework for Diversified Complementary Product Recommendation](https://www.amazon.science/blog/improving-complementary-product-recommendations)". In the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020), Applied Research Track. [**\[Project Page\]**](https://www.haojunheng.com/project/pcompanion/)
+* **Junheng Hao**, Tong Zhao, Jin Li, Xin Luna Dong, Christos Faloutsos, Yizhou Sun and Wei Wang. "[P-Companion: A Principled Framework for Diversified Complementary Product Recommendation](https://dl.acm.org/doi/10.1145/3340531.3412732)". In the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020), Applied Research Track. [**\[Project Page\]**](https://www.haojunheng.com/project/pcompanion/) [**\[Blog\]**](https://www.amazon.science/blog/improving-complementary-product-recommendations)
 
 * **Junheng Hao**, Chelsea J.-T. Ju, Muhao Chen, Yizhou Sun, Carlo Zaniolo and Wei Wang. "[Bio-JOIE: Joint Representation Learning of Biological Knowledge Bases](https://www.biorxiv.org/content/10.1101/2020.06.15.153692v1)". In the 11th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2020, <span style="color:red"> Best Student Paper Award</span>). [**\[Project Page\]**](https://www.haojunheng.com/project/goterm/) [**\[News\]**](https://www.cs.ucla.edu/paper-from-ucla-scalable-analytics-institute-wins-best-student-paper-award-at-acm-bcb-2020/)
 

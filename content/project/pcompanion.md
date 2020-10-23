@@ -29,4 +29,4 @@ If one customer [Pablo Alborán](https://www.pabloalboran.es/) buys a tennis rac
 
 **Date:** October, 2020
 
-**Links:** [PDF](https://www.haojunheng.com/files/pubs/CIKM20_PCompanion.pdf), [Video](https://drive.google.com/file/d/1Q-9WvNu_UkP6t-FeO3JtE1qRCqVkxfbH/view?usp=sharing), [Slides](https://www.haojunheng.com/files/pubs/CIKM20-PCompanion-slides-shot.pdf), [Amazon Science Blog](https://www.amazon.science/blog/improving-complementary-product-recommendations). 
+**Links:** [PDF](https://dl.acm.org/doi/10.1145/3340531.3412732), [Video](https://drive.google.com/file/d/1Q-9WvNu_UkP6t-FeO3JtE1qRCqVkxfbH/view?usp=sharing), [Slides](https://www.haojunheng.com/files/pubs/CIKM20-PCompanion-slides-shot.pdf), [Amazon Science Blog](https://www.amazon.science/blog/improving-complementary-product-recommendations). 
