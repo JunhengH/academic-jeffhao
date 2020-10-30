@@ -65,7 +65,11 @@ caption = ""
 
 * <span style="color:blue">\[Oct. 16\]</span> Register the team for the course project by the end of Week 2 (Fri 16 Oct, 2020) with member information.
 
-* <span style="color:blue">\[Oct. 22\]</span> <span style="color:red"> \[New\] </span> HW2 is released on CCLE and due on 11:59pm PT, Oct 30 (Friday, Week 4).
+* <span style="color:blue">\[Oct. 22\]</span> HW2 is released on CCLE and due on 11:59pm PT, Oct 30 (Friday, Week 4).
+
+* <span style="color:blue">\[Oct. 29\]</span> <span style="color:red"> \[New\] </span> HW3 is released on CCLE and due on 11:59pm PT, Nov 9 (Monday, Week 6).
+
+* <span style="color:blue">\[Oct. 29\]</span> <span style="color:red"> \[New\] </span> Midterm project report and Kaggle submission are due on 11:59pm PT, Nov 11 (Wednesday, Week 6).
 
 ## Discussion Materials
 
@@ -74,7 +78,8 @@ caption = ""
 | Oct. 9 | Course overview, math prep, linear regression, programming prep for homework | [Slides Week 1](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01.pdf), [Slides Week 1 (Math)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Math.pdf), [Python & Jupyter Notebook (Intro)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Jupyter.ipynb)|
 | Oct. 16 | Review: Linear regression (cont'd), logistic regression | [Slides Week 2](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week02.pdf) |
 | Oct. 23 | Review: Decision tree, SVM | [Slides Week 3](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week03.pdf), [SVM Notes](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [SVM Slides from NYU](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf)|
-| Oct. 30 | Review: SVM, Neural Netoworks | [Slides Week 4](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week04.pdf) |
+| Oct. 30 | Review: SVM, Neural Netoworks, KNN | [Slides Week 4](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week04.pdf) |
+| Nov. 6 | Review: Classification, Clustering | [Slides Week 5](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week05.pdf) |
 
 ## Additional Resources
 
