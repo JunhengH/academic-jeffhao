@@ -17,8 +17,6 @@ caption = ""
 
 <span style="color:green"> **Note: This course is currently active and updated.** </span>
 
-<span style="color:red"> **Reminder: US Daylight Saving Time Ends on Nov. 1, 2020. Check [DST changes](https://www.timeanddate.com/time/change/usa) and [your local time](https://www.timeanddate.com/worldclock/converter.html).** </span>
-
 
 ## Course Info
 
@@ -67,9 +65,11 @@ caption = ""
 
 * <span style="color:blue">\[Oct. 22\]</span> HW2 is released on CCLE and due on 11:59pm PT, Oct 30 (Friday, Week 4).
 
-* <span style="color:blue">\[Oct. 29\]</span> <span style="color:red"> \[New\] </span> HW3 is released on CCLE and due on 11:59pm PT, Nov 9 (Monday, Week 6).
+* <span style="color:blue">\[Oct. 29\]</span> HW3 is released on CCLE and due on 11:59pm PT, Nov 9 (Monday, Week 6).
 
-* <span style="color:blue">\[Oct. 29\]</span> <span style="color:red"> \[New\] </span> Midterm project report and Kaggle submission are due on 11:59pm PT, Nov 11 (Wednesday, Week 6).
+* <span style="color:blue">\[Oct. 29\]</span> Midterm project report and Kaggle submission are due on 11:59pm PT, Nov 11 (Wednesday, Week 6).
+
+* <span style="color:blue">\[Nov. 12\]</span> <span style="color:red"> \[New\] </span> HW4 is released on CCLE and due on 11:59pm PT, Nov 20 (Monday, Week 6).
 
 ## Discussion Materials
 
@@ -80,7 +80,7 @@ caption = ""
 | Oct. 23 | Review: Decision tree, SVM | [Slides Week 3](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week03.pdf), [SVM Notes](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [SVM Slides from NYU](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf)|
 | Oct. 30 | Review: SVM, Neural Netoworks, KNN | [Slides Week 4](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week04.pdf) |
 | Nov. 6 | Review: Classification, Clustering | [Slides Week 5](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week05.pdf) |
-| Nov. 13 | Midterm Review | [Slides Week 6](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06.pdf) |
+| Nov. 13 | Midterm Review | [Slides Week 6](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06.pdf) [Other](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06_Add.pdf) |
 
 ## Additional Resources
 
