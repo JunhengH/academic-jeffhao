@@ -77,10 +77,11 @@ caption = ""
 |:-------|:----------------------------------------------------|:-----------------------------------|
 | Oct. 9 | Course overview, math prep, linear regression, programming prep for homework | [Slides Week 1](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01.pdf), [Slides Week 1 (Math)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Math.pdf), [Python & Jupyter Notebook (Intro)](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week01_Jupyter.ipynb)|
 | Oct. 16 | Review: Linear regression (cont'd), logistic regression | [Slides Week 2](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week02.pdf) |
-| Oct. 23 | Review: Decision tree, SVM | [Slides Week 3](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week03.pdf), [SVM Notes](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [SVM Slides from NYU](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf)|
+| Oct. 23 | Review: Decision tree, SVM | [Slides Week 3](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week03.pdf), [SVM Notes from Stanford](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [SVM Slides from NYU](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf)|
 | Oct. 30 | Review: SVM, Neural Netoworks, KNN | [Slides Week 4](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week04.pdf) |
 | Nov. 6 | Review: Classification, Clustering | [Slides Week 5](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week05.pdf) |
-| Nov. 13 | Midterm Review | [Slides Week 6](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06.pdf), [Other](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06_Add.pdf) |
+| Nov. 13 | Gaussian mixture model, Midterm Review | [Slides Week 6](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06.pdf), [Other](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06_Add.pdf) |
+| Nov. 20 | Post-Midterm Review and Discussion | No slides available |
 
 ## Additional Resources
 
