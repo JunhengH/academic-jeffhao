@@ -69,7 +69,7 @@ caption = ""
 
 * <span style="color:blue">\[Oct. 29\]</span> Midterm project report and Kaggle submission are due on 11:59pm PT, Nov 11 (Wednesday, Week 6).
 
-* <span style="color:blue">\[Nov. 12\]</span> <span style="color:red"> \[New\] </span> HW4 is released on CCLE and due on 11:59pm PT, Nov 20 (Friday, Week 7).
+* <span style="color:blue">\[Nov. 12\]</span> HW4 is released on CCLE and due on 11:59pm PT, Nov 20 (Friday, Week 7).
 
 ## Discussion Materials
 
@@ -81,7 +81,10 @@ caption = ""
 | Oct. 30 | Review: SVM, Neural Netoworks, KNN | [Slides Week 4](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week04.pdf) |
 | Nov. 6 | Review: Classification, Clustering | [Slides Week 5](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week05.pdf) |
 | Nov. 13 | Gaussian mixture model, Midterm Review | [Slides Week 6](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06.pdf), [Other](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06_Add.pdf) |
-| Nov. 20 | Post-Midterm Review and Discussion | No slides available |
+| Nov. 20 | Post-Midterm Review and Discussion | No slides (Recordings available on CCLE) |
+| Nov. 27 | No discussion session (Thanksgiving holiday) | N/A |
+| Dec. 4 | Frequent Pattern Mining and Association Rules, Sequential Pattern Mining, DTW | N/A |
+| Dec. 11 | Naive Bayes, Topic Modeling, Final Review | N/A |
 
 ## Additional Resources
 
