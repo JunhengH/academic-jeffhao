@@ -71,6 +71,8 @@ caption = ""
 
 * <span style="color:blue">\[Nov. 12\]</span> HW4 is released on CCLE and due on 11:59pm PT, Nov 20 (Friday, Week 7).
 
+* <span style="color:blue">\[Nov. 23\]</span> <span style="color:red">\[New\]</span>  There is no discussion session on Nov. 27 (Week 8). Happy Thanksgiving holiday!
+
 ## Discussion Materials
 
 |  Date  |                        Content                      |          Slides & Links            |
@@ -83,8 +85,8 @@ caption = ""
 | Nov. 13 | Gaussian mixture model, Midterm Review | [Slides Week 6](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06.pdf), [Other](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week06_Add.pdf) |
 | Nov. 20 | Post-Midterm Review and Discussion | No slides (Recordings available on CCLE) |
 | Nov. 27 | No discussion session (Thanksgiving holiday) | N/A |
-| Dec. 4 | Frequent Pattern Mining and Association Rules, Sequential Pattern Mining, DTW | N/A |
-| Dec. 11 | Naive Bayes, Topic Modeling, Final Review | N/A |
+| Dec. 4 | Frequent Pattern Mining and Association Rules, Sequential Pattern Mining, DTW | Slides Week 9 |
+| Dec. 11 | Naive Bayes, Topic Modeling, Final Review | Slides Week 10 |
 
 ## Additional Resources
 
