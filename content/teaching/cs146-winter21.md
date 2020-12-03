@@ -1,6 +1,6 @@
 +++
 title = "CS146 (Winter 2021) Discussion Materials"
-date = 2020-12-31T00:00:00
+date = 2020-12-01T00:00:00
 math = false
 highlight = false
 
