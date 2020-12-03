@@ -1,6 +1,6 @@
 +++
-title = "CS145 (Fall 2020) Discussion Materials"
-date = 2020-09-14T00:00:00
+title = "CS146 (Winter 2021) Discussion Materials"
+date = 2020-12-31T00:00:00
 math = false
 highlight = false
 
@@ -20,7 +20,7 @@ caption = ""
 
 ## Course Info
 
-* Course name: Introduction to Data Mining
+* Course name: Introduction to Machine Learning
 
 * Instructor: [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/)
 
@@ -38,12 +38,12 @@ caption = ""
 
 * TA office hours: Monday TBA (US Pacific/Los Angeles)
 
-* Contact: **haojh [DOT] ucla [AT] gmail [DOT] com** (for CS145 only, and please add "CS146" in the subject of the email) <span style="color:red"> Note: Please do NOT send to other emails. </span>
+* Contact: **haojh [DOT] ucla [AT] gmail [DOT] com** (for CS146 only, and please add "CS146" in the subject of the email) <span style="color:red"> Note: Please do NOT send to other emails. </span>
 
 
 ## Discussion Info (Dis 1C, instructed by Junheng)
 
-* Time: Fridays 112pm-1:50pm
+* Time: Fridays 12pm-1:50pm
 
 * Location: Online (Recorded, Zoom links provided on CCLE for enrolled students)
 
