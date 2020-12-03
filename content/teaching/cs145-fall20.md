@@ -71,7 +71,13 @@ caption = ""
 
 * <span style="color:blue">\[Nov. 12\]</span> HW4 is released on CCLE and due on 11:59pm PT, Nov 20 (Friday, Week 7).
 
-* <span style="color:blue">\[Nov. 23\]</span> <span style="color:red">\[New\]</span>  There is no discussion session on Nov. 27 (Week 8). Happy Thanksgiving holiday!
+* <span style="color:blue">\[Nov. 23\]</span> There is no discussion session on Nov. 27 (Week 8). Happy Thanksgiving holiday!
+
+* <span style="color:blue">\[Nov. 25\]</span> <span style="color:red">\[New\]</span>  HW5 is released on CCLE and due on 11:59pm PT, Dec 4 (Friday, Week 9).
+
+* <span style="color:blue">\[Dec. 1\]</span> <span style="color:red">\[New\]</span>  Project Kaggle submission is due on 11:59pm PT, Dec 6 (Sunday, Week 9).
+
+* <span style="color:blue">\[Dec. 3\]</span> <span style="color:red">\[New\]</span>  Please check out all deadline reminders (homework, project and final exam) at Piazza and/or CCLE and plan accordingly. 
 
 ## Discussion Materials
 
