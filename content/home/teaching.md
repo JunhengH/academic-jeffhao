@@ -14,6 +14,7 @@ subtitle = "@UCLA"
 weight = 60
 
 +++
+- **\[Winter 2021\]** CS M146: Introduction to Machine Learning (Instructor: [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/)) <span>&#8618;</span> Discussion Page (TBD)
 - **\[Fall 2020\]** CS145: Introduction to Data Mining (Instructor: [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/index.html)).  <span>&#8618;</span> [Discussion Page](https://www.haojunheng.com/teaching/cs145-fall20/)
 - **\[Spring 2019\]** CS32: Introduction to Computer Science II, Data Structures (Instructor: David Smallberg). <span>&#8618;</span> [Discussion Page (Archived)](https://www.haojunheng.com/teaching/cs32-spring19/)
 - **\[Winter 2019\]** CS32: Introduction to Computer Science II, Data Structures (Instructor: David Smallberg & Carey Nachenberg).  <span>&#8618;</span> [Discussion Page (Archived)](https://www.haojunheng.com/teaching/cs32-winter19/)
