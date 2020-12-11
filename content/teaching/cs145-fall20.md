@@ -79,9 +79,9 @@ caption = ""
 
 * <span style="color:blue">\[Dec. 3\]</span> <span style="color:red">\[New\]</span>  Please check out all deadline reminders (homework, project and final exam) at Piazza and/or CCLE and plan accordingly. 
 
-* <span style="color:blue">\[Nov. 25\]</span> <span style="color:red">\[New\]</span> HW5 is released on CCLE and due on 11:59pm PT, Dec. 14 (Monday Final Week).
+* <span style="color:blue">\[Dec. 7\]</span> <span style="color:red">\[New\]</span> HW6 is released on CCLE and due on 11:59pm PT, Dec. 14 (Monday Final Week).
 
-* <span style="color:blue">\[Oct. 29\]</span> <span style="color:red">\[New\]</span> Final project report and Kaggle submission are due on 11:59pm PT, Dec. 18 (Wednesday, Final Week).
+* <span style="color:blue">\[Dec. 10\]</span> <span style="color:red">\[New\]</span> Final project report and Kaggle submission are due on 11:59pm PT, Dec. 18 (Wednesday, Final Week).
 
 ## Discussion Materials
 
