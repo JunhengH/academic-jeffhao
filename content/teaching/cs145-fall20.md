@@ -63,21 +63,25 @@ caption = ""
 
 * <span style="color:blue">\[Oct. 16\]</span> Register the team for the course project by the end of Week 2 (Fri 16 Oct, 2020) with member information.
 
-* <span style="color:blue">\[Oct. 22\]</span> HW2 is released on CCLE and due on 11:59pm PT, Oct 30 (Friday, Week 4).
+* <span style="color:blue">\[Oct. 22\]</span> HW2 is released on CCLE and due on 11:59pm PT, Oct. 30 (Friday, Week 4).
 
-* <span style="color:blue">\[Oct. 29\]</span> HW3 is released on CCLE and due on 11:59pm PT, Nov 9 (Monday, Week 6).
+* <span style="color:blue">\[Oct. 29\]</span> HW3 is released on CCLE and due on 11:59pm PT, Nov. 9 (Monday, Week 6).
 
 * <span style="color:blue">\[Oct. 29\]</span> Midterm project report and Kaggle submission are due on 11:59pm PT, Nov 11 (Wednesday, Week 6).
 
-* <span style="color:blue">\[Nov. 12\]</span> HW4 is released on CCLE and due on 11:59pm PT, Nov 20 (Friday, Week 7).
+* <span style="color:blue">\[Nov. 12\]</span> HW4 is released on CCLE and due on 11:59pm PT, Nov. 20 (Friday, Week 7).
 
 * <span style="color:blue">\[Nov. 23\]</span> There is no discussion session on Nov. 27 (Week 8). Happy Thanksgiving holiday!
 
-* <span style="color:blue">\[Nov. 25\]</span> <span style="color:red">\[New\]</span>  HW5 is released on CCLE and due on 11:59pm PT, Dec 4 (Friday, Week 9).
+* <span style="color:blue">\[Nov. 25\]</span>  HW5 is released on CCLE and due on 11:59pm PT, Dec. 4 (Friday, Week 9).
 
-* <span style="color:blue">\[Dec. 1\]</span> <span style="color:red">\[New\]</span>  Project Kaggle submission is due on 11:59pm PT, Dec 6 (Sunday, Week 9).
+* <span style="color:blue">\[Dec. 1\]</span>  Project Kaggle submission is due on 11:59pm PT, Dec. 6 (Sunday, Week 9).
 
 * <span style="color:blue">\[Dec. 3\]</span> <span style="color:red">\[New\]</span>  Please check out all deadline reminders (homework, project and final exam) at Piazza and/or CCLE and plan accordingly. 
+
+* <span style="color:blue">\[Nov. 25\]</span> <span style="color:red">\[New\]</span> HW5 is released on CCLE and due on 11:59pm PT, Dec. 14 (Monday Final Week).
+
+* <span style="color:blue">\[Oct. 29\]</span> <span style="color:red">\[New\]</span> Final project report and Kaggle submission are due on 11:59pm PT, Dec. 18 (Wednesday, Final Week).
 
 ## Discussion Materials
 
@@ -92,10 +96,10 @@ caption = ""
 | Nov. 20 | Post-Midterm Review and Discussion | No slides (Recordings available on CCLE) |
 | Nov. 27 | No discussion session (Thanksgiving holiday) | N/A |
 | Dec. 4 | Frequent Pattern Mining and Association Rules, Sequential Pattern Mining, DTW | [Slides Week 9](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week09.pdf) |
-| Dec. 11 | Naive Bayes, Topic Modeling, Final Review | Slides Week 10 |
+| Dec. 11 | Naive Bayes, Topic Modeling, Final Review | [Slides Week 10](https://www.haojunheng.com/files/cs145-f20/Dis1C_Week10.pdf) |
 
 ## Additional Resources
 
-Supplemental materials from other Fall 2020 CS1452 TAs: 
+Supplemental materials from other Fall 2020 CS145 TAs: 
 
 * Please check posts of discussion materials under the section of each week on CCLE.
