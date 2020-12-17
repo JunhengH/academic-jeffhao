@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:red"> **This course will be inactive and this site will no longer updated since December 12, 2020.** </span>
+<span style="color:red"> **This course is currently inactive and this site will be no longer updated since December 16, 2020. Slides are available publicly.** </span>
 
 
 ## Course Info
@@ -77,13 +77,15 @@ caption = ""
 
 * <span style="color:blue">\[Dec. 1\]</span>  Project Kaggle submission is due on 11:59pm PT, Dec. 6 (Sunday, Week 9).
 
-* <span style="color:blue">\[Dec. 3\]</span> <span style="color:red">\[New\]</span>  Please check out all deadline reminders (homework, project and final exam) at Piazza and/or CCLE and plan accordingly. 
+* <span style="color:blue">\[Dec. 3\]</span>  Please check out all deadline reminders (homework, project and final exam) at Piazza and/or CCLE and plan accordingly. 
 
 * <span style="color:blue">\[Dec. 7\]</span> HW6 is released on CCLE and due on 11:59pm PT, Dec. 14 (Monday Final Week).
 
 * <span style="color:blue">\[Dec. 10\]</span>  Final project report and Kaggle submission are due on 11:59pm PT, Dec. 18 (Wednesday, Final Week).
 
 * <span style="color:blue">\[Dec. 12\]</span>  The course instruction has ended and the course evaluation is available until 8:00AM Dec. 16, 2020. Thank you!
+
+* <span style="color:blue">\[Dec. 18\]</span>  The course has officially ended. I will teach [CS M146](https://www.haojunheng.com/teaching/cs146-winter21/) in Winter, 2021. Happy holiday! 
 
 ## Discussion Materials
 
