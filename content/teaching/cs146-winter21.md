@@ -1,5 +1,5 @@
 +++
-title = "CS146 (Winter 2021) Discussion Materials"
+title = "CS M146 (Winter 2021) Discussion Materials"
 date = 2020-12-01T00:00:00
 math = false
 highlight = false
@@ -58,4 +58,4 @@ caption = ""
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 8 | Math review (Basic linear algebra, probabilities, optimization) | Week 1 |
+| Jan. 8 | TBA | Week 1 |
