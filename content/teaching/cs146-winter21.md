@@ -38,7 +38,7 @@ caption = ""
 
 * TA office hours: Monday 3-5PM (US Pacific/Los Angeles)
 
-* Contact: **haojh [DOT] ucla [AT] gmail [DOT] com** (for CS146 only, and please add "CS146" in the subject of the email) <span style="color:red"> Note: Please do NOT send to other emails. </span>
+* Contact: **haojh [DOT] ucla [AT] gmail [DOT] com** (for CS146 only, and please add "CS146" in the subject of the email). You can also DM me through Campuswire. <span style="color:red"> Note: Please do NOT send to other emails. </span>
 
 
 ## Discussion Info (Dis 1C, instructed by Junheng)
@@ -59,4 +59,5 @@ caption = ""
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 8 | Course logistics and overview, math prep | Week 1 |
+| Jan. 8 | Course logistics and overview. Math review: [\[Probability\]](http://cs229.stanford.edu/section/cs229-prob.pdf),[\[Linear Algebra\]](http://cs229.stanford.edu/section/cs229-linalg.pdf),[\[Optimization 1\]](http://cs229.stanford.edu/section/cs229-cvxopt.pdf), [\[Optimization 2\]](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf) | Week 1 |
+| Jan. 15 | Decision trees, nearest neighbors and linear classification. Programning Prep. | Week 2 |
