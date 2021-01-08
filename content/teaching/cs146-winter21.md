@@ -17,6 +17,8 @@ caption = ""
 
 <span style="color:green"> **Note: This course is currently active and updated.** </span>
 
+<span style="color:red"> CS M146 Final exam schedule: March 15, 2021. Note that daylight saving time 2021 in California will begin at 2:00 AM on Sunday, March 14! </span>
+
 
 ## Course Info
 
@@ -45,19 +47,20 @@ caption = ""
 
 * Time: Fridays 12-1:50PM
 
-* Location: Online (Recorded, Zoom links provided on CCLE for enrolled students)
+* Location: Online (Recorded, Zoom links provided on CCLE/Compuswire for enrolled students)
 
 * Recording: Available on CCLE under the section of each week, named "WeekX_Dis1C_Junheng"
 
 ## Announcements
 
 * <span style="color:blue">\[Jan. 1\]</span> Welcome to CS M146: Introduction to Machine Learning. Greetings from Week 0!
-* <span style="color:blue">\[Jan. 4\]</span> For all enrolled students: Please register on Campuswire (as course forum) and Gradescope (for problem sets, quizzes and exams). Some private course materials (such as recordings) are on CCLE.  
+* <span style="color:blue">\[Jan. 4\]</span> For all enrolled students: Please register on Campuswire (as course forum) and Gradescope (for problem sets, quizzes and exams). Some private course materials (such as recordings) are on CCLE. 
+* <span style="color:blue">\[Jan. 8\]</span> <span style="color:red">\[New\]</span> Week 1's math quiz due/close date and time: Jan 10, 2021 (Sunday) 11:59 PM PST. Please complete on GradeScope in time.
 
 
 ## Discussion Materials
 
 |  Date  |                        Content                      |          Slides & Links            |
 |:-------|:----------------------------------------------------|:-----------------------------------|
-| Jan. 8 | Course logistics and overview. Math review: [\[Probability\]](http://cs229.stanford.edu/section/cs229-prob.pdf),[\[Linear Algebra\]](http://cs229.stanford.edu/section/cs229-linalg.pdf),[\[Optimization 1\]](http://cs229.stanford.edu/section/cs229-cvxopt.pdf), [\[Optimization 2\]](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf) | Week 1 |
+| Jan. 8 | Course logistics and overview. Math review: [\[Probability\]](http://cs229.stanford.edu/section/cs229-prob.pdf), [\[Linear Algebra\]](http://cs229.stanford.edu/section/cs229-linalg.pdf), [\[Optimization 1\]](http://cs229.stanford.edu/section/cs229-cvxopt.pdf), [\[Optimization 2\]](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf), [\[Math essentials from UW\]](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) | [Week 1](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week1.pdf), [Week 1 (Math)](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week1_Math_Summary.pdf)|
 | Jan. 15 | Decision trees, nearest neighbors and linear classification. Programning Prep. | Week 2 |
