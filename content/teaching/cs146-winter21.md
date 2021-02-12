@@ -17,7 +17,7 @@ caption = ""
 
 <span style="color:green"> **Note: This course is currently active and updated.** </span>
 
-<span style="color:red"> CS M146 Final exam schedule: March 15, 2021. Note that daylight saving time 2021 in California will begin at 2:00 AM on Sunday, March 14! </span>
+<span style="color:red"> **CS M146 Final exam schedule: March 15, 2021.** Note that daylight saving time 2021 in California will begin at 2:00 AM on Sunday, March 14! </span>
 
 
 ## Course Info
@@ -83,5 +83,5 @@ caption = ""
 | Jan. 22 | Perceptron, Logistic Regression, Linear Models, Optimization | [Week 3](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week3.pdf) |
 | Jan. 29 | Logistic Regression, Linear Regression | [Week 4](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week4.pdf) |
 | Feb. 5  | Overfitting and regularization, Neural Nets (Part I) | [Week 5](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week5.pdf) |
-| Feb. 12  | Neural Nets (Part II), Learning theory, Kernals, PyTorch | [Week 6](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6.pdf), [Week 6 PyTorch](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
-| Feb. 19  | TBD| Week 7 |
+| Feb. 12  | Neural Nets (Part II), Learning theory, Kernels, PyTorch | [Week 6](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6.pdf), [Week 6 PyTorch](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
+| Feb. 19  | SVM | Week 7 |
