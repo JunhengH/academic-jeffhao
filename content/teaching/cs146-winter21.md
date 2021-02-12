@@ -65,9 +65,13 @@ caption = ""
 
 * <span style="color:blue">\[Jan. 29\]</span> Week 4's quiz due/close date and time: Jan 31, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Jan. 31 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Jan. 30\]</span> <span style="color:red">\[New\]</span> Problem set 2 has been released on CCLE on Jan. 30 and due on 11:59 PM PST, Feb 12. 
+* <span style="color:blue">\[Jan. 30\]</span> Problem set 2 has been released on CCLE on Jan. 30 and due on 11:59 PM PST, Feb 12. 
 
-* <span style="color:blue">\[Feb. 5\]</span> <span style="color:red">\[New\]</span> Week 5's quiz due/close date and time: Feb 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 7 and complete on GradeScope in time.
+* <span style="color:blue">\[Feb. 5\]</span> Week 5's quiz due/close date and time: Feb 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 7 and complete on GradeScope in time.
+
+* <span style="color:blue">\[Jan. 30\]</span> <span style="color:red">\[New\]</span> Problem set 3 has been released on CCLE on Feb. 12 and due on 11:59 PM PST, Feb 26. 
+
+* <span style="color:blue">\[Jan. 30\]</span> <span style="color:red">\[New\]</span> Week 6's quiz due/close date and time: Feb 14, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 14 and complete on GradeScope in time.
 
 
 ## Discussion Materials
@@ -79,3 +83,5 @@ caption = ""
 | Jan. 22 | Perceptron, Logistic Regression, Linear Models, Optimization | [Week 3](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week3.pdf) |
 | Jan. 29 | Logistic Regression, Linear Regression | [Week 4](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week4.pdf) |
 | Feb. 5  | Overfitting and regularization, Neural Nets (Part I) | [Week 5](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week5.pdf) |
+| Feb. 12  | Neural Nets (Part II), Learning theory, Kernals, PyTorch | [Week 6](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6.pdf), [PyTorch](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
+| Feb. 19  | TBD| Week 7 |
