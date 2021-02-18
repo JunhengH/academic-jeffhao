@@ -71,7 +71,9 @@ caption = ""
 
 * <span style="color:blue">\[Feb. 12\]</span> <span style="color:red">\[New\]</span> Problem set 3 has been released on CCLE on Feb. 12 and due on 11:59 PM PST, Feb 26. 
 
-* <span style="color:blue">\[Feb. 12\]</span> <span style="color:red">\[New\]</span> Week 6's quiz due/close date and time: Feb 14, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 14 and complete on GradeScope in time.
+* <span style="color:blue">\[Feb. 12\]</span> Week 6's quiz due/close date and time: Feb 14, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 14 and complete on GradeScope in time.
+
+* <span style="color:blue">\[Feb. 18\]</span> <span style="color:red">\[New\]</span> Week 7's quiz due/close date and time: Feb 21, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 21 and complete on GradeScope in time.
 
 
 ## Discussion Materials
