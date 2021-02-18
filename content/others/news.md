@@ -15,6 +15,9 @@ image = ""
 caption = ""
 +++
 
+### Year of 2021
+- <span style="color:blue">**[2021.01]**</span> PC member of [IJCAI 2021](https://ijcai-21.org/).
+
 ### Year of 2020
 - <span style="color:blue">**[2020.12]**</span> PC member of [ICML 2021](https://icml.cc/Conferences/2021).
 - <span style="color:blue">**[2020.11]**</span> PC member of [SDM 2021](https://www.siam.org/conferences/cm/conference/sdm21).

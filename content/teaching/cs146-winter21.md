@@ -84,4 +84,4 @@ caption = ""
 | Jan. 29 | Logistic Regression, Linear Regression | [Week 4](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week4.pdf) |
 | Feb. 5  | Overfitting and regularization, Neural Nets (Part I) | [Week 5](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week5.pdf) |
 | Feb. 12  | Neural Nets (Part II), Learning theory, Kernels, PyTorch | [Week 6](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6.pdf), [Week 6 PyTorch](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
-| Feb. 19  | SVM | Week 7 |
+| Feb. 19  | SVM [\[SVM Notes from Stanford\]](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [\[SVM Slides from NYU\]](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf) | [Week 7](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week7.pdf) |
