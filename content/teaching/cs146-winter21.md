@@ -17,7 +17,7 @@ caption = ""
 
 <span style="color:green"> **Note: This course is currently active and updated.** </span>
 
-<span style="color:red"> **CS M146 Final exam schedule: March 15, 2021.** Note that daylight saving time 2021 in California will begin at 2:00 AM on Sunday, March 14! </span>
+<span style="color:red"> **Reminder:** CS M146 (Winter 2021) Final exam is scheduled on March 15, 2021 (24h take-home exam). Note that daylight saving time 2021 in California will begin at 2:00 AM on Sunday, March 14. </span>
 
 
 ## Course Info
@@ -73,7 +73,9 @@ caption = ""
 
 * <span style="color:blue">\[Feb. 12\]</span> Week 6's quiz due/close date and time: Feb 14, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 14 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Feb. 18\]</span> <span style="color:red">\[New\]</span> Week 7's quiz due/close date and time: Feb 21, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 21 and complete on GradeScope in time.
+* <span style="color:blue">\[Feb. 18\]</span> Week 7's quiz due/close date and time: Feb 21, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 21 and complete on GradeScope in time.
+
+* <span style="color:blue">\[Feb. 26\]</span> <span style="color:red">\[New\]</span> Week 8's quiz due/close date and time: Feb 28, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 28 and complete on GradeScope in time.
 
 
 ## Discussion Materials
@@ -87,6 +89,6 @@ caption = ""
 | Feb. 5  | Overfitting and regularization, Neural Nets (Part I) | [Week 5](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week5.pdf) |
 | Feb. 12  | Neural Nets (Part II), Learning theory, Kernels, PyTorch | [Week 6](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6.pdf), [Week 6 PyTorch](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
 | Feb. 19  | SVM [\[SVM Notes from Stanford\]](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [\[SVM Slides from NYU\]](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf) | [Week 7](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week7.pdf) |
-| Feb. 26  | TBA | Week 8 |
-| Mar.  5  | TBA | Week 9 |
+| Feb. 26  | Ensemble Method, Multi-Class Classification, ML Evaluation | [Week 8](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week8.pdf) |
+| Mar. 5  | TBA | Week 9 |
 | Mar. 12  | TBA | Week 10 |
