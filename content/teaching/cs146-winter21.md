@@ -69,13 +69,19 @@ caption = ""
 
 * <span style="color:blue">\[Feb. 5\]</span> Week 5's quiz due/close date and time: Feb 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 7 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Feb. 12\]</span> <span style="color:red">\[New\]</span> Problem set 3 has been released on CCLE on Feb. 12 and due on 11:59 PM PST, Feb 26. 
+* <span style="color:blue">\[Feb. 12\]</span> Problem set 3 has been released on CCLE on Feb. 12 and due on 11:59 PM PST, Feb 26. 
 
 * <span style="color:blue">\[Feb. 12\]</span> Week 6's quiz due/close date and time: Feb 14, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 14 and complete on GradeScope in time.
 
 * <span style="color:blue">\[Feb. 18\]</span> Week 7's quiz due/close date and time: Feb 21, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 21 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Feb. 26\]</span> <span style="color:red">\[New\]</span> Week 8's quiz due/close date and time: Feb 28, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 28 and complete on GradeScope in time.
+* <span style="color:blue">\[Feb. 26\]</span> Week 8's quiz due/close date and time: Feb 28, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 28 and complete on GradeScope in time.
+
+* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Problem set 4 has been released on CCLE on Feb 26 and due on 11:59 PM PST, Mar 12. 
+
+* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Week 9's quiz due/close date and time: Mar 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Mar 7 and complete on GradeScope in time.
+
+* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Important updates on the final exam has been posted on Campuswire. Pleae check [here](https://campuswire.com/c/GB5E561C3/feed/437)!
 
 
 ## Discussion Materials
@@ -90,5 +96,5 @@ caption = ""
 | Feb. 12  | Neural Nets (Part II), Learning theory, Kernels, PyTorch | [Week 6](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6.pdf), [Week 6 PyTorch](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week6_PyTorch.pdf) |
 | Feb. 19  | SVM [\[SVM Notes from Stanford\]](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [\[SVM Slides from NYU\]](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf) | [Week 7](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week7.pdf) |
 | Feb. 26  | Ensemble Method, Multi-Class Classification, ML Evaluation | [Week 8](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week8.pdf) |
-| Mar. 5  | TBA | Week 9 |
-| Mar. 12  | TBA | Week 10 |
+| Mar. 5   | Naive bayes, Clustering (K-means, GMM) | [Week 9](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week9.pdf)|
+| Mar. 12  | PCA, HMM, Final review | [Week 10](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week10.pdf) |
