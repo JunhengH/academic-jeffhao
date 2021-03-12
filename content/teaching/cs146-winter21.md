@@ -79,9 +79,9 @@ caption = ""
 
 * <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Problem set 4 has been released on CCLE on Feb 26 and due on 11:59 PM PST, Mar 12. 
 
-* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Week 9's quiz due/close date and time: Mar 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Mar 7 and complete on GradeScope in time.
+* <span style="color:blue">\[Mar. 4\]</span> Week 9's quiz due/close date and time: Mar 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Mar 7 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Important updates on the final exam has been posted on Campuswire. Pleae check [here](https://campuswire.com/c/GB5E561C3/feed/437)!
+* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Final exam will be released on GradeScope, starting at 8:00 am PST, March 15. Important updates on the final exam has been posted on Campuswire. Pleae check [here](https://campuswire.com/c/GB5E561C3/feed/437)!
 
 
 ## Discussion Materials
@@ -97,4 +97,4 @@ caption = ""
 | Feb. 19  | SVM [\[SVM Notes from Stanford\]](https://see.stanford.edu/materials/aimlcs229/cs229-notes3.pdf), [\[SVM Slides from NYU\]](http://people.csail.mit.edu/dsontag/courses/ml13/slides/lecture6.pdf) | [Week 7](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week7.pdf) |
 | Feb. 26  | Ensemble Method, Multi-Class Classification, ML Evaluation | [Week 8](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week8.pdf) |
 | Mar. 5   | Naive bayes, Clustering (K-means, GMM) | [Week 9](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week9.pdf)|
-| Mar. 12  | PCA, HMM, Final review | [Week 10](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week10.pdf) |
+| Mar. 12  | PCA, HMM, Final Q&A | [Week 10](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week10.pdf) |
