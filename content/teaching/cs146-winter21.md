@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:green"> **Note: This course is currently active. Updates will be distinuted after Friday, March 19.** </span>
+<span style="color:green"> **Note: This course is currently active. Updates will be discontinuted after Friday, March 19.** </span>
 
 
 ## Course Info
@@ -81,7 +81,7 @@ caption = ""
 
 * <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> Practice questions for final together with the solutions are available on CCLE, under the tab of "Week 10" section.
 
-* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> Final exam will be released on GradeScope, starting at 8:00 am PST, March 15 and closed at 8:00 am PST, March 16. Important updates on the final exam has been posted on Campuswire. Pleae check [Post #437](https://campuswire.com/c/GB5E561C3/feed/437) and [Post #525](https://campuswire.com/c/GB5E561C3/feed/437)!
+* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> Final exam will be released on GradeScope, starting at 8:00 am PST, March 15 and closed at 8:00 am PST, March 16. Important updates on the final exam has been posted on Campuswire. Pleae check [Post #437](https://campuswire.com/c/GB5E561C3/feed/437) and [Post #525](https://campuswire.com/c/GB5E561C3/feed/525)!
 
 * <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> The course will be closed on Friday, March 19. Thanks for everyone's participation. Have a safe and enjoyable spring break!
 
@@ -100,4 +100,4 @@ caption = ""
 | Feb. 26  | Ensemble Method, Multi-Class Classification, ML Evaluation | [Week 8](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week8.pdf) |
 | Mar. 5   | Naive bayes, Clustering (K-means, GMM) | [Week 9](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week9.pdf)|
 | Mar. 12  | PCA, HMM, Final Q&A | [Week 10](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week10.pdf) |
-| Mar. 14  | Final exam preparation and practice  | [Discussion slides collection](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Collection.pdf) |
+| Mar. 14  | Final exam preparation and practice (Practice exam and solution available on CCLE)  | [Discussion slides collection](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Collection.pdf) |
