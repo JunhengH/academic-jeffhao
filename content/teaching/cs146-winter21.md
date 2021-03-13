@@ -15,9 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:green"> **Note: This course is currently active and updated.** </span>
-
-<span style="color:red"> **Reminder:** CS M146 (Winter 2021) Final exam is scheduled on March 15, 2021 (24h take-home exam). Note that daylight saving time 2021 in California will begin at 2:00 AM on Sunday, March 14. </span>
+<span style="color:green"> **Note: This course is currently active. Updates will be distinuted after Friday, March 19.** </span>
 
 
 ## Course Info
@@ -77,11 +75,15 @@ caption = ""
 
 * <span style="color:blue">\[Feb. 26\]</span> Week 8's quiz due/close date and time: Feb 28, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Feb. 28 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Problem set 4 has been released on CCLE on Feb 26 and due on 11:59 PM PST, Mar 12. 
+* <span style="color:blue">\[Mar. 4\]</span> Problem set 4 has been released on CCLE on Feb 26 and due on 11:59 PM PST, Mar 12. 
 
 * <span style="color:blue">\[Mar. 4\]</span> Week 9's quiz due/close date and time: Mar 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Mar 7 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Mar. 4\]</span> <span style="color:red">\[New\]</span> Final exam will be released on GradeScope, starting at 8:00 am PST, March 15. Important updates on the final exam has been posted on Campuswire. Pleae check [here](https://campuswire.com/c/GB5E561C3/feed/437)!
+* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> Practice questions for final together with the solutions are available on CCLE, under the tab of "Week 10" section.
+
+* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> Final exam will be released on GradeScope, starting at 8:00 am PST, March 15 and closed at 8:00 am PST, March 16. Important updates on the final exam has been posted on Campuswire. Pleae check [Post #437](https://campuswire.com/c/GB5E561C3/feed/437) and [Post #525](https://campuswire.com/c/GB5E561C3/feed/437)!
+
+* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> The course will be closed on Friday, March 19. Thanks for everyone's participation. Have a safe and enjoyable spring break!
 
 
 ## Discussion Materials
@@ -98,3 +100,4 @@ caption = ""
 | Feb. 26  | Ensemble Method, Multi-Class Classification, ML Evaluation | [Week 8](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week8.pdf) |
 | Mar. 5   | Naive bayes, Clustering (K-means, GMM) | [Week 9](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week9.pdf)|
 | Mar. 12  | PCA, HMM, Final Q&A | [Week 10](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Week10.pdf) |
+| Mar. 14  | Final exam preparation and practice  | [Discussion slides collection](https://www.haojunheng.com/files/cs146-w21/CSM146Dis1C_Collection.pdf) |
