@@ -15,7 +15,7 @@ image = ""
 caption = ""
 +++
 
-<span style="color:green"> **Note: This course is currently active. Updates will be discontinuted after Friday, March 19.** </span>
+<span style="color:red"> **Note: This course is no longer updated since March 19, 2021. Slides for my discussion sessions are still publicly available in this webpage.** </span>
 
 
 ## Course Info
@@ -25,8 +25,6 @@ caption = ""
 * Instructor: [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/)
 
 * Lecture time & location: Lec 1, Monday/Wednesday 12-1:50PM (Los Angeles), Online (Recorded, Zoom links provided for enrolled students).
-
-* Course website: TBA
 
 * Zoom Link: Please find on CCLE for enrolled students.
 
@@ -79,11 +77,11 @@ caption = ""
 
 * <span style="color:blue">\[Mar. 4\]</span> Week 9's quiz due/close date and time: Mar 7, 2021 (Sunday) 11:59 PM PST. Please start the quiz before 11:00 PM PST, Mar 7 and complete on GradeScope in time.
 
-* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> Practice questions for final together with the solutions are available on CCLE, under the tab of "Week 10" section.
+* <span style="color:blue">\[Mar. 13\]</span> Practice questions for final together with the solutions are available on CCLE, under the tab of "Week 10" section.
 
-* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> Final exam will be released on GradeScope, starting at 8:00 am PST, March 15 and closed at 8:00 am PST, March 16. Important updates on the final exam has been posted on Campuswire. Pleae check [Post #437](https://campuswire.com/c/GB5E561C3/feed/437) and [Post #525](https://campuswire.com/c/GB5E561C3/feed/525)!
+* <span style="color:blue">\[Mar. 13\]</span>  Final exam will be released on GradeScope, starting at 8:00 am PST, March 15 and closed at 8:00 am PST, March 16. Important updates on the final exam has been posted on Campuswire. Pleae check [Post #437](https://campuswire.com/c/GB5E561C3/feed/437) and [Post #525](https://campuswire.com/c/GB5E561C3/feed/525)!
 
-* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[New\]</span> The course will be closed on Friday, March 19. Thanks for everyone's participation. Have a safe and enjoyable spring break!
+* <span style="color:blue">\[Mar. 13\]</span> <span style="color:red">\[Course closure\]</span> The course will be closed on Friday, March 19. Thanks for everyone's participation. Have a safe and enjoyable spring break!
 
 
 ## Discussion Materials
