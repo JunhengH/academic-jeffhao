@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-* **Junheng Hao**, Chuan Lei, Vasilis Efthymiou, Abdul Quamar, Fatma Ozcan, Yizhou Sun, and Wei Wang. "MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks". In the 25th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019. [**\[Project Page\]**](https://www.haojunheng.com/project/medto/)
+* **Junheng Hao**, Chuan Lei, Vasilis Efthymiou, Abdul Quamar, Fatma Ozcan, Yizhou Sun, and Wei Wang. "MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks". In the 27th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021. [**\[Project Page\]**](https://www.haojunheng.com/project/medto/)
 
 * Jyun-Yu Jiang, Chelsea J.-T. Ju, **Junheng Hao**, Muhao Chen and Wei Wang. JEDI: Circular RNA Prediction based on Junction Encoders and Deep Interaction among Splice Sites. In Proceedings of The 29th annual international conference on Intelligent Systems for Molecular Biology and The 20th annual European Conference on Computational Biology (ISMB/ECCB 2021). Bioinformatics, OUP, 2021. [**\[Preprint\]**](https://www.biorxiv.org/content/10.1101/2020.02.03.932038v3) [**\[Code\]**](https://github.com/hallogameboy/JEDI)
 
