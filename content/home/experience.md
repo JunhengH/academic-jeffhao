@@ -26,6 +26,9 @@ date_format = "January 2006"
   location = "San Jose, CA"
   date_start = "2020-06-22"
   date_end = "2020-09-11"
+  description = """
+  Project: GNN-based Ontology matching on medical ontologies and databases
+  """
 
 [[experience]]
   title = "Applied Scientist Intern"

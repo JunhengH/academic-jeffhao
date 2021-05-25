@@ -16,10 +16,12 @@ caption = ""
 +++
 
 ### Year of 2021
+- <span style="color:blue">**[2021.05]**</span> One paper accepted at [KDD 2021 (Applied Data Science Track)](https://www.kdd.org/kdd2021).
+- <span style="color:blue">**[2021.05]**</span> Volunteer at [ICLR 2021](https://iclr.cc/Conferences/2021). [\[Volunteer Certificate\]](https://www.haojunheng.com/files/others/ICLR21_Certificate.pdf)
 - <span style="color:blue">**[2021.04]**</span> One paper accepted at [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).
 - <span style="color:blue">**[2021.03]**</span> Continuing serving as PC member of [ECML-PKDD 2021](https://2021.ecmlpkdd.org/).
 - <span style="color:blue">**[2021.02]**</span> PC member of Workshop on Self-Supervised Learning for the Web [SSL@WWW2021](https://www.aminer.cn/ssl_www2021).
-- <span style="color:blue">**[2021.01]**</span> PC member of [IJCAI 2021](https://ijcai-21.org/).
+- <span style="color:blue">**[2021.01]**</span> PC member of [IJCAI 2021](https://ijcai-21.org/). [\[Reviewer Certificate\]](https://www.haojunheng.com/files/others/IJCAI21_ReviewerCertificate.pdf)
 
 ### Year of 2020
 - <span style="color:blue">**[2020.12]**</span> PC member of [ICML 2021](https://icml.cc/Conferences/2021).
