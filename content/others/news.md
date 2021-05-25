@@ -17,6 +17,7 @@ caption = ""
 
 ### Year of 2021
 - <span style="color:blue">**[2021.05]**</span> One paper accepted at [KDD 2021 (Applied Data Science Track)](https://www.kdd.org/kdd2021).
+- <span style="color:blue">**[2021.05]**</span> PC member of [CIKM 2021](https://www.cikm2021.org/).
 - <span style="color:blue">**[2021.05]**</span> Volunteer at [ICLR 2021](https://iclr.cc/Conferences/2021). [\[Volunteer Certificate\]](https://www.haojunheng.com/files/others/ICLR21_Certificate.pdf)
 - <span style="color:blue">**[2021.04]**</span> One paper accepted at [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).
 - <span style="color:blue">**[2021.03]**</span> Continuing serving as PC member of [ECML-PKDD 2021](https://2021.ecmlpkdd.org/).
@@ -35,7 +36,7 @@ caption = ""
 - <span style="color:blue">**[2020.07]**</span> One [applied research track paper](https://www.amazon.science/blog/improving-complementary-product-recommendations) accepted at [CIKM 2020](https://cikm2020.org/).
 - <span style="color:blue">**[2020.07]**</span> One regular paper accepted at [ACM BCB 2020](https://acm-bcb.org/2020/index.php).
 - <span style="color:blue">**[2020.07]**</span> Attending [ACL'20](https://acl2020.org/), [ICML'20](https://icml.cc/), [ISMB'20](https://www.iscb.org/ismb2020) online.
-- <span style="color:blue">**[2020.06]**</span> Start my summer internship as a research intern at [IBM Research AI](https://www.research.ibm.com/)(Big Data Integration).
+- <span style="color:blue">**[2020.06]**</span> Start my summer internship as a research intern at [IBM Research AI](https://www.research.ibm.com/) (Big Data Integration/Scalable Knowledge Intelligence).
 - <span style="color:blue">**[2020.05]**</span> Reviewer of [ACM Transactions on Intelligent Systems and Technology (TIST)](https://dl.acm.org/journal/tist).
 - <span style="color:blue">**[2020.04]**</span> PC member of [KDD 2020](https://www.kdd.org/kdd2020/) (Research Track).
 - <span style="color:blue">**[2020.04]**</span> PC member of the [AACL-IJCNLP 2020](http://aacl2020.org/).
