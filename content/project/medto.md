@@ -30,4 +30,4 @@ Medical ontologies are widely used to describe and organize medical terminologie
 
 **Date:** August, 2021
 
-**Links:** PDF, Code (Github)
+**Links:** [Paper (ACM Library)](https://dl.acm.org/doi/10.1145/3447548.3467138), [PDF](https://www.haojunheng.com/files/pubs/KDD21_MEDTO.pdf), [Slides](https://www.haojunheng.com/files/pubs/KDD21_MEDTO_Slides.pdf), [Poster](https://www.haojunheng.com/files/pubs/KDD21_MEDTO_Poster.pdf), [Video](https://drive.google.com/file/d/1XIJU0k17xGe0fQwuLBxHHZby3pTlQVgq/view?usp=sharing)

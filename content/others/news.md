@@ -18,7 +18,7 @@ caption = ""
 ### Year of 2021
 - <span style="color:blue">**[2021.07]**</span> Invited as PC board member of IJCAI-ECAI (2022-2024).
 - <span style="color:blue">**[2021.07]**</span> Offered [ICML 2021](https://icml.cc/) Participation Grant. 
-- <span style="color:blue">**[2021.06]**</span> Start my summer (remote) internship as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/). 
+- <span style="color:blue">**[2021.06]**</span> Start my summer (remote) internship as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), collaborating with scientists and researchers at [MSAI](https://www.microsoft.com/en-us/research/group/msai/). 
 - <span style="color:blue">**[2021.05]**</span> One paper accepted at [KDD 2021 (Applied Data Science Track)](https://www.kdd.org/kdd2021).
 - <span style="color:blue">**[2021.05]**</span> PC member of [CIKM 2021](https://www.cikm2021.org/).
 - <span style="color:blue">**[2021.05]**</span> Volunteer at [ICLR 2021](https://iclr.cc/Conferences/2021). [\[Volunteer Certificate\]](https://www.haojunheng.com/files/others/ICLR21_Certificate.pdf)
