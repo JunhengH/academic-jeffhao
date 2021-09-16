@@ -21,7 +21,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Microsoft Research Redmond, MSAI
+  company = "Microsoft Research Redmond, MSAI"
   company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/"
   location = "Redmond, WA"
   date_start = "2021-06-21"
