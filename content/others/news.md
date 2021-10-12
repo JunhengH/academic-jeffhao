@@ -16,6 +16,8 @@ caption = ""
 +++
 
 ### Year of 2021
+- <span style="color:blue">**[2021.11]**</span> Attending EMNLP 2022 online. Look forward to learning more KG research and discussion! 
+- <span style="color:blue">**[2021.10]**</span> Continuing PC member of AAAI and ICLR 2022. 
 - <span style="color:blue">**[2021.07]**</span> Invited as PC board member of IJCAI-ECAI (2022-2024).
 - <span style="color:blue">**[2021.07]**</span> Offered [ICML 2021](https://icml.cc/) Participation Grant. 
 - <span style="color:blue">**[2021.06]**</span> Start my summer (remote) internship as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), collaborating with scientists and researchers at [MSAI](https://www.microsoft.com/en-us/research/group/msai/). 
