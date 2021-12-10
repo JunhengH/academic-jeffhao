@@ -16,6 +16,7 @@ caption = ""
 +++
 
 ### Year of 2021
+- <span style="color:blue">**[2021.12]**</span> Gave an invited [tech talk](https://www.haojunheng.com/files/talks/coupang.pdf) at Coupang (Search and recommendation team), hosted by Dong Wang and Winter Wang. 
 - <span style="color:blue">**[2021.11]**</span> Attending [CIKM 2021](https://www.cikm2021.org/) (thanks to SIGWEB and CIKM) and [EMNLP 2021](https://2021.emnlp.org/) online. Look forward to learning more KG research and discussion!
 - <span style="color:blue">**[2021.10]**</span> Serving PC member of [WWW](https://www2022.thewebconf.org/), [AAAI](https://aaai.org/Conferences/AAAI-22/) and [ICLR 2022](https://iclr.cc/Conferences/2022). 
 - <span style="color:blue">**[2021.07]**</span> Invited as PC board member of IJCAI-ECAI (2022-2024).
