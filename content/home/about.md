@@ -41,6 +41,7 @@ I am currently a fifth-year PhD candidate in [Scalable Analytics Institute](http
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
+- <span style="color:blue">[2021.06]</span> Start my summer internship as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), collaborating with scientists and researchers at [MSAI](https://www.microsoft.com/en-us/research/group/msai/).  
 - <span style="color:blue">[2021.05]</span> One paper accepted at [KDD 2021](https://www.kdd.org/kdd2021) (Applied Data Science Track).
 - <span style="color:blue">[2021.04]</span> One paper accepted at [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021).
 - <span style="color:blue">[2020.10]</span> Promoted to Teaching Associate.
