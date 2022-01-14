@@ -16,7 +16,9 @@ caption = ""
 +++
 
 ### Year of 2022
-- <span style="color:blue">**[2022.01]**</span> <span style="color:red"> I'm on the job market this year (open to Researcher, Reserach scientist, Applied Scientist, etc). Feel free to contact me about career opportunities. </span> 
+- <span style="color:blue">**[2022.01]**</span> <span style="color:red"> I'm on the job market this year (open to Researcher, Reserach scientist, Applied Scientist, etc). Feel free to contact me about career opportunities. </span>
+- <span style="color:blue">**[2022.01]**</span> One paper accepted at [WWW 2022](https://www2022.thewebconf.org/). 
+- <span style="color:blue">**[2022.01]**</span> Serving as Reviewer of ACL Rolling Review ([ARR 2022](https://aclrollingreview.org/)).
 
 ### Year of 2021
 - <span style="color:blue">**[2021.12]**</span> Gave an invited [tech talk](https://www.haojunheng.com/files/talks/coupang.pdf) at Coupang (Search and recommendation team), hosted by Dong Wang and Winter Wang. 

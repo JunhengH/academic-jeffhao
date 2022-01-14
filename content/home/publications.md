@@ -36,6 +36,8 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+* Yu Zhang, Zhihong Shen, Chieh-Han Wu, Boya Xie, Junheng Hao, Ye-Yi Wang, Kuansan Wang, and Jiawei Han. Metadata-Induced Contrastive Learning for Zero-Shot Extreme Multi-Label Text Classification. In the Web Conference 2022.
+
 * **Junheng Hao**, Chuan Lei, Vasilis Efthymiou, Abdul Quamar, Fatma Ozcan, Yizhou Sun, and Wei Wang. "[MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks](https://dl.acm.org/doi/10.1145/3447548.3467138)". In the 27th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021. [**\[Project Page\]**](https://www.haojunheng.com/project/medto/)
 
 * Jyun-Yu Jiang, Chelsea J.-T. Ju, **Junheng Hao**, Muhao Chen and Wei Wang. "[JEDI: Circular RNA Prediction based on Junction Encoders and Deep Interaction among Splice Sites](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i289/6319680)" In Proceedings of The 29th annual international conference on Intelligent Systems for Molecular Biology and The 20th annual European Conference on Computational Biology (ISMB/ECCB 2021). Bioinformatics, OUP, 2021. [**\[Code\]**](https://github.com/hallogameboy/JEDI)
