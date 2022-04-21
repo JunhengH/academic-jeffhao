@@ -242,10 +242,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:jhao@cs.ucla.edu"
 
-  [[params.social]]
-    icon = "facebook"
-    icon_pack = "fab"
-    link = "https://www.facebook.com/jeffhao.ucla"
+  #[[params.social]]
+  #  icon = "facebook"
+  #  icon_pack = "fab"
+  #  link = "https://www.facebook.com/jeffhao.ucla"
 
   [[params.social]]
     icon = "linkedin"
@@ -272,7 +272,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/cv_folder/Junheng_PureCV.pdf"
+     link = "files/cv_folder/Junheng_PublicCV.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

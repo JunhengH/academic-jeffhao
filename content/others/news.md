@@ -16,7 +16,8 @@ caption = ""
 +++
 
 ### Year of 2022
-- <span style="color:blue">**[2022.01]**</span> <span style="color:red"> I'm on the job market this year (open to Researcher, Reserach scientist, Applied Scientist, etc). Feel free to contact me about career opportunities. </span>
+- <span style="color:blue">**[2022.03]**</span> <span style="color:red"> I'm on the job market this year (open to Researcher, Reserach scientist, Applied Scientist, etc). Feel free to contact me about career opportunities. </span>
+- <span style="color:blue">**[2022.02]**</span> Continuing serving program committee at NeruIPS 2022, ECML-PKDD 2022, IJCAI/IJCAI AI for Good Track. 
 - <span style="color:blue">**[2022.01]**</span> One paper accepted at [WWW 2022](https://www2022.thewebconf.org/). 
 - <span style="color:blue">**[2022.01]**</span> Serving as Reviewer of ACL Rolling Review ([ARR 2022](https://aclrollingreview.org/)).
 
@@ -24,6 +25,7 @@ caption = ""
 - <span style="color:blue">**[2021.12]**</span> Gave an invited [tech talk](https://www.haojunheng.com/files/talks/coupang.pdf) at Coupang (Search and recommendation team), hosted by Dong Wang and Winter Wang. 
 - <span style="color:blue">**[2021.11]**</span> Attending [CIKM 2021](https://www.cikm2021.org/) (thanks to SIGWEB and CIKM) and [EMNLP 2021](https://2021.emnlp.org/) online. Look forward to learning more KG research and discussion!
 - <span style="color:blue">**[2021.10]**</span> Serving PC member of [WWW](https://www2022.thewebconf.org/), [AAAI](https://aaai.org/Conferences/AAAI-22/) and [ICLR 2022](https://iclr.cc/Conferences/2022). 
+- <span style="color:blue">**[2021.08]**</span> Gave a [seminar talk](ttps://www.haojunheng.com/files/talks/GLS_MSAI.pdf) at MSAI Graph Learning Session named "Knowledge Graph with Ontology and Applications." 
 - <span style="color:blue">**[2021.07]**</span> Invited as PC board member of IJCAI-ECAI (2022-2024).
 - <span style="color:blue">**[2021.07]**</span> Offered [ICML 2021](https://icml.cc/) Participation Grant. 
 - <span style="color:blue">**[2021.06]**</span> Start my summer (remote) internship as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), collaborating with scientists and researchers at [MSAI](https://www.microsoft.com/en-us/research/group/msai/). 
