@@ -36,6 +36,8 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+* Lu-An Tang, Yizhou Sun, Zhengzhang Chen, Haifeng Chen, Junghwan Rhee, Zhichun Li and Wei Wang. "[Multi-source Inductive Knowledge Graph Transfer](https://2022.ecmlpkdd.org/)". To appear in Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2022.
+
 * Yu Zhang, Zhihong Shen, Chieh-Han Wu, Boya Xie, **Junheng Hao**, Ye-Yi Wang, Kuansan Wang, and Jiawei Han. "[Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification](https://arxiv.org/abs/2202.05932)". In the Web Conference 2022. 
 
 * **Junheng Hao**, Chuan Lei, Vasilis Efthymiou, Abdul Quamar, Fatma Ozcan, Yizhou Sun, and Wei Wang. "[MEDTO: Medical Data to Ontology Matching using Hybrid Graph Neural Networks](https://dl.acm.org/doi/10.1145/3447548.3467138)". In the 27th International ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021. [**\[Project Page\]**](https://www.haojunheng.com/project/medto/)
