@@ -36,7 +36,7 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-* Lu-An Tang, Yizhou Sun, Zhengzhang Chen, Haifeng Chen, Junghwan Rhee, Zhichun Li and Wei Wang. "[Multi-source Inductive Knowledge Graph Transfer](https://2022.ecmlpkdd.org/)". To appear in Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2022.
+* **Junheng Hao**, Lu-An Tang, Yizhou Sun, Zhengzhang Chen, Haifeng Chen, Junghwan Rhee, Zhichun Li and Wei Wang. "[Multi-source Inductive Knowledge Graph Transfer](https://2022.ecmlpkdd.org/)". To appear in Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2022.
 
 * Yu Zhang, Zhihong Shen, Chieh-Han Wu, Boya Xie, **Junheng Hao**, Ye-Yi Wang, Kuansan Wang, and Jiawei Han. "[Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification](https://arxiv.org/abs/2202.05932)". In the Web Conference 2022. 
 
