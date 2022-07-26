@@ -16,8 +16,8 @@ caption = ""
 +++
 
 ### Year of 2022
+- <span style="color:blue">**[2022.07]**</span> ICML registration award for top 10% reviewer (virtually attending ICML2022)! 
 - <span style="color:blue">**[2022.06]**</span> One paper accepted at [ECML-PKDD 2022](https://2022.ecmlpkdd.org/).
-- <span style="color:blue">**[2022.05]**</span> <span style="color:red"> I'm on the job market this year (open to Researcher, Reserach scientist, Applied Scientist, etc). Feel free to contact me about career opportunities. </span>
 - <span style="color:blue">**[2022.02]**</span> Continuing serving program committee at NeruIPS 2022, ECML-PKDD 2022, IJCAI/IJCAI AI for Good Track. 
 - <span style="color:blue">**[2022.01]**</span> One paper accepted at [WWW 2022](https://www2022.thewebconf.org/). 
 - <span style="color:blue">**[2022.01]**</span> Serving as Reviewer of ACL Rolling Review ([ARR 2022](https://aclrollingreview.org/)).
