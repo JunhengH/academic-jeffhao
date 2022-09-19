@@ -16,7 +16,7 @@ caption = ""
 +++
 
 ### Year of 2022
-- <span style="color:blue">**[2022.08]**</span> I passed my doctoral defense! :mortar_board::star_struck::partying_face:
+- <span style="color:blue">**[2022.08]**</span> I passed my doctoral defense! :mortar_board:
 - <span style="color:blue">**[2022.07]**</span> ICML registration award for top 10% reviewer (virtually attending ICML2022)! 
 - <span style="color:blue">**[2022.06]**</span> One paper accepted at [ECML-PKDD 2022](https://2022.ecmlpkdd.org/).
 - <span style="color:blue">**[2022.02]**</span> Continuing serving program committee at NeruIPS 2022, ECML-PKDD 2022, IJCAI/IJCAI AI for Good Track. 
