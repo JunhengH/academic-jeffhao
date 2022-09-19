@@ -41,7 +41,7 @@ I am currently a final-year PhD candidate in [Scalable Analytics Institute](http
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
-- <span style="color:blue">[2022.08]</span> I passed my doctoral defense!
+- <span style="color:blue">[2022.08]</span> I passed my doctoral defense! :mortar_board: :star_struck: :partying_face:
 - <span style="color:blue">[2022.07]</span> ICML registration award for top 10% reviewer (virtually attending ICML2022)! 
 - <span style="color:blue">[2022.06]</span> One paper accepted at [ECML-PKDD 2022](https://2022.ecmlpkdd.org/).
 - <span style="color:blue">[2022.01]</span> Serving reviewer/PC member of ACL Rolling Review, ICML and NeurIPS. 
