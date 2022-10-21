@@ -21,10 +21,10 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Researcher"
-  company = "Microsoft"
+  company = "Microsoft Azure Cognitive Services Research"
   company_url = "https://www.microsoft.com/en-us/research/group/knowledge-and-language/"
   location = "Bellevue, WA"
-  date_start = "2021-06-21"
+  date_start = "2022-10-10"
   description = """
   Research areas: Knowledge graph, Multimodal AI, NLP
   """
