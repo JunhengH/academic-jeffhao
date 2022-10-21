@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Knowledge Graph",
     "Graph Mining",
-    "Natural Language Processing"
+    "Natural Language Processing",
     "Multimodal AI"
   ]
 
