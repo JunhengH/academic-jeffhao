@@ -16,6 +16,7 @@ caption = ""
 +++
 
 ### Year of 2022
+- <span style="color:blue">**[2022.08]**</span> I joined Microsoft as a researcher at [Knowledge and Language Team](https://www.microsoft.com/en-us/research/group/knowledge-and-language/) of [Azure Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/). 
 - <span style="color:blue">**[2022.08]**</span> I passed my doctoral defense! :mortar_board:
 - <span style="color:blue">**[2022.07]**</span> ICML registration award for top 10% reviewer (virtually attending ICML2022)! 
 - <span style="color:blue">**[2022.06]**</span> One paper accepted at [ECML-PKDD 2022](https://2022.ecmlpkdd.org/).

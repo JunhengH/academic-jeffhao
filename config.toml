@@ -52,18 +52,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Junheng Hao 郝浚珩"
-  role = "CS PhD Candidate"
+  role = "Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "UCLA", url = "" } ]
+  organizations = [ { name = "Microsoft", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "newself.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jhao [AT] cs.ucla.edu"
-  address = "Room 3551A, Boelter Hall, 580 Portola Plaza, Los Angeles, CA 90095"
+  email = "junhenghao [AT] microsoft [DOT] com"
+  #address = "Microsoft Bravern 2, 11025 NE 8th St, Bellevue, WA 98004"
   #office_hours = "Wednesdays 9:30am-11:30am & Fridays 9:00am-10:00am (CS145 Office Hours, Fall 2020)"
   #phone = "888 888 88 88"
   #skype = "echo123"
