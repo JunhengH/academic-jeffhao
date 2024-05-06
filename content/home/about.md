@@ -36,6 +36,8 @@ I am currently a [researcher](https://www.microsoft.com/en-us/research/people/ju
 Before coming to UCLA, I graduated in 2017 from [Department of Automation](http://www.au.tsinghua.edu.cn/publish/auen/index.html), School of Information Science and Technology, [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 ### News
+- <span style="color:blue">[2024.01]</span> Our family of open model **Phi-3** has been released! Read our blog and technical report here: [Introduction to Phi-3 Model](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/), [Technical Report](https://export.arxiv.org/abs/2404.14219), [Blog](https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/?ocid=FY24_soc_omc_br_li_Phi3)
+- <span style="color:blue">[2024.01]</span> I joined Microsoft as a researcher at Microsoft GenAI team, working on highly capable and cost-effective language models.
 - <span style="color:blue">[2022.10]</span> I joined Microsoft as a researcher at [Knowledge and Language Team](https://www.microsoft.com/en-us/research/group/knowledge-and-language/) of [Azure Cognitive Services Research Group](https://www.microsoft.com/en-us/research/group/cognitive-services-research/). 
 - <span style="color:blue">[2022.08]</span> I passed my doctoral defense! :mortar_board:
 - <span style="color:blue">[2022.06]</span> One paper accepted at [ECML-PKDD 2022](https://2022.ecmlpkdd.org/). 

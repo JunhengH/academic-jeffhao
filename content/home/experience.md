@@ -21,12 +21,12 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Researcher"
-  company = "Microsoft Azure Cognitive Services Research"
+  company = "Microsoft GenAI"
   company_url = "https://www.microsoft.com/en-us/research/group/knowledge-and-language/"
-  location = "Bellevue, WA"
+  location = "Redmond, WA"
   date_start = "2022-10-10"
   description = """
-  Research areas: Knowledge graph, Multimodal AI, NLP
+  Research areas: Large Language Models, NLP, Knowledge graph
   """
 
 [[experience]]
